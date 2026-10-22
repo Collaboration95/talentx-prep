@@ -62,6 +62,7 @@ def build():
     (guru / 'manifest.webmanifest').write_text(json.dumps(manifest) + '\n')
     shared_event = copy.deepcopy(event)
     shared_event.pop('plan')
+    shared_event.pop('plan_summary', None)
     (ROOT / 'data/shared-event.json').write_text(json.dumps(shared_event, indent=2, ensure_ascii=False) + '\n')
     shared_companies = copy.deepcopy(companies)
     overrides = read('research/shared-overrides.json')

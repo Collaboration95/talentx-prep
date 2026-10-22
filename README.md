@@ -52,3 +52,5 @@ The owner explicitly authorised sharing derived event information and personal r
 Offline support saves the application shell automatically. Use **Prep kit → Save guide offline** in the shared view, or **Save guide + CVs offline** under `/guru/` to include personal downloads on that device. External career portals require internet. Offline data can be removed by the browser; downloaded files and exported notes provide independent backups.
 
 Research checked on 22 October 2026, Asia/Singapore (UTC+08:00). Listings can close or change; follow the source before applying. No applications or employer messages are sent by this website.
+
+The personal My day route now defaults to a short 09:25–10:20 qualification visit. My targets records the evidence that formal interviews occur after the event, attendance-policy uncertainty, hiring signals and conditional Rezonate extension. The old full-morning route is retained only as historical context in personal strategy data.

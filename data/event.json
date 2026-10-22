@@ -163,93 +163,61 @@
   ],
   "plan": [
     {
-      "time": "09:00–09:30",
-      "title": "Register and check signage",
-      "location": "NUS-ISS · registration",
-      "detail": "Collect the physical Talent Passport. Confirm today’s rooms and any programme changes."
+      "time": "09:25–09:30",
+      "title": "Check in and qualify attendance",
+      "location": "Registration / NUS-ISS staff",
+      "detail": "Is full attendance or the two-talk instruction compulsory for my programme, or is it only the passport/lunch challenge? Which company representatives here can shortlist engineering candidates? Is Rezonate’s engineering or hiring representative available before 11:30? Check-in timing is a recommendation and depends on the queue."
     },
     {
       "time": "09:30–09:43",
       "title": "Ailytics",
       "location": "Level 3 · BISStro",
-      "detail": "Lead with BugRaid deployments and Primech IoT. Qualify junior DevOps, networking expectations, non-credit placement and EP support.",
+      "detail": "Ask about the junior DevOps role, engineering ownership, practical networking expectations and the required placement/work-pass route. Seek a named technical follow-up.",
       "companies": [
         "ailytics"
       ]
     },
     {
-      "time": "09:43–09:56",
+      "time": "09:43–09:55",
       "title": "Ajentik AI",
       "location": "Level 3 · BISStro",
-      "detail": "Ask about a funded AI/backend internship with one owned deliverable. Use TalkToIt and ResearchAgent; clarify sponsorship early.",
+      "detail": "Find out whether a funded junior or internship project exists. Lead with TalkToIt and ResearchAgent; move on if it is only an unspecified expression of interest.",
       "companies": [
         "ajentik-ai"
       ]
     },
     {
-      "time": "09:56–10:00",
-      "title": "Move to Beacon",
-      "location": "Level 4",
-      "detail": "Allow the floor change; if a queue has delayed you, leave with a contact instead of missing the talk."
+      "time": "09:55–10:00",
+      "title": "Move to Level 4",
+      "location": "WISSdom Park",
+      "detail": "Allow travel and queue time. Swap the first two booths if one has a long queue."
     },
     {
-      "time": "10:00–10:30",
-      "title": "SAP Fioneer sharing session",
-      "location": "Level 4 · Beacon",
-      "detail": "First presentation sticker. Ask which project is genuinely engineering-led, and whether the verified BA internship offers technical implementation.",
-      "talk": "sap-fioneer"
-    },
-    {
-      "time": "10:30–10:45",
+      "time": "10:00–10:15",
       "title": "Fano Labs",
       "location": "Level 4 · WISSdom Park",
-      "detail": "Discuss the four-month late-October intake. Ask how much is coding/POC evaluation versus presales, then confirm work-pass support.",
+      "detail": "Qualify the four-month internship, implementation-versus-presales split, non-credit/work-pass route and person who owns shortlisting.",
       "companies": [
         "fano-labs"
       ]
     },
     {
-      "time": "10:45–11:00",
-      "title": "Keysight",
-      "location": "Level 4 · WISSdom Park",
-      "detail": "Ask about EDA requisition 54397, the electronics learning gap and any successor software/AI automation roles. Do not use expired 54365 as an active lead.",
-      "companies": [
-        "keysight-technologies"
-      ]
+      "time": "10:15–10:20",
+      "title": "Exit decision",
+      "location": "Finish notes / leave if no concrete next step needs you",
+      "detail": "At about 10:15, leave once the three core conversations are complete and you have the available next steps. By about 10:20, leave unless a relevant hiring person has agreed to a specific near-term conversation or staff confirm an attendance obligation. Do not add booths or talks just to earn lunch."
     },
     {
-      "time": "11:00–11:12",
-      "title": "Yokogawa · fifth booth / backup",
-      "location": "Level 4 · WISSdom Park",
-      "detail": "A short qualification conversation on industrial software/data projects. If no suitable opening or sponsor route, end early. Five planned booths now complete.",
-      "companies": [
-        "yokogawa-engineering"
-      ]
-    },
-    {
-      "time": "11:12–11:30",
-      "title": "Buffer and move to Inspire",
-      "location": "Level 2",
-      "detail": "Save notes and prepare the Rezonate question. Use only spare time for follow-up; avoid starting another talk."
-    },
-    {
-      "time": "11:30–12:00",
-      "title": "Rezonate sharing session",
-      "location": "Level 2 · Inspire",
-      "detail": "Protect this session. Ask about the engineering internship’s GPA gate, paid scope and EP path during Q&A; request a named technical follow-up if possible. Second presentation sticker.",
-      "talk": "rezonate"
-    },
-    {
-      "time": "12:00–12:10",
-      "title": "Brief speaker follow-up if available",
-      "location": "Inspire exit / Level 1",
-      "detail": "Ask permission for a short conversation; if the speaker is busy, take the team’s submission route. Do not assume a formal interview will happen today."
+      "time": "Only by agreement",
+      "title": "Extend for a real hiring conversation",
+      "location": "A specific team representative / confirmed location",
+      "detail": "The briefing lists Rezonate only at the 11:30–12:00 Inspire talk, with no booth. Ask staff for an earlier introduction; there is no confirmed early availability. Do not wait an extra hour solely for a presentation. Extend for a confirmed hiring contact or if you deliberately choose to investigate this strongest-fit role."
     },
     {
       "time": "12:10 onward",
-      "title": "Lunch and shortlist",
-      "location": "Level 1 · Cove of Excellence",
-      "detail": "Use the physical passport for lunch. Export notes, check ITS and prioritise the leads with confirmed placement and sponsorship pathways."
+      "title": "Lunch · skip by default",
+      "location": "Cove of Excellence, Level 1",
+      "detail": "Lunch redemption is documented; no lunch recruiting or interview block is advertised. Stay only by choice or for a specifically arranged relevant meeting."
     }
   ],
   "focus": {
@@ -383,5 +351,6 @@
       "note": "Checked 22 October for venue and travel route. Open for current shuttle details."
     }
   ],
-  "checked_at": "2026-10-22T13:08:00+08:00"
+  "checked_at": "2026-10-22T13:08:00+08:00",
+  "plan_summary": "Short visit · three core booths · leave by about 10:20 unless a concrete hiring conversation or attendance obligation justifies staying."
 }

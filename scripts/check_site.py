@@ -16,6 +16,7 @@ def check():
     data = json.loads((ROOT / 'guru/data.js').read_text().removeprefix('window.TALENTX = ').strip().removesuffix(';'))
     assert shared['audience'] == 'shared' and data['audience'] == 'guru'
     assert 'profile' not in shared and 'resumes' not in shared and 'plan' not in shared['event']
+    assert 'plan_summary' not in shared['event'] and 'strategy' not in shared
     assert not re.search(r'guruprasath|guru[’\'s ]|BugRaid|TalkToIt|ResearchAgent|5000', json.dumps(shared), re.I)
     assert all(not path.startswith(('resumes/', 'guru/')) and path != 'data/profile.json' for path in shared['offline_files'])
     assert '<base href="../">' in (ROOT / 'guru/index.html').read_text()

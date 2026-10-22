@@ -4,7 +4,7 @@
   "excluded_companies": [
     "julius-baer"
   ],
-  "headline": "Protect Rezonate; prioritise Ailytics, Fano and Ajentik booths. Use SAP Fioneer and Keysight to test enterprise engineering paths.",
+  "headline": "Use a short booth visit to qualify Ailytics, Ajentik and Fano; extend only for a concrete hiring conversation.",
   "positioning": "AI/backend engineer who can ship and operate useful systems: Python/FastAPI, data ingestion, AWS deployments, agent retrieval/tools and safe failure handling. Lead with production engineering before awards or broad AI enthusiasm.",
   "basis": {
     "master_id": "master-2026-10-18-v2",
@@ -18,12 +18,12 @@
     {
       "rank": 1,
       "company_id": "rezonate",
-      "tier": "Protect this conversation",
+      "tier": "Best technical fit; conditional extension",
       "role": "Software Engineer Intern / AI engineering",
       "vacancy_status": "verified-open",
       "why": "Closest technical match: retrieval, tools, agents, evaluation and reliable healthcare workflows. The actual internship description asks for Python/JavaScript, agent frameworks, coding-agent use and debugging.",
       "lead_with": "ResearchAgent + TalkToIt; demonstrate bounded tool use, grounded answers, failure recovery and private health-data processing.",
-      "tradeoff": "GPA 4.0/5 or equivalent is specified; your eligibility is not confirmed. Intern title/body differ, and compensation/duration are unstated. Rezonate is talk-only in the briefing.",
+      "tradeoff": "GPA 4.0/5 or equivalent is specified; your eligibility is not confirmed. Intern title/body differ, and compensation/duration are unstated. Rezonate is talk-only in the briefing. Its 11:30 talk is the only published event location; no early interview or hiring contact is confirmed. Do not wait solely for a generic presentation.",
       "sponsorship": "Not confirmed for this Singapore role. Qualify the internship route and subsequent EP support with the hiring team.",
       "ask": "Is the GPA threshold strict, is this a paid engineering internship, and can this team host my non-credit Student Pass placement and support an EP pathway?",
       "url": "https://boards.briohr.com/keyreplypteltd-j0zjhzlual/details/6a3ba30a5883050e3836aaa7"
@@ -70,7 +70,7 @@
     {
       "rank": 5,
       "company_id": "sap-fioneer",
-      "tier": "Priority talk; optional booth",
+      "tier": "Optional booth; skip generic talk if allowed",
       "role": "Internship — Business Analyst",
       "vacancy_status": "verified-open",
       "why": "Verified Singapore internship at an international financial-software company. ResearchAgent offers a useful banking-workflow story; the company also has an AI agent product.",
@@ -83,7 +83,7 @@
     {
       "rank": 6,
       "company_id": "keysight-technologies",
-      "tier": "Core booth; clarify domain fit",
+      "tier": "Optional if nearby and time remains",
       "role": "EDA Software Engineer Intern 54397",
       "vacancy_status": "verified-open",
       "why": "A verified Singapore Python/C++ software internship and an international engineering employer. Your software, IoT and backend experience gives a credible starting point.",
@@ -105,7 +105,7 @@
   "backups": [
     {
       "company_id": "yokogawa-engineering",
-      "use": "Fifth booth / nearby backup on Level 4",
+      "use": "Only if time remains and a technical opening is offered",
       "reason": "Industrial data, sensors and deployment offer a good Primech/BugRaid discussion. Official careers route checked; no matching Singapore vacancy verified. Qualify the actual employing team and internship opening in a short conversation."
     },
     {
@@ -157,6 +157,10 @@
   ],
   "strategies": [
     {
+      "title": "Treat the morning as a short qualification visit",
+      "text": "Start with the three core booths and a 10:15–10:20 exit decision. Extend only for a specific hiring conversation or a confirmed attendance obligation. Lunch and passport completion are not recruitment goals."
+    },
+    {
       "title": "Use a 90-second qualification loop",
       "text": "Give a 20-second technical introduction, ask what an intern would build, then ask about non-credit placement and EP support. If the answer is no sponsorship, mandatory credit or no engineering opening, record it and move on politely."
     },
@@ -171,10 +175,6 @@
     {
       "title": "Leave with a named next step",
       "text": "Capture one person/team, an exact role or ITS project, a submission route and a deadline. Ask whether mentioning the booth conversation in your later application is appropriate; do not assume a referral was offered."
-    },
-    {
-      "title": "Protect the best conversation from queues",
-      "text": "Cap speculative booths at about five minutes, save ten to fifteen for core booths, and keep travel buffers. Two targeted talks satisfy the passport without spending the whole morning in sessions. Do not sacrifice Rezonate to collect an extra low-fit sticker."
     },
     {
       "title": "Follow up while the details are fresh",
@@ -209,6 +209,202 @@
     {
       "title": "MOM EP eligibility — salary and COMPASS framework",
       "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility"
+    },
+    {
+      "title": "Official event page",
+      "url": "https://www.iss.nus.edu.sg/talent-xperience/2026",
+      "note": "Describes sharing sessions and networking, with no advertised walk-in interview block. Its talk timetable conflicts with the supplied briefing."
+    },
+    {
+      "title": "NUS-ISS Career Services",
+      "url": "https://www.iss.nus.edu.sg/career-services",
+      "note": "Describes employer connections and internship/graduate recruitment support; useful for a named introduction, not a guaranteed interview."
+    },
+    {
+      "title": "NUS-ISS internship programme",
+      "url": "https://www.iss.nus.edu.sg/collaboration/internship-and-placements",
+      "note": "Describes curriculum-linked five-month graduate internship projects. Confirm whether a particular event project accepts a separate non-credit placement; do not infer this user’s academic-credit status from the general page."
+    },
+    {
+      "title": "Event registration form",
+      "url": "https://forms.cloud.microsoft/r/rYWehmjbaJ?origin=lprLink",
+      "note": "Read-only browser check: currently not accepting responses; no further attendance policy readable."
     }
-  ]
+  ],
+  "full_morning_plan": [
+    {
+      "time": "09:00–09:30",
+      "title": "Register and check signage",
+      "location": "NUS-ISS · registration",
+      "detail": "Collect the physical Talent Passport. Confirm today’s rooms and any programme changes."
+    },
+    {
+      "time": "09:30–09:43",
+      "title": "Ailytics",
+      "location": "Level 3 · BISStro",
+      "detail": "Lead with BugRaid deployments and Primech IoT. Qualify junior DevOps, networking expectations, non-credit placement and EP support.",
+      "companies": [
+        "ailytics"
+      ]
+    },
+    {
+      "time": "09:43–09:56",
+      "title": "Ajentik AI",
+      "location": "Level 3 · BISStro",
+      "detail": "Ask about a funded AI/backend internship with one owned deliverable. Use TalkToIt and ResearchAgent; clarify sponsorship early.",
+      "companies": [
+        "ajentik-ai"
+      ]
+    },
+    {
+      "time": "09:56–10:00",
+      "title": "Move to Beacon",
+      "location": "Level 4",
+      "detail": "Allow the floor change; if a queue has delayed you, leave with a contact instead of missing the talk."
+    },
+    {
+      "time": "10:00–10:30",
+      "title": "SAP Fioneer sharing session",
+      "location": "Level 4 · Beacon",
+      "detail": "First presentation sticker. Ask which project is genuinely engineering-led, and whether the verified BA internship offers technical implementation.",
+      "talk": "sap-fioneer"
+    },
+    {
+      "time": "10:30–10:45",
+      "title": "Fano Labs",
+      "location": "Level 4 · WISSdom Park",
+      "detail": "Discuss the four-month late-October intake. Ask how much is coding/POC evaluation versus presales, then confirm work-pass support.",
+      "companies": [
+        "fano-labs"
+      ]
+    },
+    {
+      "time": "10:45–11:00",
+      "title": "Keysight",
+      "location": "Level 4 · WISSdom Park",
+      "detail": "Ask about EDA requisition 54397, the electronics learning gap and any successor software/AI automation roles. Do not use expired 54365 as an active lead.",
+      "companies": [
+        "keysight-technologies"
+      ]
+    },
+    {
+      "time": "11:00–11:12",
+      "title": "Yokogawa · fifth booth / backup",
+      "location": "Level 4 · WISSdom Park",
+      "detail": "A short qualification conversation on industrial software/data projects. If no suitable opening or sponsor route, end early. Five planned booths now complete.",
+      "companies": [
+        "yokogawa-engineering"
+      ]
+    },
+    {
+      "time": "11:12–11:30",
+      "title": "Buffer and move to Inspire",
+      "location": "Level 2",
+      "detail": "Save notes and prepare the Rezonate question. Use only spare time for follow-up; avoid starting another talk."
+    },
+    {
+      "time": "11:30–12:00",
+      "title": "Rezonate sharing session",
+      "location": "Level 2 · Inspire",
+      "detail": "Protect this session. Ask about the engineering internship’s GPA gate, paid scope and EP path during Q&A; request a named technical follow-up if possible. Second presentation sticker.",
+      "talk": "rezonate"
+    },
+    {
+      "time": "12:00–12:10",
+      "title": "Brief speaker follow-up if available",
+      "location": "Inspire exit / Level 1",
+      "detail": "Ask permission for a short conversation; if the speaker is busy, take the team’s submission route. Do not assume a formal interview will happen today."
+    },
+    {
+      "time": "12:10 onward",
+      "title": "Lunch and shortlist",
+      "location": "Level 1 · Cove of Excellence",
+      "detail": "Use the physical passport for lunch. Export notes, check ITS and prioritise the leads with confirmed placement and sponsorship pathways."
+    }
+  ],
+  "attendance": {
+    "checked_at": "2026-10-22T22:54:56.636657+08:00",
+    "verdict": "No advertised walk-in interview or on-site screening programme was found. The student briefing places CV submission and internship interviews after the event, with ITS instructions and later shortlisting.",
+    "scope": "Online applications are part of the later route; the interview format itself is not specified. Do not assume all interviews are online or that informal conversations at booths are formal interviews.",
+    "confirmed": [
+      {
+        "title": "Beginning",
+        "text": "09:00–09:30 is registration. No separate opening plenary is listed. Booth engagement starts at 09:30."
+      },
+      {
+        "title": "Lunch",
+        "text": "Lunch redemption starts at 12:10 at Cove of Excellence, Level 1. No recruiting or interview activity is described for lunch."
+      },
+      {
+        "title": "Applications and interviews",
+        "text": "The briefing says CV submission and internship interviews happen after TalentXperience. Check ITS for CV instructions; shortlisted students receive later invitations."
+      },
+      {
+        "title": "Employer application pages",
+        "text": "Several target roles already have public online application routes. No event-only application link or guaranteed fast-track was found; ask which route applies to the specific project."
+      }
+    ],
+    "unresolved": "The briefing says choose at least two sessions. It does not say whether this is an academic attendance requirement or only an event/passport expectation. The registration form is closed and exposes no additional rule. Ask staff once at check-in about compulsory attendance and early departure before following a shortened visit.",
+    "organiser_question": "Is full attendance or the two-talk instruction compulsory for my programme, or is it only the passport/lunch challenge? Which company representatives here can shortlist engineering candidates? Is Rezonate’s engineering or hiring representative available before 11:30?",
+    "interview_ask": "I’m interested in this specific engineering role. If my non-credit placement and work-pass situation fit, could we arrange a 15-minute technical conversation next week, or could you introduce me to the person who shortlists? I’ll follow the required ITS or employer application route.",
+    "green_signals": [
+      {
+        "title": "A real, funded role",
+        "text": "They name an actual internship or junior requisition, its intake and deliverable, and a supervisor or hiring team."
+      },
+      {
+        "title": "Someone who can act",
+        "text": "The representative can review fit, introduce the hiring manager, or identifies the person who owns shortlisting."
+      },
+      {
+        "title": "Your constraints are understood",
+        "text": "They explicitly address non-credit placement and the applicable work-pass route; for full-time hiring, an identified HR person can confirm EP support and salary band. Ask whether this is the formal school internship project or a separate non-credit opening."
+      },
+      {
+        "title": "A specific next step",
+        "text": "A booked screen, a named introduction, an agreed CV review or a specific project/application deadline. These are signals of progress, not promises of an interview."
+      }
+    ],
+    "low_signals": [
+      "Only a QR code or a generic careers-page link, with no project, team or useful eligibility answer.",
+      "A broad company deck or generic AI talk with nobody available to discuss the actual role.",
+      "An unstaffed booth, unclear hiring authority, or an unpaid/unfunded proposal with no defined engineering deliverable.",
+      "A mandatory credit-bearing or citizen/PR-only route, or explicit inability to support the required work-pass arrangement."
+    ],
+    "exit_rule": "At about 10:15, leave once the three core conversations are complete and you have the available next steps. By about 10:20, leave unless a relevant hiring person has agreed to a specific near-term conversation or staff confirm an attendance obligation. Do not add booths or talks just to earn lunch.",
+    "rezonate_tradeoff": "The briefing lists Rezonate only at the 11:30–12:00 Inspire talk, with no booth. Ask staff for an earlier introduction; there is no confirmed early availability. Do not wait an extra hour solely for a presentation. Extend for a confirmed hiring contact or if you deliberately choose to investigate this strongest-fit role.",
+    "late_option": "If late entry is permitted and Rezonate is your main objective, an alternative is a roughly 10:45–12:00 window: two short booth conversations, then its 11:30 talk and a requested hiring follow-up. Booth representative availability and an after-talk conversation are not guaranteed.",
+    "skip": [
+      "Lunch from 12:10, unless you want lunch or a relevant person has specifically agreed to meet then.",
+      "Singlife and Julius Baer talks; generic sessions whose role or placement does not fit.",
+      "The SAP Fioneer talk if its team gives you the needed role and eligibility information at the booth, subject to any compulsory-session rule.",
+      "Extra booths and sticker collection after you have qualified the relevant leads."
+    ],
+    "sources": [
+      {
+        "title": "Supplied student briefing, physical pages 2, 4, 5, 8 and 9",
+        "note": "Registration, booths/talks, lunch challenge, session instruction and post-event application/interview sequence. Original PDF remains excluded from the repository."
+      },
+      {
+        "title": "Official event page",
+        "url": "https://www.iss.nus.edu.sg/talent-xperience/2026",
+        "note": "Describes sharing sessions and networking, with no advertised walk-in interview block. Its talk timetable conflicts with the supplied briefing."
+      },
+      {
+        "title": "NUS-ISS Career Services",
+        "url": "https://www.iss.nus.edu.sg/career-services",
+        "note": "Describes employer connections and internship/graduate recruitment support; useful for a named introduction, not a guaranteed interview."
+      },
+      {
+        "title": "NUS-ISS internship programme",
+        "url": "https://www.iss.nus.edu.sg/collaboration/internship-and-placements",
+        "note": "Describes curriculum-linked five-month graduate internship projects. Confirm whether a particular event project accepts a separate non-credit placement; do not infer this user’s academic-credit status from the general page."
+      },
+      {
+        "title": "Event registration form",
+        "url": "https://forms.cloud.microsoft/r/rYWehmjbaJ?origin=lprLink",
+        "note": "Read-only browser check: currently not accepting responses; no further attendance policy readable."
+      }
+    ]
+  }
 }
