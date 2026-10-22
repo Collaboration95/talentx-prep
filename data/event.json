@@ -2,8 +2,8 @@
   "name": "TalentXperience 2026",
   "date": "2026-10-23",
   "timezone": "Asia/Singapore",
-  "registration": "09:00\u201309:30",
-  "engagement": "09:30\u201312:00",
+  "registration": "09:00–09:30",
+  "engagement": "09:30–12:00",
   "venue": "NUS-ISS",
   "address": "25 Heng Mui Keng Terrace, Singapore 119615",
   "maps_url": "https://www.google.com/maps/search/?api=1&query=NUS-ISS+25+Heng+Mui+Keng+Terrace+Singapore+119615",
@@ -163,63 +163,93 @@
   ],
   "plan": [
     {
-      "time": "09:00\u201309:30",
-      "title": "Register and collect your Talent Passport",
-      "location": "NUS-ISS \u00b7 registration signage",
-      "detail": "Aim to arrive by 08:50. Confirm the room schedule and any booth changes."
+      "time": "09:00–09:30",
+      "title": "Register and check signage",
+      "location": "NUS-ISS · registration",
+      "detail": "Collect the physical Talent Passport. Confirm today’s rooms and any programme changes."
     },
     {
-      "time": "09:30\u201309:50",
-      "title": "Ajentik AI + Ailytics",
-      "location": "Level 3 \u00b7 BISStro",
-      "detail": "About 10 minutes each. Ask about an engineering project, non-credit placement and sponsorship. Collect two booth stickers.",
+      "time": "09:30–09:43",
+      "title": "Ailytics",
+      "location": "Level 3 · BISStro",
+      "detail": "Lead with BugRaid deployments and Primech IoT. Qualify junior DevOps, networking expectations, non-credit placement and EP support.",
       "companies": [
-        "ajentik-ai",
         "ailytics"
       ]
     },
     {
-      "time": "09:50\u201310:00",
-      "title": "Move to Beacon",
-      "location": "Level 4",
-      "detail": "Allow a floor change and seating time."
-    },
-    {
-      "time": "10:00\u201310:30",
-      "title": "SAP Fioneer sharing session",
-      "location": "Level 4 \u00b7 Beacon",
-      "detail": "Listen for cloud/software/AI project ownership and intake requirements. Collect a presentation sticker.",
-      "talk": "sap-fioneer"
-    },
-    {
-      "time": "10:30\u201311:20",
-      "title": "Keysight + Fano Labs + Cygnus Med",
-      "location": "Level 4 \u00b7 WISSdom Park",
-      "detail": "About 15 minutes per booth plus movement. Lead with cloud reliability, agent evaluation, or health analytics as relevant. Collect three booth stickers.",
+      "time": "09:43–09:56",
+      "title": "Ajentik AI",
+      "location": "Level 3 · BISStro",
+      "detail": "Ask about a funded AI/backend internship with one owned deliverable. Use TalkToIt and ResearchAgent; clarify sponsorship early.",
       "companies": [
-        "keysight-technologies",
-        "fano-labs",
-        "cygnus-med"
+        "ajentik-ai"
       ]
     },
     {
-      "time": "11:20\u201311:30",
-      "title": "Move to Inspire",
-      "location": "Level 2",
-      "detail": "If a booth runs long, finish with a specific follow-up question and move."
+      "time": "09:56–10:00",
+      "title": "Move to Beacon",
+      "location": "Level 4",
+      "detail": "Allow the floor change; if a queue has delayed you, leave with a contact instead of missing the talk."
     },
     {
-      "time": "11:30\u201312:00",
+      "time": "10:00–10:30",
+      "title": "SAP Fioneer sharing session",
+      "location": "Level 4 · Beacon",
+      "detail": "First presentation sticker. Ask which project is genuinely engineering-led, and whether the verified BA internship offers technical implementation.",
+      "talk": "sap-fioneer"
+    },
+    {
+      "time": "10:30–10:45",
+      "title": "Fano Labs",
+      "location": "Level 4 · WISSdom Park",
+      "detail": "Discuss the four-month late-October intake. Ask how much is coding/POC evaluation versus presales, then confirm work-pass support.",
+      "companies": [
+        "fano-labs"
+      ]
+    },
+    {
+      "time": "10:45–11:00",
+      "title": "Keysight",
+      "location": "Level 4 · WISSdom Park",
+      "detail": "Ask about EDA requisition 54397, the electronics learning gap and any successor software/AI automation roles. Do not use expired 54365 as an active lead.",
+      "companies": [
+        "keysight-technologies"
+      ]
+    },
+    {
+      "time": "11:00–11:12",
+      "title": "Yokogawa · fifth booth / backup",
+      "location": "Level 4 · WISSdom Park",
+      "detail": "A short qualification conversation on industrial software/data projects. If no suitable opening or sponsor route, end early. Five planned booths now complete.",
+      "companies": [
+        "yokogawa-engineering"
+      ]
+    },
+    {
+      "time": "11:12–11:30",
+      "title": "Buffer and move to Inspire",
+      "location": "Level 2",
+      "detail": "Save notes and prepare the Rezonate question. Use only spare time for follow-up; avoid starting another talk."
+    },
+    {
+      "time": "11:30–12:00",
       "title": "Rezonate sharing session",
-      "location": "Level 2 \u00b7 Inspire",
-      "detail": "Connect conversation workflows and safe human handoff to ResearchAgent and TalkToIt. Collect a second presentation sticker.",
+      "location": "Level 2 · Inspire",
+      "detail": "Protect this session. Ask about the engineering internship’s GPA gate, paid scope and EP path during Q&A; request a named technical follow-up if possible. Second presentation sticker.",
       "talk": "rezonate"
     },
     {
+      "time": "12:00–12:10",
+      "title": "Brief speaker follow-up if available",
+      "location": "Inspire exit / Level 1",
+      "detail": "Ask permission for a short conversation; if the speaker is busy, take the team’s submission route. Do not assume a formal interview will happen today."
+    },
+    {
       "time": "12:10 onward",
-      "title": "Redeem lunch; save your follow-ups",
-      "location": "Level 1 \u00b7 Cove of Excellence",
-      "detail": "Passport target: five booth stickers and two presentation stickers. Export notes before switching devices."
+      "title": "Lunch and shortlist",
+      "location": "Level 1 · Cove of Excellence",
+      "detail": "Use the physical passport for lunch. Export notes, check ITS and prioritise the leads with confirmed placement and sponsorship pathways."
     }
   ],
   "focus": {
@@ -331,7 +361,7 @@
       "Project Management"
     ]
   },
-  "source_note": "Booths and talks follow the supplied student briefing, physical pages 7\u20138. The public event page currently lists a different talk programme and a different organisation name in place of Octomate; confirm signage on arrival. The briefing prints 11:30\u201312:00 AM for the final sessions; shown here as midday within the stated morning event.",
+  "source_note": "Booths and talks follow the supplied student briefing, physical pages 7–8. The public event page currently lists a different talk programme and a different organisation name in place of Octomate; confirm signage on arrival. The briefing prints 11:30–12:00 AM for the final sessions; shown here as midday within the stated morning event.",
   "after_event": "CV submission and internship interviews take place after TalentXperience. Check ITS for submission instructions; shortlisted students are invited for interviews.",
   "sources": [
     {
@@ -340,7 +370,7 @@
     },
     {
       "title": "Company guide (supplied, 21 October edition)",
-      "note": "18 organisations and potential internship focus areas, physical pp1\u201311. Potential focus is not a confirmed vacancy. Original excluded from publication."
+      "note": "18 organisations and potential internship focus areas, physical pp1–11. Potential focus is not a confirmed vacancy. Original excluded from publication."
     },
     {
       "title": "Official event page",

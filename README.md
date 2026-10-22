@@ -2,6 +2,8 @@
 
 Live site: https://collaboration95.github.io/talentx-prep/
 
+Personal target shortlist: https://collaboration95.github.io/talentx-prep/guru/#targets
+
 The root URL is the shared classmate view. Personal CVs, fit notes, profile answers and the suggested route appear only at https://collaboration95.github.io/talentx-prep/guru/. Both views keep the same expo, research, schedule and general preparation tools. Their notes and offline download lists are separate; the shared entry does not load the personal data bundle. The personal route retains the original browser notes key.
 
 A buildless mobile website for NUS-ISS TalentXperience on **23 October 2026**. The illustrated expo uses the supplied briefing’s actual rooms and floors; booth positions are illustrative.

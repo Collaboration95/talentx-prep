@@ -28,7 +28,7 @@
     "eligibility_note": "The general summer programme describes a July start and ten weeks, with enrolment from second year onward. Confirm separate off-cycle intake conditions, duration, school requirements and work-pass support."
   },
   "keysight-technologies": {
-    "opportunity_status": "Two relevant Singapore internship leads found on the official ATS. Direct vacancy pages returned HTTP 403, so current applications and eligibility remain unverified.",
+    "opportunity_status": "EDA Software Engineer Intern 54397 now verified with an Apply control. Product Security Engineer Intern 54365 now returns a 404/no-longer-available page. Ask about a successor security/automation role; do not count the old listing as open.",
     "eligibility_note": "Indexed descriptions request current bachelor’s or master’s enrolment in a relevant discipline. Confirm the actual vacancy requirements, academic-credit conditions, intake, duration, working languages and work-pass support."
   },
   "mediacorp": {
@@ -48,7 +48,7 @@
     "eligibility_note": "The engineering internship specifies GPA 4.0/5 or equivalent; the business analyst internship specifies 4.0/5 or 3.4/4. Confirm compensation, intake, duration, academic-credit conditions and work-pass support. Clear professional English is explicit for support."
   },
   "sap-fioneer": {
-    "opportunity_status": "Official careers and Workable routes verified. One Singapore Business Analyst internship is an unverified lead because the detailed vacancy was unreadable. No live Singapore technical opening was confirmed.",
+    "opportunity_status": "Singapore Business Analyst internship now verified on the actual Workable vacancy with an application link. Work centres on banking implementation, customer analysis and presales; do not relabel it as software or AI engineering.",
     "eligibility_note": "Confirm the actual vacancy, programme enrolment and academic-credit conditions, intake, duration, working languages and work-pass support."
   },
   "smrt": {

@@ -1,0 +1,214 @@
+{
+  "checked_at": "2026-10-22T16:15:09.487131+08:00",
+  "event_date": "2026-10-23",
+  "excluded_companies": [
+    "julius-baer"
+  ],
+  "headline": "Protect Rezonate; prioritise Ailytics, Fano and Ajentik booths. Use SAP Fioneer and Keysight to test enterprise engineering paths.",
+  "positioning": "AI/backend engineer who can ship and operate useful systems: Python/FastAPI, data ingestion, AWS deployments, agent retrieval/tools and safe failure handling. Lead with production engineering before awards or broad AI enthusiasm.",
+  "basis": {
+    "master_id": "master-2026-10-18-v2",
+    "sponsorship_required": true,
+    "current_pass": "Student Pass",
+    "credit_bearing": false,
+    "availability": "Immediate, confirmed 18 October; MTech completion August 2027",
+    "judgement": "Ranks are editorial judgements about technical fit, vacancy evidence and scarce event time. They are not sponsorship probabilities."
+  },
+  "targets": [
+    {
+      "rank": 1,
+      "company_id": "rezonate",
+      "tier": "Protect this conversation",
+      "role": "Software Engineer Intern / AI engineering",
+      "vacancy_status": "verified-open",
+      "why": "Closest technical match: retrieval, tools, agents, evaluation and reliable healthcare workflows. The actual internship description asks for Python/JavaScript, agent frameworks, coding-agent use and debugging.",
+      "lead_with": "ResearchAgent + TalkToIt; demonstrate bounded tool use, grounded answers, failure recovery and private health-data processing.",
+      "tradeoff": "GPA 4.0/5 or equivalent is specified; your eligibility is not confirmed. Intern title/body differ, and compensation/duration are unstated. Rezonate is talk-only in the briefing.",
+      "sponsorship": "Not confirmed for this Singapore role. Qualify the internship route and subsequent EP support with the hiring team.",
+      "ask": "Is the GPA threshold strict, is this a paid engineering internship, and can this team host my non-credit Student Pass placement and support an EP pathway?",
+      "url": "https://boards.briohr.com/keyreplypteltd-j0zjhzlual/details/6a3ba30a5883050e3836aaa7"
+    },
+    {
+      "rank": 2,
+      "company_id": "ailytics",
+      "tier": "Core booth",
+      "role": "Junior DevOps Engineer; annotation internship as fallback",
+      "vacancy_status": "verified-open",
+      "why": "Most concrete junior role: the vacancy lists 1–3 years, Python, Linux, cloud, deployments and production AI. BugRaid and Primech provide specific examples.",
+      "lead_with": "BugRaid ECS/ECR, ingestion and observability; Primech deployment runbooks, Python IoT backend and APIs. Add Fitback when discussing vision.",
+      "tradeoff": "The junior job includes on-site hardware, IP cameras and practical networking, not just AWS. The internship is primarily data collection/labelling; backend engineer requires three professional Python/Django years, beyond your saved one-year Python experience.",
+      "sponsorship": "Not confirmed for this Singapore role. Qualify the internship route and subsequent EP support with the hiring team.",
+      "ask": "Would my deployment/data-pipeline background fit junior engineering, and could an intern own automation or data-quality code rather than mainly manual annotation?",
+      "url": "https://www.ailytics.ai/careers/junior-devops-engineer-deployment-networking"
+    },
+    {
+      "rank": 3,
+      "company_id": "fano-labs",
+      "tier": "Core booth",
+      "role": "Forward Deployed Engineer Intern",
+      "vacancy_status": "verified-open",
+      "why": "Current four-month Singapore intake starting end October matches your confirmed immediate availability, subject to study commitment. Enterprise agent/POC work fits your project narrative.",
+      "lead_with": "ResearchAgent payment investigation, BM25 retrieval, tool calling and grounded citations; explain a customer-facing evaluation clearly.",
+      "tradeoff": "Substantial presales, demos, decks, requirements and proposals. It is a stronger solution-engineering opening than a guaranteed software-development internship. Do not infer a Chinese requirement from multilingual products.",
+      "sponsorship": "Not confirmed for this Singapore role. Qualify the internship route and subsequent EP support with the hiring team.",
+      "ask": "What percentage of the internship is coding and POC evaluation versus decks/presales, and is a four-month non-credit placement with work-pass support possible?",
+      "url": "https://sg.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-fano-fano-labs-4481547017"
+    },
+    {
+      "rank": 4,
+      "company_id": "ajentik-ai",
+      "tier": "Core booth; speculative opening",
+      "role": "Ask about AI/backend or DevOps internship",
+      "vacancy_status": "portal-only",
+      "why": "Excellent product fit: Elderwise combines healthcare coordination, conversational AI and integrations; the careers page has ML, DevOps and MLOps role cards.",
+      "lead_with": "TalkToIt FastAPI/DuckDB ingestion and local-data handling; ResearchAgent structured tools, grounding and fallbacks.",
+      "tradeoff": "No detailed internship verified. Role cards go to contact forms; junior level, budget and sponsorship are unresolved. English product support is not proof of hiring-language requirements.",
+      "sponsorship": "Not confirmed for this Singapore role. Qualify the internship route and subsequent EP support with the hiring team.",
+      "ask": "Could an intern own a concrete ingestion API, summary-validation or evaluation deliverable, and is there a funded junior role with an EP path?",
+      "url": "https://www.ajentik.com/careers"
+    },
+    {
+      "rank": 5,
+      "company_id": "sap-fioneer",
+      "tier": "Priority talk; optional booth",
+      "role": "Internship — Business Analyst",
+      "vacancy_status": "verified-open",
+      "why": "Verified Singapore internship at an international financial-software company. ResearchAgent offers a useful banking-workflow story; the company also has an AI agent product.",
+      "lead_with": "ResearchAgent payment investigation plus BugRaid production delivery. Translate one workflow into requirements, acceptance tests and an integration design.",
+      "tradeoff": "The verified role is business analysis, banking implementation and presales, not an AI engineering vacancy. International headcount does not establish EP sponsorship.",
+      "sponsorship": "Not confirmed for this Singapore role. Qualify the internship route and subsequent EP support with the hiring team.",
+      "ask": "Is there a hands-on software/integration or AI placement alongside this BA intake, and which Singapore entity would sponsor an EP for suitable hires?",
+      "url": "https://apply.workable.com/fioneer/j/761E356655"
+    },
+    {
+      "rank": 6,
+      "company_id": "keysight-technologies",
+      "tier": "Core booth; clarify domain fit",
+      "role": "EDA Software Engineer Intern 54397",
+      "vacancy_status": "verified-open",
+      "why": "A verified Singapore Python/C++ software internship and an international engineering employer. Your software, IoT and backend experience gives a credible starting point.",
+      "lead_with": "Primech sensor/backend work, FindMyCar and automated quality checks. Ask for software-heavy work where electronics can be learned with supervision.",
+      "tradeoff": "Electronic design, simulation and signal integrity are a real gap. Product Security Intern 54365 now returns a no-longer-available page. Unlabeled ATS metadata does not establish a visa restriction.",
+      "sponsorship": "Not confirmed for this Singapore role. Qualify the internship route and subsequent EP support with the hiring team.",
+      "ask": "How much EDA knowledge is expected on entry, are software/automation successor internships available, and can the Singapore team host non-credit students and sponsor EPs?",
+      "url": "https://jobs.keysight.com/external/jobs/54397?lang=en-us"
+    }
+  ],
+  "ep": {
+    "headline": "Qualify the role, employing entity and salary band — not the company’s nationality.",
+    "note": "No priority vacancy checked explicitly confirms Singapore EP sponsorship. Singapore-headquartered product companies can still be worthwhile; an international employer is not automatically willing to sponsor. Public-sector or citizen/PR-only programmes receive less of your limited event time.",
+    "question": "I’m on a Student Pass and my placement is non-credit-bearing. Can your team host that internship, and for a suitable full-time role do you sponsor EP applications? Who can confirm this for the actual employing entity?",
+    "salary": "Your saved expectation is SGD 5,000/month, with base versus total unspecified. MOM’s current lowest EP qualifying salary is SGD 5,600 outside financial services; new applications from 1 January 2027 start at SGD 6,000. Thresholds rise with age and differ for financial services. Do not anchor a future EP conversation at SGD 5,000; ask HR for the applicable salary band and eligibility assessment. This does not change your saved expectation.",
+    "source_url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility",
+    "internship_note": "Ask HR to confirm the internship’s applicable work-pass/school route separately. Neither immediate availability nor a future EP discussion establishes internship work permission."
+  },
+  "backups": [
+    {
+      "company_id": "yokogawa-engineering",
+      "use": "Fifth booth / nearby backup on Level 4",
+      "reason": "Industrial data, sensors and deployment offer a good Primech/BugRaid discussion. Official careers route checked; no matching Singapore vacancy verified. Qualify the actual employing team and internship opening in a short conversation."
+    },
+    {
+      "company_id": "dhl-express",
+      "use": "Level 3 backup if a core booth is inaccessible",
+      "reason": "Global logistics and data workflows fit, but no current matching Express technical vacancy verified. Do not transfer another DHL division’s internship conditions to Express."
+    },
+    {
+      "company_id": "cygnus-med",
+      "use": "Level 4 backup if a concrete software project is offered",
+      "reason": "Fitback and TalkToIt align with imaging/health software. Only a career-enquiry route verified; ask about supervision, working language and sponsorship rather than assuming them."
+    }
+  ],
+  "deprioritised": [
+    {
+      "companies": [
+        "julius-baer"
+      ],
+      "reason": "Excluded at your request; do not use its 10:00 talk."
+    },
+    {
+      "companies": [
+        "1fss",
+        "national-dental-centre-singapore",
+        "smrt"
+      ],
+      "reason": "Lower event priority under your private/international-employer preference, with weak verified junior matches. No blanket citizens-only or no-EP policy was established."
+    },
+    {
+      "companies": [
+        "singlife"
+      ],
+      "reason": "Its published 2026 MAP is closed and citizen/PR-only. No separate live technical internship was verified. This programme restriction does not describe every Singlife job."
+    },
+    {
+      "companies": [
+        "trainocate"
+      ],
+      "reason": "AWS Career Launchpad is citizen/PR-only; direct internal software hiring is separate and unverified. Its 11:30 talk conflicts with the stronger Rezonate session."
+    },
+    {
+      "companies": [
+        "octomate",
+        "trampolene",
+        "mediacorp"
+      ],
+      "reason": "No verified matching engineering internship; less direct coding evidence or a less useful allocation of scarce booth/talk time. They are not declared ineligible employers."
+    }
+  ],
+  "strategies": [
+    {
+      "title": "Use a 90-second qualification loop",
+      "text": "Give a 20-second technical introduction, ask what an intern would build, then ask about non-credit placement and EP support. If the answer is no sponsorship, mandatory credit or no engineering opening, record it and move on politely."
+    },
+    {
+      "title": "Show one relevant proof, not a tour of everything",
+      "text": "Prepare a 60-second demo or a few local screenshots for ResearchAgent and TalkToIt, and a concise BugRaid deployment story. Use synthetic/demo data. Have the correct company-specific CV ready for the later submission route."
+    },
+    {
+      "title": "Ask for an owned deliverable",
+      "text": "Ask what you could ship in the first four to six weeks, who reviews the code, and how success is evaluated. At Fano and SAP Fioneer, specifically ask how much is implementation versus presales or documentation."
+    },
+    {
+      "title": "Leave with a named next step",
+      "text": "Capture one person/team, an exact role or ITS project, a submission route and a deadline. Ask whether mentioning the booth conversation in your later application is appropriate; do not assume a referral was offered."
+    },
+    {
+      "title": "Protect the best conversation from queues",
+      "text": "Cap speculative booths at about five minutes, save ten to fifteen for core booths, and keep travel buffers. Two targeted talks satisfy the passport without spending the whole morning in sessions. Do not sacrifice Rezonate to collect an extra low-fit sticker."
+    },
+    {
+      "title": "Follow up while the details are fresh",
+      "text": "After the event, check ITS, shortlist the roles whose eligibility is confirmed, and adapt your follow-up to a specific project discussed. The briefing says CV submission and interviews happen afterward."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rezonate internship — full vacancy and Apply personally read",
+      "url": "https://boards.briohr.com/keyreplypteltd-j0zjhzlual/details/6a3ba30a5883050e3836aaa7"
+    },
+    {
+      "title": "Ailytics junior DevOps — full vacancy and form read",
+      "url": "https://www.ailytics.ai/careers/junior-devops-engineer-deployment-networking"
+    },
+    {
+      "title": "Fano internship — employer-published description read",
+      "url": "https://sg.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-fano-fano-labs-4481547017"
+    },
+    {
+      "title": "Ajentik careers — role cards and contact destination read",
+      "url": "https://www.ajentik.com/careers"
+    },
+    {
+      "title": "SAP Fioneer BA internship — full Workable vacancy and Apply read",
+      "url": "https://apply.workable.com/fioneer/j/761E356655"
+    },
+    {
+      "title": "Keysight EDA internship — full ATS vacancy and Apply read",
+      "url": "https://jobs.keysight.com/external/jobs/54397?lang=en-us"
+    },
+    {
+      "title": "MOM EP eligibility — salary and COMPASS framework",
+      "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility"
+    }
+  ]
+}

@@ -75,7 +75,7 @@
     "resume_track": "ai-agents",
     "conversation_opener": "I'm an NUS-ISS Software Engineering master's student interested in Python and applied AI. I found your Singapore EDA and product-security internship descriptions; I'd like to understand which projects are currently recruiting and where a software-focused student could contribute.",
     "questions": [
-      "Are requisitions 54397 and 54365 still accepting Singapore interns, and which team will be represented at TalentXperience?",
+      "Which team owns EDA Software Engineer Intern 54397, and is there a successor software/automation opening to the unavailable Product Security internship 54365?",
       "For the security-platform internship, would the deliverable be workflow tooling, a web feature or an evaluated AI proof of concept; for EDA, how much electronics knowledge is needed on entry?",
       "Do these internships accept non-credit-bearing NUS-ISS master's students on a foreign Student Pass, what is the required intake and duration, and what is the policy on EP sponsorship for conversion?"
     ],
@@ -88,24 +88,24 @@
         "title": "EDA Software Engineer Intern",
         "url": "https://jobs.keysight.com/external/jobs/54397?lang=en-us",
         "location": "Singapore, Singapore",
-        "status": "unverified",
+        "status": "verified-open",
         "type": "Internship",
         "eligibility": "Official indexed description requests current bachelor's/master's enrolment in computing, electrical/electronic engineering or a software-related discipline. Electronic-design interest/experience is requested; ADS experience is advantageous. Sponsorship, credit requirement, languages and intake duration are not verified.",
         "fit": "Relevant Python/C++ software work, with an electronics/simulation learning gap to assess. No professional-years minimum was visible in the indexed requirements.",
-        "source_note": "Official ATS search result describes PSS COE EDA components, Python/C++ and agents/APIs for designs. Actual vacancy URL was opened twice but returned HTTP 403; indexed content alone does not verify that applications remain open. No posting date is inferred."
+        "source_note": "Personally opened actual Keysight ATS requisition 54397 in the collaborative browser. Full Singapore EDA description and Apply control visible. Python/C++ development and electronic-design/simulation knowledge are required. No labelled visa policy was stated; unlabeled No/None metadata is not interpreted as sponsorship evidence."
       },
       {
         "title": "Product Security Engineer Intern",
         "url": "https://jobs.keysight.com/external/jobs/54365",
         "location": "Singapore, Singapore",
-        "status": "unverified",
-        "type": "Internship",
+        "status": "closed",
+        "type": "Unavailable vacancy; previously indexed internship",
         "eligibility": "Official indexed description requests current bachelor's/master's enrolment in computing, electrical/electronic engineering or a software-related discipline. Python, Power Automate, AI tools and web-framework exposure are advantages. Sponsorship, non-credit eligibility, languages and intake duration remain unknown.",
-        "fit": "Strong conversation fit for AI-assisted enterprise tooling, debugging and software workflows; confirm how much work is tool support versus feature development.",
-        "source_note": "Official indexed ATS description names the Product Security Framework team and AI proof-of-concept/tool-support tasks. Opening the actual vacancy page returned HTTP 403, so acceptance is unverified. Similar titles at requisition 54364 varied in indexed versions and are not counted as another confirmed role."
+        "fit": "Previously attractive AI/tool-support topic, but this requisition is no longer an actionable vacancy. Ask about a successor role at the booth.",
+        "source_note": "Personally opened actual requisition 54365 in the collaborative browser. It now renders a 404 and says the job may no longer be available or does not exist. The older indexed description is not evidence of a current opening."
       }
     ],
-    "opportunity_status": "Two relevant Singapore internship leads on the official ATS, both unverified because direct vacancy retrieval was forbidden. High priority for an event conversation reflects technical alignment, not confirmed availability or eligibility.",
+    "opportunity_status": "EDA Software Engineer Intern 54397 now verified with an Apply control. Product Security Engineer Intern 54365 now returns a 404/no-longer-available page. Ask about a successor security/automation role; do not count the old listing as open.",
     "eligibility_note": "Master's enrolment matches the advertised student level in the indexed text; that does not establish non-credit or Student Pass eligibility. EP sponsorship, language requirements and exact dates/duration are unresolved. Do not interpret unlabeled ATS metadata such as 'No' as a visa policy.",
     "sources": [
       {
@@ -127,9 +127,14 @@
         "title": "Product Security Engineer Intern, 54365",
         "url": "https://jobs.keysight.com/external/jobs/54365",
         "note": "Official indexed Singapore internship description retrieved through live search; actual-page request returned 403. Open status unverified."
+      },
+      {
+        "title": "Keysight ATS — browser recheck of both requisitions",
+        "url": "https://jobs.keysight.com/external/jobs/54397?lang=en-us",
+        "note": "54397: full vacancy and Apply visible. 54365: actual 404/no-longer-available page. Rechecked personally on 22 October; sponsorship remains unstated."
       }
     ],
-    "checked_at": "2026-10-22T13:12:13+08:00"
+    "checked_at": "2026-10-22T16:15:09.487131+08:00"
   },
   {
     "id": "mediacorp",
