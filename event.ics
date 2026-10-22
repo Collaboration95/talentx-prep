@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TalentX Prep//Expo Companion//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:talentxperience-2026-20261023@talentx-prep
+DTSTAMP:20261022T050000Z
+DTSTART:20261023T010000Z
+DTEND:20261023T040000Z
+SUMMARY:NUS-ISS TalentXperience 2026
+LOCATION:NUS-ISS\, 25 Heng Mui Keng Terrace\, Singapore 119615
+DESCRIPTION:Registration 09:00-09:30 SGT. Engagement 09:30-12:00 SGT. Coll
+ ect five booth stickers and two presentation stickers. Lunch redemption f
+ rom 12:10 at Cove of Excellence Level 1. Check ITS after the event for CV
+  submission instructions.
+URL:https://collaboration95.github.io/talentx-prep/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Kalam';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./kalam-regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kalam';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./kalam-bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./nunito-regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(./nunito-semibold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./nunito-bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(./nunito-extrabold.ttf) format('truetype');
+}

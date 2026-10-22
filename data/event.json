@@ -1,0 +1,357 @@
+{
+  "name": "TalentXperience 2026",
+  "date": "2026-10-23",
+  "timezone": "Asia/Singapore",
+  "registration": "09:00\u201309:30",
+  "engagement": "09:30\u201312:00",
+  "venue": "NUS-ISS",
+  "address": "25 Heng Mui Keng Terrace, Singapore 119615",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=NUS-ISS+25+Heng+Mui+Keng+Terrace+Singapore+119615",
+  "directions_url": "https://www.iss.nus.edu.sg/about-us/getting-to-nus-iss",
+  "official_url": "https://www.iss.nus.edu.sg/talent-xperience/2026",
+  "passport": {
+    "booths": 5,
+    "talks": 2
+  },
+  "booths": {
+    "1fss": {
+      "floor": 4,
+      "room": "WISSdom Park"
+    },
+    "ailytics": {
+      "floor": 3,
+      "room": "BISStro"
+    },
+    "ajentik-ai": {
+      "floor": 3,
+      "room": "BISStro"
+    },
+    "cygnus-med": {
+      "floor": 4,
+      "room": "WISSdom Park"
+    },
+    "dhl-express": {
+      "floor": 3,
+      "room": "BISStro"
+    },
+    "fano-labs": {
+      "floor": 4,
+      "room": "WISSdom Park"
+    },
+    "julius-baer": {
+      "floor": 4,
+      "room": "WISSdom Park"
+    },
+    "keysight-technologies": {
+      "floor": 4,
+      "room": "WISSdom Park"
+    },
+    "mediacorp": {
+      "floor": 4,
+      "room": "WISSdom Park"
+    },
+    "national-dental-centre-singapore": {
+      "floor": 4,
+      "room": "WISSdom Park"
+    },
+    "octomate": {
+      "floor": 3,
+      "room": "BISStro"
+    },
+    "rezonate": {
+      "floor": null,
+      "room": null
+    },
+    "sap-fioneer": {
+      "floor": 3,
+      "room": "BISStro"
+    },
+    "smrt": {
+      "floor": 3,
+      "room": "BISStro"
+    },
+    "singlife": {
+      "floor": null,
+      "room": null
+    },
+    "trainocate": {
+      "floor": 3,
+      "room": "BISStro"
+    },
+    "trampolene": {
+      "floor": 3,
+      "room": "BISStro"
+    },
+    "yokogawa-engineering": {
+      "floor": 4,
+      "room": "WISSdom Park"
+    }
+  },
+  "talks": [
+    {
+      "id": "singlife",
+      "company_id": "singlife",
+      "company": "Singlife",
+      "start": "09:30",
+      "end": "10:00",
+      "room": "Inspire",
+      "floor": 2
+    },
+    {
+      "id": "julius-baer",
+      "company_id": "julius-baer",
+      "company": "Julius Baer",
+      "start": "10:00",
+      "end": "10:30",
+      "room": "Inspire",
+      "floor": 2
+    },
+    {
+      "id": "sap-fioneer",
+      "company_id": "sap-fioneer",
+      "company": "SAP Fioneer",
+      "start": "10:00",
+      "end": "10:30",
+      "room": "Beacon",
+      "floor": 4
+    },
+    {
+      "id": "yokogawa-engineering",
+      "company_id": "yokogawa-engineering",
+      "company": "Yokogawa",
+      "start": "10:30",
+      "end": "11:00",
+      "room": "Inspire",
+      "floor": 2
+    },
+    {
+      "id": "octomate",
+      "company_id": "octomate",
+      "company": "Octomate",
+      "start": "10:30",
+      "end": "11:00",
+      "room": "Beacon",
+      "floor": 4
+    },
+    {
+      "id": "trampolene",
+      "company_id": "trampolene",
+      "company": "Trampolene",
+      "start": "11:00",
+      "end": "11:30",
+      "room": "Beacon",
+      "floor": 4
+    },
+    {
+      "id": "rezonate",
+      "company_id": "rezonate",
+      "company": "Rezonate",
+      "start": "11:30",
+      "end": "12:00",
+      "room": "Inspire",
+      "floor": 2
+    },
+    {
+      "id": "trainocate",
+      "company_id": "trainocate",
+      "company": "Trainocate",
+      "start": "11:30",
+      "end": "12:00",
+      "room": "Beacon",
+      "floor": 4
+    }
+  ],
+  "plan": [
+    {
+      "time": "09:00\u201309:30",
+      "title": "Register and collect your Talent Passport",
+      "location": "NUS-ISS \u00b7 registration signage",
+      "detail": "Aim to arrive by 08:50. Confirm the room schedule and any booth changes."
+    },
+    {
+      "time": "09:30\u201309:50",
+      "title": "Ajentik AI + Ailytics",
+      "location": "Level 3 \u00b7 BISStro",
+      "detail": "About 10 minutes each. Ask about an engineering project, non-credit placement and sponsorship. Collect two booth stickers.",
+      "companies": [
+        "ajentik-ai",
+        "ailytics"
+      ]
+    },
+    {
+      "time": "09:50\u201310:00",
+      "title": "Move to Beacon",
+      "location": "Level 4",
+      "detail": "Allow a floor change and seating time."
+    },
+    {
+      "time": "10:00\u201310:30",
+      "title": "SAP Fioneer sharing session",
+      "location": "Level 4 \u00b7 Beacon",
+      "detail": "Listen for cloud/software/AI project ownership and intake requirements. Collect a presentation sticker.",
+      "talk": "sap-fioneer"
+    },
+    {
+      "time": "10:30\u201311:20",
+      "title": "Keysight + Fano Labs + Cygnus Med",
+      "location": "Level 4 \u00b7 WISSdom Park",
+      "detail": "About 15 minutes per booth plus movement. Lead with cloud reliability, agent evaluation, or health analytics as relevant. Collect three booth stickers.",
+      "companies": [
+        "keysight-technologies",
+        "fano-labs",
+        "cygnus-med"
+      ]
+    },
+    {
+      "time": "11:20\u201311:30",
+      "title": "Move to Inspire",
+      "location": "Level 2",
+      "detail": "If a booth runs long, finish with a specific follow-up question and move."
+    },
+    {
+      "time": "11:30\u201312:00",
+      "title": "Rezonate sharing session",
+      "location": "Level 2 \u00b7 Inspire",
+      "detail": "Connect conversation workflows and safe human handoff to ResearchAgent and TalkToIt. Collect a second presentation sticker.",
+      "talk": "rezonate"
+    },
+    {
+      "time": "12:10 onward",
+      "title": "Redeem lunch; save your follow-ups",
+      "location": "Level 1 \u00b7 Cove of Excellence",
+      "detail": "Passport target: five booth stickers and two presentation stickers. Export notes before switching devices."
+    }
+  ],
+  "focus": {
+    "1fss": [
+      "AI / Machine Learning",
+      "Data Analytics"
+    ],
+    "ailytics": [
+      "AI / Machine Learning",
+      "Business Analytics",
+      "Data Analytics",
+      "Digital Transformation"
+    ],
+    "ajentik-ai": [
+      "Software Development",
+      "AI / Machine Learning",
+      "Data Analytics",
+      "Data Engineering",
+      "Business Analytics",
+      "Project Management",
+      "Digital Transformation"
+    ],
+    "cygnus-med": [
+      "Software Development",
+      "AI / Machine Learning",
+      "Data Engineering",
+      "Video Processing and Analysis"
+    ],
+    "dhl-express": [
+      "AI / Machine Learning",
+      "Data Analytics",
+      "Data Engineering",
+      "Business Analytics",
+      "Digital Transformation"
+    ],
+    "fano-labs": [
+      "Software Development",
+      "Business Analytics",
+      "Project Management"
+    ],
+    "julius-baer": [
+      "Software Development",
+      "AI / Machine Learning",
+      "Data Analytics"
+    ],
+    "keysight-technologies": [
+      "Software Development",
+      "AI / Machine Learning",
+      "Data Analytics",
+      "DevOps / SRE",
+      "Hardware Engineering",
+      "Full Stack"
+    ],
+    "mediacorp": [
+      "Information Technology",
+      "AI / Machine Learning",
+      "Business Analytics",
+      "Project Management"
+    ],
+    "national-dental-centre-singapore": [
+      "Information Technology",
+      "AI / Machine Learning",
+      "Data Analytics",
+      "Data Engineering",
+      "DevOps"
+    ],
+    "octomate": [
+      "Business Analytics",
+      "Project Management"
+    ],
+    "rezonate": [
+      "Software Development",
+      "AI / Machine Learning",
+      "Data Analytics"
+    ],
+    "sap-fioneer": [
+      "Software Engineering",
+      "AI / Machine Learning",
+      "Cloud Computing",
+      "DevOps",
+      "Project Management",
+      "Digital Transformation"
+    ],
+    "smrt": [
+      "AI / Machine Learning",
+      "Data Analytics",
+      "Data Engineering",
+      "Business Analytics"
+    ],
+    "singlife": [
+      "Software Development",
+      "AI / Machine Learning",
+      "Data Analytics"
+    ],
+    "trainocate": [
+      "Software Development"
+    ],
+    "trampolene": [
+      "Software Development",
+      "AI / Machine Learning",
+      "Data Analytics"
+    ],
+    "yokogawa-engineering": [
+      "Software Development",
+      "AI / Machine Learning",
+      "Data Analytics",
+      "Data Engineering",
+      "DevOps",
+      "Project Management"
+    ]
+  },
+  "source_note": "Booths and talks follow the supplied student briefing, physical pages 7\u20138. The public event page currently lists a different talk programme and a different organisation name in place of Octomate; confirm signage on arrival. The briefing prints 11:30\u201312:00 AM for the final sessions; shown here as midday within the stated morning event.",
+  "after_event": "CV submission and internship interviews take place after TalentXperience. Check ITS for submission instructions; shortlisted students are invited for interviews.",
+  "sources": [
+    {
+      "title": "Student briefing (supplied, 21 October edition)",
+      "note": "Physical p2: date/registration; p4: CVs afterward; p5: passport/lunch; p7: booths; p8: talks; p9: ITS follow-up. Original excluded from publication."
+    },
+    {
+      "title": "Company guide (supplied, 21 October edition)",
+      "note": "18 organisations and potential internship focus areas, physical pp1\u201311. Potential focus is not a confirmed vacancy. Original excluded from publication."
+    },
+    {
+      "title": "Official event page",
+      "url": "https://www.iss.nus.edu.sg/talent-xperience/2026",
+      "note": "Checked 22 October; agrees on date, morning engagement and address; timetable differs from the supplied briefing."
+    },
+    {
+      "title": "NUS-ISS directions",
+      "url": "https://www.iss.nus.edu.sg/about-us/getting-to-nus-iss",
+      "note": "Checked 22 October for venue and travel route. Open for current shuttle details."
+    }
+  ],
+  "checked_at": "2026-10-22T13:08:00+08:00"
+}

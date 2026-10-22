@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "company_id": "keysight-technologies",
+  "company_name": "Keysight Technologies",
+  "path_base": ".",
+  "packaged_at": "2026-10-22T13:09:26.331474+08:00",
+  "source_master_id": "master-2026-10-18-v2",
+  "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+  "source_master": {
+    "id": "master-2026-10-18-v2",
+    "path": "sources/master-2026-10-18-v2.md",
+    "sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e"
+  },
+  "pdf": {
+    "path": "keysight-technologies.pdf",
+    "sha256": "23e6ab919cb291be466b6101aabd91b99d3f63e8ff1b1c91c0c7161377c1a911",
+    "page_count": 2
+  },
+  "markdown": {
+    "path": "keysight-technologies.md",
+    "sha256": "0a8f5231e52f491427e600defa5f52a41efc31e40403af3cebec91bda43b269f"
+  },
+  "draft_manifest": {
+    "preset": "talentx-keysight-technologies",
+    "preset_configuration": {
+      "projects": [
+        "findmycar",
+        "hr-2026",
+        "ss-dcl"
+      ],
+      "bullets_per_project": 2
+    },
+    "source_master_id": "master-2026-10-18-v2",
+    "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+    "selected_projects": [
+      {
+        "id": "findmycar",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "98cd08c1fb85ee37b1aab30ad2e53fb1ffe90e2c17f7fb118bdf0f0d34a10c85",
+        "bullet_ids": [
+          "findmycar-cv-01",
+          "findmycar-cv-02"
+        ]
+      },
+      {
+        "id": "hr-2026",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "1cda6b5d0eb046b5b5a3899eee68e0dc71a7e05ccabbb193815b1b3303fc7981",
+        "bullet_ids": [
+          "plotline-encoding",
+          "plotline-query"
+        ]
+      },
+      {
+        "id": "ss-dcl",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "06cbf73ce5f89a8fa908d6ca39afde7c0dafcc8af85e21695f2ce10a79fca649",
+        "bullet_ids": [
+          "ss-dcl-product",
+          "ss-dcl-similarity"
+        ]
+      }
+    ],
+    "draft_id": "talentx-keysight-technologies-a60390b40bda",
+    "status": "draft",
+    "created_at": "2026-10-22T13:08:38.172723+08:00",
+    "path": "keysight-technologies.md",
+    "sha256": "0a8f5231e52f491427e600defa5f52a41efc31e40403af3cebec91bda43b269f"
+  },
+  "release": {
+    "id": "talentx-keysight-technologies-2026-10-22-v1",
+    "scope": "talentx-keysight-technologies",
+    "purpose": "application",
+    "status": "active",
+    "path": "keysight-technologies.pdf",
+    "sha256": "23e6ab919cb291be466b6101aabd91b99d3f63e8ff1b1c91c0c7161377c1a911",
+    "released_at": "2026-10-22T13:09:26.281313+08:00",
+    "effective_from": "2026-10-22T13:09:26.281313+08:00",
+    "review_due_at": "2026-11-21T13:09:26.281313+08:00",
+    "valid_until": null,
+    "supersedes": null,
+    "superseded_by": null,
+    "source_master_id": "master-2026-10-18-v2",
+    "selected_projects": [
+      {
+        "id": "findmycar",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "98cd08c1fb85ee37b1aab30ad2e53fb1ffe90e2c17f7fb118bdf0f0d34a10c85",
+        "bullet_ids": [
+          "findmycar-cv-01",
+          "findmycar-cv-02"
+        ]
+      },
+      {
+        "id": "hr-2026",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "1cda6b5d0eb046b5b5a3899eee68e0dc71a7e05ccabbb193815b1b3303fc7981",
+        "bullet_ids": [
+          "plotline-encoding",
+          "plotline-query"
+        ]
+      },
+      {
+        "id": "ss-dcl",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "06cbf73ce5f89a8fa908d6ca39afde7c0dafcc8af85e21695f2ce10a79fca649",
+        "bullet_ids": [
+          "ss-dcl-product",
+          "ss-dcl-similarity"
+        ]
+      }
+    ],
+    "original_source": null,
+    "selected_with_master_id": null,
+    "draft_provenance": {
+      "preset": "talentx-keysight-technologies",
+      "preset_configuration": {
+        "projects": [
+          "findmycar",
+          "hr-2026",
+          "ss-dcl"
+        ],
+        "bullets_per_project": 2
+      },
+      "source_master_id": "master-2026-10-18-v2",
+      "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+      "selected_projects": [
+        {
+          "id": "findmycar",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "98cd08c1fb85ee37b1aab30ad2e53fb1ffe90e2c17f7fb118bdf0f0d34a10c85",
+          "bullet_ids": [
+            "findmycar-cv-01",
+            "findmycar-cv-02"
+          ]
+        },
+        {
+          "id": "hr-2026",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "1cda6b5d0eb046b5b5a3899eee68e0dc71a7e05ccabbb193815b1b3303fc7981",
+          "bullet_ids": [
+            "plotline-encoding",
+            "plotline-query"
+          ]
+        },
+        {
+          "id": "ss-dcl",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "06cbf73ce5f89a8fa908d6ca39afde7c0dafcc8af85e21695f2ce10a79fca649",
+          "bullet_ids": [
+            "ss-dcl-product",
+            "ss-dcl-similarity"
+          ]
+        }
+      ],
+      "draft_id": "talentx-keysight-technologies-a60390b40bda",
+      "status": "draft",
+      "created_at": "2026-10-22T13:08:38.172723+08:00",
+      "path": "keysight-technologies.md",
+      "sha256": "0a8f5231e52f491427e600defa5f52a41efc31e40403af3cebec91bda43b269f"
+    },
+    "notes": "TalentXperience: Keysight Technologies. Connected-device software, efficient queries and cached image matching. Two-page PDF inspected; faithful helper draft; credential links disabled."
+  },
+  "release_id": "talentx-keysight-technologies-2026-10-22-v1",
+  "review_due_at": "2026-11-21T13:09:26.281313+08:00",
+  "selected_projects": [
+    {
+      "id": "findmycar",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "98cd08c1fb85ee37b1aab30ad2e53fb1ffe90e2c17f7fb118bdf0f0d34a10c85",
+      "bullet_ids": [
+        "findmycar-cv-01",
+        "findmycar-cv-02"
+      ]
+    },
+    {
+      "id": "hr-2026",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "1cda6b5d0eb046b5b5a3899eee68e0dc71a7e05ccabbb193815b1b3303fc7981",
+      "bullet_ids": [
+        "plotline-encoding",
+        "plotline-query"
+      ]
+    },
+    {
+      "id": "ss-dcl",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "06cbf73ce5f89a8fa908d6ca39afde7c0dafcc8af85e21695f2ce10a79fca649",
+      "bullet_ids": [
+        "ss-dcl-product",
+        "ss-dcl-similarity"
+      ]
+    }
+  ],
+  "tailoring_note": "Connected-device software, efficient queries and cached image matching.",
+  "verification": {
+    "text_matches_helper_draft": true,
+    "all_pages_visually_inspected": true,
+    "credential_hyperlinks": false,
+    "resolved_before_copy": true
+  }
+}

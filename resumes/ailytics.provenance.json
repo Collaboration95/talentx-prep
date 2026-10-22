@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "company_id": "ailytics",
+  "company_name": "Ailytics",
+  "path_base": ".",
+  "packaged_at": "2026-10-22T13:09:25.697929+08:00",
+  "source_master_id": "master-2026-10-18-v2",
+  "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+  "source_master": {
+    "id": "master-2026-10-18-v2",
+    "path": "sources/master-2026-10-18-v2.md",
+    "sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e"
+  },
+  "pdf": {
+    "path": "ailytics.pdf",
+    "sha256": "ec7757839aa16c335f8711c7511e399aaad6420ac67c57aaf3bc4ca06e0aec26",
+    "page_count": 2
+  },
+  "markdown": {
+    "path": "ailytics.md",
+    "sha256": "ff9d57243cf28dfa51aca8024803c6e8ce08f0da6c2deb6f44c07661a7f478a8"
+  },
+  "draft_manifest": {
+    "preset": "talentx-ailytics",
+    "preset_configuration": {
+      "projects": [
+        "fitback",
+        "talktoit",
+        "findmycar"
+      ],
+      "bullets_per_project": 2
+    },
+    "source_master_id": "master-2026-10-18-v2",
+    "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+    "selected_projects": [
+      {
+        "id": "fitback",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "437f81e587a019a7bed5a6a6018d1c02f61bcc23fac4b7b015cae8b49d71d6a8",
+        "bullet_ids": [
+          "fitback-cv-01",
+          "fitback-cv-02"
+        ]
+      },
+      {
+        "id": "talktoit",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+        "bullet_ids": [
+          "talktoit-ingest",
+          "talktoit-fullstack"
+        ]
+      },
+      {
+        "id": "findmycar",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "98cd08c1fb85ee37b1aab30ad2e53fb1ffe90e2c17f7fb118bdf0f0d34a10c85",
+        "bullet_ids": [
+          "findmycar-cv-01",
+          "findmycar-cv-02"
+        ]
+      }
+    ],
+    "draft_id": "talentx-ailytics-d68413a31484",
+    "status": "draft",
+    "created_at": "2026-10-22T13:08:36.817399+08:00",
+    "path": "ailytics.md",
+    "sha256": "ff9d57243cf28dfa51aca8024803c6e8ce08f0da6c2deb6f44c07661a7f478a8"
+  },
+  "release": {
+    "id": "talentx-ailytics-2026-10-22-v1",
+    "scope": "talentx-ailytics",
+    "purpose": "application",
+    "status": "active",
+    "path": "ailytics.pdf",
+    "sha256": "ec7757839aa16c335f8711c7511e399aaad6420ac67c57aaf3bc4ca06e0aec26",
+    "released_at": "2026-10-22T13:09:25.642212+08:00",
+    "effective_from": "2026-10-22T13:09:25.642212+08:00",
+    "review_due_at": "2026-11-21T13:09:25.642212+08:00",
+    "valid_until": null,
+    "supersedes": null,
+    "superseded_by": null,
+    "source_master_id": "master-2026-10-18-v2",
+    "selected_projects": [
+      {
+        "id": "fitback",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "437f81e587a019a7bed5a6a6018d1c02f61bcc23fac4b7b015cae8b49d71d6a8",
+        "bullet_ids": [
+          "fitback-cv-01",
+          "fitback-cv-02"
+        ]
+      },
+      {
+        "id": "talktoit",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+        "bullet_ids": [
+          "talktoit-ingest",
+          "talktoit-fullstack"
+        ]
+      },
+      {
+        "id": "findmycar",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "98cd08c1fb85ee37b1aab30ad2e53fb1ffe90e2c17f7fb118bdf0f0d34a10c85",
+        "bullet_ids": [
+          "findmycar-cv-01",
+          "findmycar-cv-02"
+        ]
+      }
+    ],
+    "original_source": null,
+    "selected_with_master_id": null,
+    "draft_provenance": {
+      "preset": "talentx-ailytics",
+      "preset_configuration": {
+        "projects": [
+          "fitback",
+          "talktoit",
+          "findmycar"
+        ],
+        "bullets_per_project": 2
+      },
+      "source_master_id": "master-2026-10-18-v2",
+      "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+      "selected_projects": [
+        {
+          "id": "fitback",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "437f81e587a019a7bed5a6a6018d1c02f61bcc23fac4b7b015cae8b49d71d6a8",
+          "bullet_ids": [
+            "fitback-cv-01",
+            "fitback-cv-02"
+          ]
+        },
+        {
+          "id": "talktoit",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+          "bullet_ids": [
+            "talktoit-ingest",
+            "talktoit-fullstack"
+          ]
+        },
+        {
+          "id": "findmycar",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "98cd08c1fb85ee37b1aab30ad2e53fb1ffe90e2c17f7fb118bdf0f0d34a10c85",
+          "bullet_ids": [
+            "findmycar-cv-01",
+            "findmycar-cv-02"
+          ]
+        }
+      ],
+      "draft_id": "talentx-ailytics-d68413a31484",
+      "status": "draft",
+      "created_at": "2026-10-22T13:08:36.817399+08:00",
+      "path": "ailytics.md",
+      "sha256": "ff9d57243cf28dfa51aca8024803c6e8ce08f0da6c2deb6f44c07661a7f478a8"
+    },
+    "notes": "TalentXperience: Ailytics. Computer vision, data pipelines and live sensor dashboards. Two-page PDF inspected; faithful helper draft; credential links disabled."
+  },
+  "release_id": "talentx-ailytics-2026-10-22-v1",
+  "review_due_at": "2026-11-21T13:09:25.642212+08:00",
+  "selected_projects": [
+    {
+      "id": "fitback",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "437f81e587a019a7bed5a6a6018d1c02f61bcc23fac4b7b015cae8b49d71d6a8",
+      "bullet_ids": [
+        "fitback-cv-01",
+        "fitback-cv-02"
+      ]
+    },
+    {
+      "id": "talktoit",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+      "bullet_ids": [
+        "talktoit-ingest",
+        "talktoit-fullstack"
+      ]
+    },
+    {
+      "id": "findmycar",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "98cd08c1fb85ee37b1aab30ad2e53fb1ffe90e2c17f7fb118bdf0f0d34a10c85",
+      "bullet_ids": [
+        "findmycar-cv-01",
+        "findmycar-cv-02"
+      ]
+    }
+  ],
+  "tailoring_note": "Computer vision, data pipelines and live sensor dashboards.",
+  "verification": {
+    "text_matches_helper_draft": true,
+    "all_pages_visually_inspected": true,
+    "credential_hyperlinks": false,
+    "resolved_before_copy": true
+  }
+}

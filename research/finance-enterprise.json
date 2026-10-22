@@ -1,0 +1,226 @@
+[
+  {
+    "id": "1fss",
+    "name": "1FSS",
+    "website": "https://www.1fss.com.sg/",
+    "careers_url": "https://www.1fss.com.sg/careers",
+    "summary": "1FSS Pte Ltd provides finance shared services for Singapore's public healthcare system. MOH Holdings identifies it within the public healthcare ecosystem; this is a finance operations organisation, not a clinical AI vendor.",
+    "products": ["Payroll processing services", "Accounts payable and accounts receivable processing services"],
+    "fit_reason": "The event guide suggests AI/ML and data analytics projects. Finance exception handling, reconciliation and reliable reporting are useful discussion areas for a Python/SQL candidate; these are preparation ideas, not verified project assignments or vacancies.",
+    "priority": "medium",
+    "tags": ["healthcare-finance", "data-analytics", "process-automation", "event-project-lead"],
+    "resume_track": "data-cloud",
+    "conversation_opener": "I'm studying Software Engineering at NUS-ISS and am interested in using Python and data pipelines to improve finance workflows. Which reconciliation or exception-handling problems would be suitable for an intern?",
+    "questions": [
+      "For the event's AI/data focus, is the intended project invoice classification, reconciliation, reporting, or another finance workflow?",
+      "What data access, anonymisation and audit requirements would an intern need to design around, and what tools would they use?",
+      "Can you offer a non-credit-bearing internship to a foreign NUS-ISS Student Pass holder, for what dates and duration, and is EP sponsorship possible for a later full-time role?"
+    ],
+    "learning": [
+      "Sketch an invoice-to-payment pipeline with validation, duplicate detection, exception queues and an auditable human approval step.",
+      "Prepare a SQL reconciliation example that handles duplicate keys, missing records and monetary precision; explain when rules are safer than an ML classifier."
+    ],
+    "roles": [],
+    "opportunity_status": "No matching software/AI/data/cloud vacancy verified. The official careers page inspected lists finance and HR positions; the event's AI/ML and analytics themes remain potential internship focus, not published openings.",
+    "eligibility_note": "Technical internship eligibility, non-credit acceptance, intake dates, duration, language requirements and sponsorship are unknown. The candidate is a foreigner on a Student Pass, needs EP sponsorship for full-time work and has no Chinese proficiency; do not infer eligibility from public healthcare affiliation.",
+    "sources": [
+      {"title": "MOH Holdings: Our entities", "url": "https://www.mohh.com.sg/who-we-are/our-entities", "note": "Official identity/context source: identifies 1FSS and its payroll and accounts receivable/payable services."},
+      {"title": "1FSS official website", "url": "https://www.1fss.com.sg/", "note": "Opened live; identifies 1FSS Pte Ltd and its Singapore address."},
+      {"title": "1FSS Careers", "url": "https://www.1fss.com.sg/careers", "note": "Opened live on 22 October 2026. Listed finance/HR roles, including October position dates; no technical internship was displayed. The published application route is HR email; no contact was made."}
+    ],
+    "checked_at": "2026-10-22T13:08:43+08:00"
+  },
+  {
+    "id": "julius-baer",
+    "name": "Julius Baer",
+    "website": "https://www.juliusbaer.com/",
+    "careers_url": "https://juliusbaer.wd3.myworkdayjobs.com/en-US/External",
+    "summary": "Julius Baer is a Swiss wealth management group with a Singapore presence. Its offering covers investment services, financing and wealth planning; technology supports financial platforms and banking operations.",
+    "products": ["Investment advisory and investment services", "Wealth planning and financing solutions"],
+    "fit_reason": "The event guide names software development, AI/ML and analytics. The historical Singapore GPS associate role demonstrates application-support and automation work, but does not establish a current opening. Useful preparation areas are reliable backend services, SQL investigation and controlled automation.",
+    "priority": "medium",
+    "tags": ["wealth-management", "banking-technology", "backend", "application-support"],
+    "resume_track": "software-backend",
+    "conversation_opener": "I'm studying Software Engineering at NUS-ISS and am interested in reliable banking services and automation. Does the Singapore technology team have off-cycle internships where I could contribute to backend workflows or data quality?",
+    "questions": [
+      "Which Singapore teams are offering off-cycle software, AI or data internships now, rather than the July summer programme?",
+      "Would an intern work on application development, production support automation, or analytics, and how are changes reviewed before touching trading or client systems?",
+      "Are foreign Student Pass holders eligible for non-credit-bearing placements, what is the required commitment, and can the team sponsor an EP for an eventual full-time role?"
+    ],
+    "learning": [
+      "Practise diagnosing a failed trade-processing workflow using correlated logs and SQL, then explain escalation, rollback and incident communication.",
+      "Design an idempotent banking API with transaction boundaries, access controls and audit logs; explain how retries avoid duplicate business actions."
+    ],
+    "roles": [
+      {
+        "title": "GPS Associate Application Support Analyst",
+        "url": "https://juliusbaer.wd3.myworkdayjobs.com/en-US/External/job/Singapore/GPS-Associate-Application-Support-Analyst_r-18241-1",
+        "location": "Singapore",
+        "status": "closed",
+        "type": "Full-time; 24-month associate development programme",
+        "eligibility": "Historical official indexed description: relevant bachelor's/master's degree, 2–4 years' experience including internships, English fluency. Sponsorship unspecified.",
+        "fit": "Relevant to SQL, support and automation, but the published 31 July 2026 deadline has passed. The candidate's satisfaction of the two-year experience minimum is not established; this is not an active target.",
+        "source_note": "Opened the actual Workday vacancy URL, which returned no readable body. Official Workday search-index text explicitly gives an end date of 31 July 2026, requisition r-18241, Singapore and the programme details. Marked closed by that past deadline; no reopening was verified. Relative countdown text in the old index was disregarded."
+      }
+    ],
+    "opportunity_status": "No current matching Singapore vacancy verified. The historical GPS associate listing is past deadline. The official internship page describes summer and off-cycle routes, but a general programme page is not a live Singapore role.",
+    "eligibility_note": "Sponsorship, non-credit eligibility and current local intake remain unknown. The general summer programme describes a July start and ten weeks, with enrolment from second year onwards; those conditions must not be assumed to cover an off-cycle NUS-ISS master's placement. No Chinese requirement was established for the historical GPS role.",
+    "sources": [
+      {"title": "Julius Baer: About us", "url": "https://www.juliusbaer.com/en/about-us/", "note": "Opened official company identity page; confirms wealth management and Singapore presence."},
+      {"title": "Julius Baer: Our solutions", "url": "https://www.juliusbaer.com/international/en/our-solutions/", "note": "Official product/service context: wealth planning, investing and financing."},
+      {"title": "Julius Baer: Internships", "url": "https://www.juliusbaer.com/en/careers/career-starters/internships/", "note": "Opened live. Describes summer/off-cycle internships and links the official Workday portal; does not verify an available Singapore position."},
+      {"title": "GPS Associate Application Support Analyst — official Workday listing", "url": "https://juliusbaer.wd3.myworkdayjobs.com/en-US/External/job/Singapore/GPS-Associate-Application-Support-Analyst_r-18241-1", "note": "Actual detail URL opened but body unreadable. Official indexed text gives the historical 31 July 2026 closing date and requirements; not evidence of current availability."}
+    ],
+    "checked_at": "2026-10-22T13:08:43+08:00"
+  },
+  {
+    "id": "sap-fioneer",
+    "name": "SAP Fioneer",
+    "website": "https://www.sapfioneer.com/",
+    "careers_url": "https://www.sapfioneer.com/careers/",
+    "summary": "SAP Fioneer develops software for banks and insurers, including core banking, insurance operations and financial data products. It is a distinct employer from SAP; SAP job listings must not be attributed to Fioneer.",
+    "products": ["Core Banking and banking software solutions", "Fioneer AI Agent for financial-services workflows"],
+    "fit_reason": "Strong event conversation priority because the guide names software engineering, AI, cloud and DevOps, and the official site describes an AI agent product. This establishes product relevance, not a Singapore engineering vacancy. A Singapore business analyst internship has a direct ATS lead whose live details remain unverified.",
+    "priority": "high",
+    "tags": ["financial-software", "ai-agents", "cloud", "banking", "unverified-role-lead"],
+    "resume_track": "ai-agents",
+    "conversation_opener": "I'm studying Software Engineering at NUS-ISS and am interested in agents that safely act within enterprise workflows. For your Singapore team, are internship projects closer to banking implementation, engineering, or AI agent development?",
+    "questions": [
+      "Is the Business Analyst internship at Workable requisition 761E356655 still recruiting, and how much of its work is technical implementation versus pre-sales and requirements analysis?",
+      "For Fioneer AI Agent projects, how do you evaluate task correctness, limit tool permissions and decide when a financial action needs human approval?",
+      "Can a foreign NUS-ISS Student Pass holder join a non-credit-bearing internship immediately, for what duration, and is EP sponsorship available for full-time conversion?"
+    ],
+    "learning": [
+      "Prepare an agent design for a financial exception workflow with retrieval grounding, narrowly scoped tools, approval gates and an evaluation set for unsafe actions.",
+      "Review deposits, lending and payments at a conceptual level; practise translating one banking requirement into an API contract, acceptance criteria and integration tests."
+    ],
+    "roles": [
+      {
+        "title": "Internship - Business Analyst (f/d/m)",
+        "url": "https://apply.workable.com/fioneer/j/761E356655",
+        "location": "Singapore — discovery lead; official detail not independently readable",
+        "status": "unverified",
+        "type": "Internship — discovery lead",
+        "eligibility": "Official vacancy requirements could not be read; enrolment conditions, languages, experience minimum, dates, duration, non-credit acceptance and sponsorship remain unverified.",
+        "fit": "Potential bridge into banking software requirements and implementation. Engineering depth and current availability must be confirmed; do not advertise this as an open software engineering internship.",
+        "source_note": "SAP Fioneer's official careers page links its Workable tenant. A secondary discovery page linked this exact vacancy URL. The actual vacancy was opened, but returned no readable description; follow-up access failed and the collaborative browser timed out. No verified-open claim is made, and secondary posting dates were not adopted."
+      }
+    ],
+    "opportunity_status": "Official careers and Workable routes verified; one Singapore internship lead recorded as unverified. No live Singapore software/AI/cloud opening confirmed. Event focus and the AI product are conversation evidence, not hiring evidence.",
+    "eligibility_note": "Sponsorship, Student Pass eligibility, non-credit acceptance, duration, intake and local language requirements are unknown. Candidate availability is immediate, but employer intake is not established. Prioritisation reflects technical discussion fit, not a confirmed offerable placement.",
+    "sources": [
+      {"title": "SAP Fioneer Careers", "url": "https://www.sapfioneer.com/careers/", "note": "Opened live. Official employer page links apply.workable.com/fioneer and separately describes graduate and professional routes."},
+      {"title": "Fioneer AI Agent", "url": "https://www.sapfioneer.com/sap-fioneer-ai-agent/", "note": "Opened official product page. Describes financial-services AI agent integration, cloud/on-prem deployment and support for existing environments; does not establish Singapore hiring."},
+      {"title": "SAP Fioneer — Workable", "url": "https://apply.workable.com/fioneer/", "note": "Officially linked ATS tenant opened; no readable vacancy list was returned."},
+      {"title": "Business Analyst internship — Workable detail", "url": "https://apply.workable.com/fioneer/j/761E356655", "note": "Actual vacancy URL opened but body unreadable. Live status and requirements are unverified."},
+      {"title": "Business Analyst internship — secondary URL discovery only", "url": "https://www.reqspace.ai/jobs/sap-fioneer/internship-business-analyst-f-d-m-c4ab386c", "note": "Used only to discover the direct Workable URL and lead title/location. Not accepted as proof of a live role or eligibility."}
+    ],
+    "checked_at": "2026-10-22T13:08:43+08:00"
+  },
+  {
+    "id": "singlife",
+    "name": "Singlife",
+    "website": "https://singlife.com/en",
+    "careers_url": "https://singlife.com/en/careers",
+    "summary": "Singapore Life Ltd., branded Singlife, provides insurance, savings and investment services. Its customer and intermediary portals support policy management, claims and investment workflows.",
+    "products": ["Life, medical and lifestyle insurance", "Singlife Account and savings/investment offerings"],
+    "fit_reason": "The event guide identifies software, AI/ML and analytics as potential internship focus. Insurance data quality, claims workflows and customer-service systems offer concrete preparation topics, although no matching live technical vacancy was verified through the official hiring portal.",
+    "priority": "high",
+    "tags": ["insurance", "data-analytics", "digital-workflows", "event-project-lead"],
+    "resume_track": "data-cloud",
+    "conversation_opener": "I'm studying Software Engineering at NUS-ISS and am interested in dependable data and automation for insurance workflows. Which teams are considering interns for software or analytics projects outside the Management Associate programme?",
+    "questions": [
+      "Which Singapore software, AI or data teams are taking off-cycle interns, and what would be a concrete first project?",
+      "For claims or customer data projects, how do you validate data quality, control sensitive-data access and measure whether automation improves the workflow?",
+      "The published MAP is citizen/PR-only; do separate technical internships accept foreign Student Pass holders on non-credit-bearing placements, and what duration and future EP sponsorship are possible?"
+    ],
+    "learning": [
+      "Design a policy-and-claims reporting pipeline with clear join keys, late-arriving updates and privacy-aware access; prepare SQL checks for duplicate or inconsistent claims.",
+      "Outline a retrieval-assisted insurance service workflow that cites policy wording, avoids unsupported coverage answers and escalates ambiguous cases to staff."
+    ],
+    "roles": [
+      {
+        "title": "2026 Management Associate Programme",
+        "url": "https://singlife.com/en/careers/management-associate-programme",
+        "location": "Singapore",
+        "status": "closed",
+        "type": "Two-year management associate programme; not a confirmed software track",
+        "eligibility": "Official page restricts eligibility to Singapore citizens/PRs and fresh bachelor's/master's graduates with less than one year of work experience.",
+        "fit": "Blocked by citizenship/residency and closed intake. A separate technical internship may have different rules; no such eligibility is inferred.",
+        "source_note": "Opened the actual official programme page. It explicitly states that applications for the 2026 programme are closed and lists Singaporean/Singapore PR eligibility. No next-intake date was established."
+      }
+    ],
+    "opportunity_status": "Corporate Darwinbox portal confirmed, but its vacancy content was unreadable. No current technical role verified. The 2026 MAP is explicitly closed and citizen/PR-only; event software/AI/data themes are exploratory.",
+    "eligibility_note": "The MAP is ineligible for this foreign candidate. That restriction is programme-specific and must not be extended to every Singlife job. Technical internship sponsorship, non-credit acceptance, language requirements, start date and duration remain unknown.",
+    "sources": [
+      {"title": "Singlife Careers", "url": "https://singlife.com/en/careers", "note": "Opened official careers page; identifies corporate careers separately from financial adviser routes and links Darwinbox. Product navigation supports the business context."},
+      {"title": "Singlife corporate careers — Darwinbox", "url": "https://singlife.darwinbox.com/ms/candidate/careers", "note": "Officially linked ATS opened, but no readable job content was returned; portal existence is not proof of an opening."},
+      {"title": "Singlife Management Associate Programme", "url": "https://singlife.com/en/careers/management-associate-programme", "note": "Actual programme page opened. Explicit 2026 closure, two-year duration, citizen/PR requirement and fresh-graduate criteria verified."}
+    ],
+    "checked_at": "2026-10-22T13:08:43+08:00"
+  },
+  {
+    "id": "octomate",
+    "name": "Octomate",
+    "website": "https://www.octomate.us/",
+    "careers_url": "https://jobs.octomate.us/job-seeker",
+    "summary": "Octomate is HRnetGroup's workforce technology brand operating under HRnet Technologies Pte Ltd, as confirmed by an issuer announcement. Its workforce software should be distinguished from Octomate Staffing's recruitment marketplace and unrelated namesakes.",
+    "products": ["Cloud workforce management for attendance, leave and payroll", "Octomate Jobs recruitment and staffing platform"],
+    "fit_reason": "The event guide suggests business analytics and project management rather than a named developer vacancy. Requirements analysis, HR system integration and data validation are useful bridges to software work. Ask whether the opportunity belongs to the product team or is a placement with a staffing client.",
+    "priority": "medium",
+    "tags": ["hrtech", "workforce-saas", "business-analysis", "system-integration"],
+    "resume_track": "software-backend",
+    "conversation_opener": "I'm studying Software Engineering at NUS-ISS and am interested in how workforce products turn operational requirements into reliable software. Would your internship sit with the Octomate product team, implementation team, or a staffing client?",
+    "questions": [
+      "For the event's business analytics and project focus, would I define product requirements and test system modules, or mainly support recruitment operations?",
+      "How do attendance and leave events flow into payroll, and which integration or data-quality problems could an intern help solve?",
+      "Which entity would employ the intern, and can it accept a foreign Student Pass holder for a non-credit-bearing placement, with what duration and possible EP sponsorship later?"
+    ],
+    "learning": [
+      "Model timesheets, shifts, leave and payroll cutoffs; explain how to handle overlapping shifts, corrected clock events and time-zone boundaries without losing the audit trail.",
+      "Write acceptance criteria and API validation rules for an expense claim, including duplicate receipts, approval state transitions and safe retries."
+    ],
+    "roles": [],
+    "opportunity_status": "Portal-only evidence: the official job-seeker page returned placeholder job titles rather than readable vacancies. No matching direct product-team software/data internship verified. The event analytics/project themes are potential focus, not published positions.",
+    "eligibility_note": "Employer entity, direct-versus-client placement, sponsorship, non-credit acceptance, languages, dates and duration are unknown. Do not attribute India-based Octomate AI developer adverts or South African Octomate Education opportunities to this Singapore HR technology business.",
+    "sources": [
+      {"title": "HRnetGroup issuer announcement: Octomate contract win", "url": "https://links.sgx.com/FileOpen/HRnetGroup%20Octomate%20wins%20Sentosa%20tender%2021.1.2026.ashx?App=Announcement&FileID=872692", "note": "Primary issuer announcement dated 21 January 2026, opened live. Identifies Octomate as HRnetGroup's HRtech brand under HRnet Technologies Pte Ltd; describes cloud attendance, leave and payroll functions. This public issuer PDF is unrelated to the private event PDFs."},
+      {"title": "Octomate official website", "url": "https://www.octomate.us/", "note": "Opened live; extraction displayed the privacy notice naming Octomate entities rather than complete product navigation."},
+      {"title": "About Octomate Staffing", "url": "https://jobs.octomate.us/about-us", "note": "Opened official staffing site. Confirms HRnetGroup connection and technology-enabled recruitment/payroll context; staffing is distinct from a direct software-team opening."},
+      {"title": "Octomate job-seeker portal", "url": "https://jobs.octomate.us/job-seeker", "note": "Opened live; returned generic Job Title/Job Company placeholders, so no vacancy or availability could be verified."}
+    ],
+    "checked_at": "2026-10-22T13:08:43+08:00"
+  },
+  {
+    "id": "trainocate",
+    "name": "Trainocate",
+    "website": "https://trainocate.com/sg/",
+    "careers_url": "https://trainocate.com/sg/career",
+    "summary": "Trainocate Singapore provides professional technology training in cloud, data, AI and related disciplines. Its training courses, placement programmes and internal employment vacancies are separate opportunities and have different eligibility rules.",
+    "products": ["Cloud and AI/data technical training", "Remote labs and certification/testing services"],
+    "fit_reason": "The event guide suggests software development. Explore internal learning tools, lab automation or platform engineering; these are candidate discussion ideas, not confirmed assignments. The published AWS placement programme is blocked by citizenship/PR eligibility, so it is not a substitute internship route.",
+    "priority": "explore",
+    "tags": ["technical-training", "cloud", "lab-automation", "eligibility-blocker"],
+    "resume_track": "data-cloud",
+    "conversation_opener": "I'm studying Software Engineering at NUS-ISS and am interested in building software for learning platforms and cloud labs. Is your event opportunity an internal development internship, separate from teaching and the AWS Career Launchpad?",
+    "questions": [
+      "What software would an intern build: learning-platform features, lab provisioning, assessment tools, or another internal system?",
+      "What is the current stack and how would the team assess a junior developer's work through code review, automated checks and lab reliability?",
+      "Outside the citizen/PR-only AWS Career Launchpad, do you offer direct non-credit-bearing internships for foreign Student Pass holders, with what duration and potential EP sponsorship later?"
+    ],
+    "learning": [
+      "Sketch cloud lab provisioning with per-learner isolation, least-privilege access, resource tagging, cost controls and automatic teardown.",
+      "Design a small API that tracks lab attempts and assessment results; explain reproducibility, failure recovery and how to avoid exposing credentials in logs."
+    ],
+    "roles": [],
+    "opportunity_status": "No matching Singapore junior/software internship verified on the official careers page. AWS Career Launchpad is a programme, not a specific vacancy, and excludes this foreign candidate. An old Databricks instructor advert on the vendor's staging site has a 31 January 2026 deadline and a five-year minimum; excluded from targets.",
+    "eligibility_note": "Explicit blocker: AWS Career Launchpad requires Singapore citizenship or PR, which the candidate does not hold. This does not prove all internal Trainocate roles have that restriction. Direct internship non-credit acceptance, sponsorship, language requirements, intake and duration remain unknown. The five-year instructor requirement exceeds the target ceiling.",
+    "sources": [
+      {"title": "About Trainocate Singapore", "url": "https://trainocate.com/sg/about-us", "note": "Opened official identity/service page. Describes technical training in analytics, AI, cloud and data, alongside training/testing services."},
+      {"title": "Trainocate Singapore Careers", "url": "https://trainocate.com/sg/career", "note": "Opened live. Available Vacancies section and a general application form were present, but no named Singapore junior technical opening was displayed."},
+      {"title": "AWS Career Launchpad with Trainocate", "url": "https://trainocate.com/sg/aws-career-launchpad-with-trainocate", "note": "Opened actual official programme page. Explicit Singapore citizen/PR eligibility verified; not a named software vacancy. Programme conditions must not be generalized to direct employment."},
+      {"title": "Trainocate staging careers — historical instructor listing", "url": "https://staging.trainocate.com/career", "note": "Opened actual vendor-hosted advert. Databricks instructor listing includes Singapore, a minimum of five years and last application date 31 January 2026. Staging content and a past deadline do not establish current hiring; excluded."}
+    ],
+    "checked_at": "2026-10-22T13:08:43+08:00"
+  }
+]

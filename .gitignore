@@ -1,0 +1,11 @@
+.local/
+__pycache__/
+.DS_Store
+node_modules/
+*.tmp
+# Supplied event PDFs must never be committed.
+*Company*Guide*.pdf
+*Student*Briefing*.pdf
+
+# Visitor exports are private browser data, never source.
+talentx-notes-*.json

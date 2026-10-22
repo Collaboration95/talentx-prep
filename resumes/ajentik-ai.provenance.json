@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "company_id": "ajentik-ai",
+  "company_name": "Ajentik AI",
+  "path_base": ".",
+  "packaged_at": "2026-10-22T13:09:25.805671+08:00",
+  "source_master_id": "master-2026-10-18-v2",
+  "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+  "source_master": {
+    "id": "master-2026-10-18-v2",
+    "path": "sources/master-2026-10-18-v2.md",
+    "sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e"
+  },
+  "pdf": {
+    "path": "ajentik-ai.pdf",
+    "sha256": "3e1a4fda9325f806f5a1ca12b9a02e8543168b335dbb2dc20a276bff5e96cbb5",
+    "page_count": 2
+  },
+  "markdown": {
+    "path": "ajentik-ai.md",
+    "sha256": "168e0a083a26b7f14927bcfb5e1bc6ae3cb51fdffdb315894c5ece5b2f443c0c"
+  },
+  "draft_manifest": {
+    "preset": "talentx-ajentik-ai",
+    "preset_configuration": {
+      "projects": [
+        "researchagent",
+        "common-grounds-makeathon",
+        "talktoit"
+      ],
+      "bullets_per_project": 2
+    },
+    "source_master_id": "master-2026-10-18-v2",
+    "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+    "selected_projects": [
+      {
+        "id": "researchagent",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "814806fdd505b40f66f5b47cfba3c43d80df9c736cb1121b00cd928fa048c098",
+        "bullet_ids": [
+          "researchagent-cv-01",
+          "researchagent-cv-02"
+        ]
+      },
+      {
+        "id": "common-grounds-makeathon",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+        "bullet_ids": [
+          "commons-loop",
+          "commons-realtime"
+        ]
+      },
+      {
+        "id": "talktoit",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+        "bullet_ids": [
+          "talktoit-ingest",
+          "talktoit-fullstack"
+        ]
+      }
+    ],
+    "draft_id": "talentx-ajentik-ai-e3015415c757",
+    "status": "draft",
+    "created_at": "2026-10-22T13:08:37.040385+08:00",
+    "path": "ajentik-ai.md",
+    "sha256": "168e0a083a26b7f14927bcfb5e1bc6ae3cb51fdffdb315894c5ece5b2f443c0c"
+  },
+  "release": {
+    "id": "talentx-ajentik-ai-2026-10-22-v1",
+    "scope": "talentx-ajentik-ai",
+    "purpose": "application",
+    "status": "active",
+    "path": "ajentik-ai.pdf",
+    "sha256": "3e1a4fda9325f806f5a1ca12b9a02e8543168b335dbb2dc20a276bff5e96cbb5",
+    "released_at": "2026-10-22T13:09:25.751768+08:00",
+    "effective_from": "2026-10-22T13:09:25.751768+08:00",
+    "review_due_at": "2026-11-21T13:09:25.751768+08:00",
+    "valid_until": null,
+    "supersedes": null,
+    "superseded_by": null,
+    "source_master_id": "master-2026-10-18-v2",
+    "selected_projects": [
+      {
+        "id": "researchagent",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "814806fdd505b40f66f5b47cfba3c43d80df9c736cb1121b00cd928fa048c098",
+        "bullet_ids": [
+          "researchagent-cv-01",
+          "researchagent-cv-02"
+        ]
+      },
+      {
+        "id": "common-grounds-makeathon",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+        "bullet_ids": [
+          "commons-loop",
+          "commons-realtime"
+        ]
+      },
+      {
+        "id": "talktoit",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+        "bullet_ids": [
+          "talktoit-ingest",
+          "talktoit-fullstack"
+        ]
+      }
+    ],
+    "original_source": null,
+    "selected_with_master_id": null,
+    "draft_provenance": {
+      "preset": "talentx-ajentik-ai",
+      "preset_configuration": {
+        "projects": [
+          "researchagent",
+          "common-grounds-makeathon",
+          "talktoit"
+        ],
+        "bullets_per_project": 2
+      },
+      "source_master_id": "master-2026-10-18-v2",
+      "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+      "selected_projects": [
+        {
+          "id": "researchagent",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "814806fdd505b40f66f5b47cfba3c43d80df9c736cb1121b00cd928fa048c098",
+          "bullet_ids": [
+            "researchagent-cv-01",
+            "researchagent-cv-02"
+          ]
+        },
+        {
+          "id": "common-grounds-makeathon",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+          "bullet_ids": [
+            "commons-loop",
+            "commons-realtime"
+          ]
+        },
+        {
+          "id": "talktoit",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+          "bullet_ids": [
+            "talktoit-ingest",
+            "talktoit-fullstack"
+          ]
+        }
+      ],
+      "draft_id": "talentx-ajentik-ai-e3015415c757",
+      "status": "draft",
+      "created_at": "2026-10-22T13:08:37.040385+08:00",
+      "path": "ajentik-ai.md",
+      "sha256": "168e0a083a26b7f14927bcfb5e1bc6ae3cb51fdffdb315894c5ece5b2f443c0c"
+    },
+    "notes": "TalentXperience: Ajentik AI. Tool-using research agents, validated generation and conversational analytics. Two-page PDF inspected; faithful helper draft; credential links disabled."
+  },
+  "release_id": "talentx-ajentik-ai-2026-10-22-v1",
+  "review_due_at": "2026-11-21T13:09:25.751768+08:00",
+  "selected_projects": [
+    {
+      "id": "researchagent",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "814806fdd505b40f66f5b47cfba3c43d80df9c736cb1121b00cd928fa048c098",
+      "bullet_ids": [
+        "researchagent-cv-01",
+        "researchagent-cv-02"
+      ]
+    },
+    {
+      "id": "common-grounds-makeathon",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+      "bullet_ids": [
+        "commons-loop",
+        "commons-realtime"
+      ]
+    },
+    {
+      "id": "talktoit",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+      "bullet_ids": [
+        "talktoit-ingest",
+        "talktoit-fullstack"
+      ]
+    }
+  ],
+  "tailoring_note": "Tool-using research agents, validated generation and conversational analytics.",
+  "verification": {
+    "text_matches_helper_draft": true,
+    "all_pages_visually_inspected": true,
+    "credential_hyperlinks": false,
+    "resolved_before_copy": true
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "company_id": "trampolene",
+  "company_name": "Trampolene",
+  "path_base": ".",
+  "packaged_at": "2026-10-22T13:09:27.268947+08:00",
+  "source_master_id": "master-2026-10-18-v2",
+  "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+  "source_master": {
+    "id": "master-2026-10-18-v2",
+    "path": "sources/master-2026-10-18-v2.md",
+    "sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e"
+  },
+  "pdf": {
+    "path": "trampolene.pdf",
+    "sha256": "c4363145662869145db2528fd657ed9233eca28a7e35317bc9564b891f7a05e7",
+    "page_count": 2
+  },
+  "markdown": {
+    "path": "trampolene.md",
+    "sha256": "f22be71d35283e61960cccc045db3bb10da39dca96096a23d26728ca2681cb09"
+  },
+  "draft_manifest": {
+    "preset": "talentx-trampolene",
+    "preset_configuration": {
+      "projects": [
+        "talktoit",
+        "fitback",
+        "common-grounds-makeathon"
+      ],
+      "bullets_per_project": 2
+    },
+    "source_master_id": "master-2026-10-18-v2",
+    "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+    "selected_projects": [
+      {
+        "id": "talktoit",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+        "bullet_ids": [
+          "talktoit-ingest",
+          "talktoit-fullstack"
+        ]
+      },
+      {
+        "id": "fitback",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "437f81e587a019a7bed5a6a6018d1c02f61bcc23fac4b7b015cae8b49d71d6a8",
+        "bullet_ids": [
+          "fitback-cv-01",
+          "fitback-cv-02"
+        ]
+      },
+      {
+        "id": "common-grounds-makeathon",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+        "bullet_ids": [
+          "commons-loop",
+          "commons-realtime"
+        ]
+      }
+    ],
+    "draft_id": "talentx-trampolene-6be6ce59a368",
+    "status": "draft",
+    "created_at": "2026-10-22T13:08:40.398743+08:00",
+    "path": "trampolene.md",
+    "sha256": "f22be71d35283e61960cccc045db3bb10da39dca96096a23d26728ca2681cb09"
+  },
+  "release": {
+    "id": "talentx-trampolene-2026-10-22-v1",
+    "scope": "talentx-trampolene",
+    "purpose": "application",
+    "status": "active",
+    "path": "trampolene.pdf",
+    "sha256": "c4363145662869145db2528fd657ed9233eca28a7e35317bc9564b891f7a05e7",
+    "released_at": "2026-10-22T13:09:27.218065+08:00",
+    "effective_from": "2026-10-22T13:09:27.218065+08:00",
+    "review_due_at": "2026-11-21T13:09:27.218065+08:00",
+    "valid_until": null,
+    "supersedes": null,
+    "superseded_by": null,
+    "source_master_id": "master-2026-10-18-v2",
+    "selected_projects": [
+      {
+        "id": "talktoit",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+        "bullet_ids": [
+          "talktoit-ingest",
+          "talktoit-fullstack"
+        ]
+      },
+      {
+        "id": "fitback",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "437f81e587a019a7bed5a6a6018d1c02f61bcc23fac4b7b015cae8b49d71d6a8",
+        "bullet_ids": [
+          "fitback-cv-01",
+          "fitback-cv-02"
+        ]
+      },
+      {
+        "id": "common-grounds-makeathon",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+        "bullet_ids": [
+          "commons-loop",
+          "commons-realtime"
+        ]
+      }
+    ],
+    "original_source": null,
+    "selected_with_master_id": null,
+    "draft_provenance": {
+      "preset": "talentx-trampolene",
+      "preset_configuration": {
+        "projects": [
+          "talktoit",
+          "fitback",
+          "common-grounds-makeathon"
+        ],
+        "bullets_per_project": 2
+      },
+      "source_master_id": "master-2026-10-18-v2",
+      "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+      "selected_projects": [
+        {
+          "id": "talktoit",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+          "bullet_ids": [
+            "talktoit-ingest",
+            "talktoit-fullstack"
+          ]
+        },
+        {
+          "id": "fitback",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "437f81e587a019a7bed5a6a6018d1c02f61bcc23fac4b7b015cae8b49d71d6a8",
+          "bullet_ids": [
+            "fitback-cv-01",
+            "fitback-cv-02"
+          ]
+        },
+        {
+          "id": "common-grounds-makeathon",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+          "bullet_ids": [
+            "commons-loop",
+            "commons-realtime"
+          ]
+        }
+      ],
+      "draft_id": "talentx-trampolene-6be6ce59a368",
+      "status": "draft",
+      "created_at": "2026-10-22T13:08:40.398743+08:00",
+      "path": "trampolene.md",
+      "sha256": "f22be71d35283e61960cccc045db3bb10da39dca96096a23d26728ca2681cb09"
+    },
+    "notes": "TalentXperience: Trampolene. Health-data interfaces, image-based measurements and interactive applications. Two-page PDF inspected; faithful helper draft; credential links disabled."
+  },
+  "release_id": "talentx-trampolene-2026-10-22-v1",
+  "review_due_at": "2026-11-21T13:09:27.218065+08:00",
+  "selected_projects": [
+    {
+      "id": "talktoit",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+      "bullet_ids": [
+        "talktoit-ingest",
+        "talktoit-fullstack"
+      ]
+    },
+    {
+      "id": "fitback",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "437f81e587a019a7bed5a6a6018d1c02f61bcc23fac4b7b015cae8b49d71d6a8",
+      "bullet_ids": [
+        "fitback-cv-01",
+        "fitback-cv-02"
+      ]
+    },
+    {
+      "id": "common-grounds-makeathon",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+      "bullet_ids": [
+        "commons-loop",
+        "commons-realtime"
+      ]
+    }
+  ],
+  "tailoring_note": "Health-data interfaces, image-based measurements and interactive applications.",
+  "verification": {
+    "text_matches_helper_draft": true,
+    "all_pages_visually_inspected": true,
+    "credential_hyperlinks": false,
+    "resolved_before_copy": true
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "company_id": "octomate",
+  "company_name": "Octomate",
+  "path_base": ".",
+  "packaged_at": "2026-10-22T13:09:26.647442+08:00",
+  "source_master_id": "master-2026-10-18-v2",
+  "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+  "source_master": {
+    "id": "master-2026-10-18-v2",
+    "path": "sources/master-2026-10-18-v2.md",
+    "sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e"
+  },
+  "pdf": {
+    "path": "octomate.pdf",
+    "sha256": "83a4ce7a598c701fcfcf0bcd260fc7a59dd135d7e079edc56867bd0a0433a7b2",
+    "page_count": 2
+  },
+  "markdown": {
+    "path": "octomate.md",
+    "sha256": "8ca1f8b9468236a0fc8fd459062f267a8877e35ad2afe061261233322230ab56"
+  },
+  "draft_manifest": {
+    "preset": "talentx-octomate",
+    "preset_configuration": {
+      "projects": [
+        "ss-dcl",
+        "talktoit",
+        "common-grounds-makeathon"
+      ],
+      "bullets_per_project": 2
+    },
+    "source_master_id": "master-2026-10-18-v2",
+    "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+    "selected_projects": [
+      {
+        "id": "ss-dcl",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "06cbf73ce5f89a8fa908d6ca39afde7c0dafcc8af85e21695f2ce10a79fca649",
+        "bullet_ids": [
+          "ss-dcl-product",
+          "ss-dcl-similarity"
+        ]
+      },
+      {
+        "id": "talktoit",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+        "bullet_ids": [
+          "talktoit-ingest",
+          "talktoit-fullstack"
+        ]
+      },
+      {
+        "id": "common-grounds-makeathon",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+        "bullet_ids": [
+          "commons-loop",
+          "commons-realtime"
+        ]
+      }
+    ],
+    "draft_id": "talentx-octomate-f5a257b8c28e",
+    "status": "draft",
+    "created_at": "2026-10-22T13:08:39.001786+08:00",
+    "path": "octomate.md",
+    "sha256": "8ca1f8b9468236a0fc8fd459062f267a8877e35ad2afe061261233322230ab56"
+  },
+  "release": {
+    "id": "talentx-octomate-2026-10-22-v1",
+    "scope": "talentx-octomate",
+    "purpose": "application",
+    "status": "active",
+    "path": "octomate.pdf",
+    "sha256": "83a4ce7a598c701fcfcf0bcd260fc7a59dd135d7e079edc56867bd0a0433a7b2",
+    "released_at": "2026-10-22T13:09:26.592401+08:00",
+    "effective_from": "2026-10-22T13:09:26.592401+08:00",
+    "review_due_at": "2026-11-21T13:09:26.592401+08:00",
+    "valid_until": null,
+    "supersedes": null,
+    "superseded_by": null,
+    "source_master_id": "master-2026-10-18-v2",
+    "selected_projects": [
+      {
+        "id": "ss-dcl",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "06cbf73ce5f89a8fa908d6ca39afde7c0dafcc8af85e21695f2ce10a79fca649",
+        "bullet_ids": [
+          "ss-dcl-product",
+          "ss-dcl-similarity"
+        ]
+      },
+      {
+        "id": "talktoit",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+        "bullet_ids": [
+          "talktoit-ingest",
+          "talktoit-fullstack"
+        ]
+      },
+      {
+        "id": "common-grounds-makeathon",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+        "bullet_ids": [
+          "commons-loop",
+          "commons-realtime"
+        ]
+      }
+    ],
+    "original_source": null,
+    "selected_with_master_id": null,
+    "draft_provenance": {
+      "preset": "talentx-octomate",
+      "preset_configuration": {
+        "projects": [
+          "ss-dcl",
+          "talktoit",
+          "common-grounds-makeathon"
+        ],
+        "bullets_per_project": 2
+      },
+      "source_master_id": "master-2026-10-18-v2",
+      "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+      "selected_projects": [
+        {
+          "id": "ss-dcl",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "06cbf73ce5f89a8fa908d6ca39afde7c0dafcc8af85e21695f2ce10a79fca649",
+          "bullet_ids": [
+            "ss-dcl-product",
+            "ss-dcl-similarity"
+          ]
+        },
+        {
+          "id": "talktoit",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+          "bullet_ids": [
+            "talktoit-ingest",
+            "talktoit-fullstack"
+          ]
+        },
+        {
+          "id": "common-grounds-makeathon",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+          "bullet_ids": [
+            "commons-loop",
+            "commons-realtime"
+          ]
+        }
+      ],
+      "draft_id": "talentx-octomate-f5a257b8c28e",
+      "status": "draft",
+      "created_at": "2026-10-22T13:08:39.001786+08:00",
+      "path": "octomate.md",
+      "sha256": "8ca1f8b9468236a0fc8fd459062f267a8877e35ad2afe061261233322230ab56"
+    },
+    "notes": "TalentXperience: Octomate. Productivity workflows, full-stack analytics and agent-driven interactions. Two-page PDF inspected; faithful helper draft; credential links disabled."
+  },
+  "release_id": "talentx-octomate-2026-10-22-v1",
+  "review_due_at": "2026-11-21T13:09:26.592401+08:00",
+  "selected_projects": [
+    {
+      "id": "ss-dcl",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "06cbf73ce5f89a8fa908d6ca39afde7c0dafcc8af85e21695f2ce10a79fca649",
+      "bullet_ids": [
+        "ss-dcl-product",
+        "ss-dcl-similarity"
+      ]
+    },
+    {
+      "id": "talktoit",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+      "bullet_ids": [
+        "talktoit-ingest",
+        "talktoit-fullstack"
+      ]
+    },
+    {
+      "id": "common-grounds-makeathon",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+      "bullet_ids": [
+        "commons-loop",
+        "commons-realtime"
+      ]
+    }
+  ],
+  "tailoring_note": "Productivity workflows, full-stack analytics and agent-driven interactions.",
+  "verification": {
+    "text_matches_helper_draft": true,
+    "all_pages_visually_inspected": true,
+    "credential_hyperlinks": false,
+    "resolved_before_copy": true
+  }
+}

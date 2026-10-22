@@ -1,0 +1,5 @@
+# Preserve exact released/source text and the calendar's required CRLF endings.
+resumes/*.md -text whitespace=-blank-at-eof
+resumes/sources/*.md -text whitespace=-blank-at-eof
+assets/licenses/*.txt -text whitespace=-blank-at-eol
+event.ics -text whitespace=cr-at-eol

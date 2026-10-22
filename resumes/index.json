@@ -1,0 +1,326 @@
+[
+  {
+    "company_id": "1fss",
+    "company_name": "1FSS",
+    "pdf": "resumes/1fss.pdf",
+    "markdown": "resumes/1fss.md",
+    "provenance": "resumes/1fss.provenance.json",
+    "scope": "talentx-1fss",
+    "release_id": "talentx-1fss-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "f1b2ecc24b7254cb5c824169926f5fe2a93c443069d240bed5c8b87ac08a50e3",
+    "review_due_at": "2026-11-21T13:09:25.524404+08:00",
+    "projects": [
+      "researchagent",
+      "talktoit",
+      "hr-2026"
+    ],
+    "tailoring_note": "Payment investigation, data ingestion and compact analytical queries."
+  },
+  {
+    "company_id": "ailytics",
+    "company_name": "Ailytics",
+    "pdf": "resumes/ailytics.pdf",
+    "markdown": "resumes/ailytics.md",
+    "provenance": "resumes/ailytics.provenance.json",
+    "scope": "talentx-ailytics",
+    "release_id": "talentx-ailytics-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "ec7757839aa16c335f8711c7511e399aaad6420ac67c57aaf3bc4ca06e0aec26",
+    "review_due_at": "2026-11-21T13:09:25.642212+08:00",
+    "projects": [
+      "fitback",
+      "talktoit",
+      "findmycar"
+    ],
+    "tailoring_note": "Computer vision, data pipelines and live sensor dashboards."
+  },
+  {
+    "company_id": "ajentik-ai",
+    "company_name": "Ajentik AI",
+    "pdf": "resumes/ajentik-ai.pdf",
+    "markdown": "resumes/ajentik-ai.md",
+    "provenance": "resumes/ajentik-ai.provenance.json",
+    "scope": "talentx-ajentik-ai",
+    "release_id": "talentx-ajentik-ai-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "3e1a4fda9325f806f5a1ca12b9a02e8543168b335dbb2dc20a276bff5e96cbb5",
+    "review_due_at": "2026-11-21T13:09:25.751768+08:00",
+    "projects": [
+      "researchagent",
+      "common-grounds-makeathon",
+      "talktoit"
+    ],
+    "tailoring_note": "Tool-using research agents, validated generation and conversational analytics."
+  },
+  {
+    "company_id": "cygnus-med",
+    "company_name": "Cygnus Med",
+    "pdf": "resumes/cygnus-med.pdf",
+    "markdown": "resumes/cygnus-med.md",
+    "provenance": "resumes/cygnus-med.provenance.json",
+    "scope": "talentx-cygnus-med",
+    "release_id": "talentx-cygnus-med-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "319d2d9cedeb0e5f1adb387d57835380a9c155346b2b9875425e76b75b1eaa8f",
+    "review_due_at": "2026-11-21T13:09:25.859840+08:00",
+    "projects": [
+      "fitback",
+      "talktoit",
+      "findmycar"
+    ],
+    "tailoring_note": "Image-based measurements, health-data processing and connected-device software."
+  },
+  {
+    "company_id": "dhl-express",
+    "company_name": "DHL Express",
+    "pdf": "resumes/dhl-express.pdf",
+    "markdown": "resumes/dhl-express.md",
+    "provenance": "resumes/dhl-express.provenance.json",
+    "scope": "talentx-dhl-express",
+    "release_id": "talentx-dhl-express-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "6f9e8fdf278d38f57cc60f2617338f7016f425aeb5baa6555c0e75fc0988f963",
+    "review_due_at": "2026-11-21T13:09:25.962825+08:00",
+    "projects": [
+      "hr-2026",
+      "findmycar",
+      "talktoit"
+    ],
+    "tailoring_note": "Geospatial queries, live vehicle status and reliable data ingestion."
+  },
+  {
+    "company_id": "fano-labs",
+    "company_name": "Fano Labs",
+    "pdf": "resumes/fano-labs.pdf",
+    "markdown": "resumes/fano-labs.md",
+    "provenance": "resumes/fano-labs.provenance.json",
+    "scope": "talentx-fano-labs",
+    "release_id": "talentx-fano-labs-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "470134dbd437224a5f5dfc82e4505878c1e78d87ff3cf32d738152e54a0b53fe",
+    "review_due_at": "2026-11-21T13:09:26.070475+08:00",
+    "projects": [
+      "researchagent",
+      "talktoit",
+      "common-grounds-makeathon"
+    ],
+    "tailoring_note": "Grounded research agents, natural-language analytics and real-time interactions."
+  },
+  {
+    "company_id": "julius-baer",
+    "company_name": "Julius Baer",
+    "pdf": "resumes/julius-baer.pdf",
+    "markdown": "resumes/julius-baer.md",
+    "provenance": "resumes/julius-baer.provenance.json",
+    "scope": "talentx-julius-baer",
+    "release_id": "talentx-julius-baer-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "0c4ddbe2faeae260c5d835f0378654c0e20e8e8d70f6fd7b6a414b0308897b2f",
+    "review_due_at": "2026-11-21T13:09:26.174489+08:00",
+    "projects": [
+      "researchagent",
+      "hr-2026",
+      "talktoit"
+    ],
+    "tailoring_note": "Payment investigation, analytical queries and structured data pipelines."
+  },
+  {
+    "company_id": "keysight-technologies",
+    "company_name": "Keysight Technologies",
+    "pdf": "resumes/keysight-technologies.pdf",
+    "markdown": "resumes/keysight-technologies.md",
+    "provenance": "resumes/keysight-technologies.provenance.json",
+    "scope": "talentx-keysight-technologies",
+    "release_id": "talentx-keysight-technologies-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "23e6ab919cb291be466b6101aabd91b99d3f63e8ff1b1c91c0c7161377c1a911",
+    "review_due_at": "2026-11-21T13:09:26.281313+08:00",
+    "projects": [
+      "findmycar",
+      "hr-2026",
+      "ss-dcl"
+    ],
+    "tailoring_note": "Connected-device software, efficient queries and cached image matching."
+  },
+  {
+    "company_id": "mediacorp",
+    "company_name": "Mediacorp",
+    "pdf": "resumes/mediacorp.pdf",
+    "markdown": "resumes/mediacorp.md",
+    "provenance": "resumes/mediacorp.provenance.json",
+    "scope": "talentx-mediacorp",
+    "release_id": "talentx-mediacorp-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "c32eac6f8a1ae5a658812948db3c753c47458ea29a9790633fb306bef5c93790",
+    "review_due_at": "2026-11-21T13:09:26.382678+08:00",
+    "projects": [
+      "common-grounds-makeathon",
+      "researchagent",
+      "talktoit"
+    ],
+    "tailoring_note": "Audience-driven interactive experiences, research agents and analytics interfaces."
+  },
+  {
+    "company_id": "national-dental-centre-singapore",
+    "company_name": "National Dental Centre Singapore",
+    "pdf": "resumes/national-dental-centre-singapore.pdf",
+    "markdown": "resumes/national-dental-centre-singapore.md",
+    "provenance": "resumes/national-dental-centre-singapore.provenance.json",
+    "scope": "talentx-national-dental-centre-singapore",
+    "release_id": "talentx-national-dental-centre-singapore-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "730316f8d768a81ead40a6b0abd5c438ac4929135130491b123d4bf20d62e2c3",
+    "review_due_at": "2026-11-21T13:09:26.484528+08:00",
+    "projects": [
+      "talktoit",
+      "researchagent",
+      "fitback"
+    ],
+    "tailoring_note": "Health analytics, grounded research workflows and image-based measurements."
+  },
+  {
+    "company_id": "octomate",
+    "company_name": "Octomate",
+    "pdf": "resumes/octomate.pdf",
+    "markdown": "resumes/octomate.md",
+    "provenance": "resumes/octomate.provenance.json",
+    "scope": "talentx-octomate",
+    "release_id": "talentx-octomate-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "83a4ce7a598c701fcfcf0bcd260fc7a59dd135d7e079edc56867bd0a0433a7b2",
+    "review_due_at": "2026-11-21T13:09:26.592401+08:00",
+    "projects": [
+      "ss-dcl",
+      "talktoit",
+      "common-grounds-makeathon"
+    ],
+    "tailoring_note": "Productivity workflows, full-stack analytics and agent-driven interactions."
+  },
+  {
+    "company_id": "rezonate",
+    "company_name": "Rezonate",
+    "pdf": "resumes/rezonate.pdf",
+    "markdown": "resumes/rezonate.md",
+    "provenance": "resumes/rezonate.provenance.json",
+    "scope": "talentx-rezonate",
+    "release_id": "talentx-rezonate-2026-10-22-v2",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "56d9a3378195be68e94884aabad6bde76b669f8eacfd8a7b1128cb25a0f2df0d",
+    "review_due_at": "2026-11-21T13:22:48.833130+08:00",
+    "projects": [
+      "researchagent",
+      "talktoit",
+      "common-grounds-makeathon"
+    ],
+    "tailoring_note": "Grounded retrieval and tool-using agents, health analytics and validated code generation for AI healthcare workflows."
+  },
+  {
+    "company_id": "sap-fioneer",
+    "company_name": "SAP Fioneer",
+    "pdf": "resumes/sap-fioneer.pdf",
+    "markdown": "resumes/sap-fioneer.md",
+    "provenance": "resumes/sap-fioneer.provenance.json",
+    "scope": "talentx-sap-fioneer",
+    "release_id": "talentx-sap-fioneer-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "31a5e4512b28007855d9fbd31af21ac743998501abb2e8c37390bda941c1480d",
+    "review_due_at": "2026-11-21T13:09:26.804443+08:00",
+    "projects": [
+      "researchagent",
+      "talktoit",
+      "hr-2026"
+    ],
+    "tailoring_note": "Payment-investigation agents, structured ingestion and analytical decision layers."
+  },
+  {
+    "company_id": "smrt",
+    "company_name": "SMRT",
+    "pdf": "resumes/smrt.pdf",
+    "markdown": "resumes/smrt.md",
+    "provenance": "resumes/smrt.provenance.json",
+    "scope": "talentx-smrt",
+    "release_id": "talentx-smrt-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "b55f8608d94e36c7008fc1ecdf74ea938b83e228bfb632546cd16963e7565122",
+    "review_due_at": "2026-11-21T13:09:26.906748+08:00",
+    "projects": [
+      "findmycar",
+      "hr-2026",
+      "talktoit"
+    ],
+    "tailoring_note": "Live vehicle dashboards, geospatial queries and operational data pipelines."
+  },
+  {
+    "company_id": "singlife",
+    "company_name": "Singlife",
+    "pdf": "resumes/singlife.pdf",
+    "markdown": "resumes/singlife.md",
+    "provenance": "resumes/singlife.provenance.json",
+    "scope": "talentx-singlife",
+    "release_id": "talentx-singlife-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "1c62352b87848d03defdaf1200453c5de8d859d246ee31f2f05f8807c5eb7e0a",
+    "review_due_at": "2026-11-21T13:09:27.010290+08:00",
+    "projects": [
+      "researchagent",
+      "talktoit",
+      "hr-2026"
+    ],
+    "tailoring_note": "Grounded payment investigation, health analytics and compact decision layers."
+  },
+  {
+    "company_id": "trainocate",
+    "company_name": "Trainocate",
+    "pdf": "resumes/trainocate.pdf",
+    "markdown": "resumes/trainocate.md",
+    "provenance": "resumes/trainocate.provenance.json",
+    "scope": "talentx-trainocate",
+    "release_id": "talentx-trainocate-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "f717874777f52a03aee243971b70435da86761604653b026e27f8e1cc5606683",
+    "review_due_at": "2026-11-21T13:09:27.115912+08:00",
+    "projects": [
+      "talktoit",
+      "common-grounds-makeathon",
+      "findmycar"
+    ],
+    "tailoring_note": "Full-stack analytics, agent applications and AWS-connected IoT software."
+  },
+  {
+    "company_id": "trampolene",
+    "company_name": "Trampolene",
+    "pdf": "resumes/trampolene.pdf",
+    "markdown": "resumes/trampolene.md",
+    "provenance": "resumes/trampolene.provenance.json",
+    "scope": "talentx-trampolene",
+    "release_id": "talentx-trampolene-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "c4363145662869145db2528fd657ed9233eca28a7e35317bc9564b891f7a05e7",
+    "review_due_at": "2026-11-21T13:09:27.218065+08:00",
+    "projects": [
+      "talktoit",
+      "fitback",
+      "common-grounds-makeathon"
+    ],
+    "tailoring_note": "Health-data interfaces, image-based measurements and interactive applications."
+  },
+  {
+    "company_id": "yokogawa-engineering",
+    "company_name": "Yokogawa Engineering",
+    "pdf": "resumes/yokogawa-engineering.pdf",
+    "markdown": "resumes/yokogawa-engineering.md",
+    "provenance": "resumes/yokogawa-engineering.provenance.json",
+    "scope": "talentx-yokogawa-engineering",
+    "release_id": "talentx-yokogawa-engineering-2026-10-22-v1",
+    "source_master_id": "master-2026-10-18-v2",
+    "sha256": "9b831bf02b040a3d163874377822b7e4140542f696dd62c8b10cfca9a36c43d1",
+    "review_due_at": "2026-11-21T13:09:27.322951+08:00",
+    "projects": [
+      "hr-2026",
+      "findmycar",
+      "talktoit"
+    ],
+    "tailoring_note": "Efficient decision queries, sensor integration and reliable data processing."
+  }
+]

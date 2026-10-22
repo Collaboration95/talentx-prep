@@ -1,0 +1,407 @@
+[
+  {
+    "id": "dhl-express",
+    "name": "DHL Express",
+    "website": "https://www.dhl.com/sg-en/home/express.html",
+    "careers_url": "https://careers.dhl.com/global/en/",
+    "summary": "DHL Express provides international express delivery, customs support and shipment-management services. Keep Express distinct from DHL Supply Chain, Global Forwarding and the group's cross-divisional CSI unit when discussing opportunities.",
+    "products": [
+      "International express shipping with shipment tracking",
+      "On Demand Delivery: receiver delivery preferences and redelivery"
+    ],
+    "fit_reason": "Shipment events, delivery exceptions and reporting are useful domains for discussing Python, SQL, backend APIs and reliable data pipelines. The event guide's AI, analytics, data engineering and digital transformation themes are potential project areas, not published vacancies.",
+    "priority": "medium",
+    "tags": [
+      "logistics",
+      "data-engineering",
+      "analytics",
+      "apis",
+      "event-project-focus",
+      "portal-only"
+    ],
+    "resume_track": "data-cloud",
+    "conversation_opener": "I'm studying Software Engineering at NUS-ISS and am interested in turning shipment events into dependable data pipelines and exception-handling tools. Which Singapore Express team owns those workflows, and is there a suitable internship project?",
+    "questions": [
+      "Is the event project owned by DHL Express Singapore, regional Express IT, or another DHL division, and what operational problem should it solve?",
+      "Would an intern work on shipment-event ingestion, delivery exception analysis or reporting automation, and which APIs and data tools would they use?",
+      "Can this team accept a non-credit-bearing NUS-ISS master's internship for a foreign Student Pass holder, what dates and duration apply, and is EP sponsorship available for a later full-time role?"
+    ],
+    "learning": [
+      "Sketch a shipment-event pipeline that handles duplicate scans, late events and time zones; explain how to calculate a delivery-exception metric without counting an event twice.",
+      "Review the official Express shipment-management and On Demand Delivery services; prepare an API design for a delivery-preference update with validation, audit history and retries."
+    ],
+    "roles": [],
+    "opportunity_status": "Portal-only: official careers and internship routes verified, but no matching Singapore DHL Express software/AI/data/cloud vacancy was verified on an actual vacancy page. The internship landing page returned unresolved search placeholders; that does not establish that no internships exist. Other DHL divisions' or old third-party listings are not Express vacancy evidence.",
+    "eligibility_note": "Sponsorship, non-credit eligibility, school endorsement, language requirements and intake duration remain unknown. Candidate is immediately available, foreigner on Student Pass, needs EP sponsorship and has no Chinese proficiency. Confirm the hiring division and requirements before treating event project themes as an eligible role.",
+    "sources": [
+      {
+        "title": "DHL Express Singapore",
+        "url": "https://www.dhl.com/sg-en/home/express.html",
+        "note": "Opened official service page: international express delivery, customs support, shipment management, APIs and On Demand Delivery; also links to the official group careers site."
+      },
+      {
+        "title": "DHL Careers",
+        "url": "https://careers.dhl.com/global/en/",
+        "note": "Opened official group recruitment route; a group careers homepage is not proof of a Singapore Express opening."
+      },
+      {
+        "title": "DHL local internships",
+        "url": "https://careers.dhl.com/global/en/internships/",
+        "note": "Opened programme/search page; extracted content contained unresolved pageStateData placeholders and no verifiable Singapore technical vacancy."
+      }
+    ],
+    "checked_at": "2026-10-22T13:12:13+08:00"
+  },
+  {
+    "id": "keysight-technologies",
+    "name": "Keysight Technologies",
+    "website": "https://www.keysight.com/sg/en/home.html",
+    "careers_url": "https://careers.keysight.com/location-singapore",
+    "summary": "Keysight develops electronic measurement instruments and engineering software for design, simulation and testing. Its Singapore careers information describes R&D and software-related student opportunities.",
+    "products": [
+      "Electronic design automation software",
+      "Electronic measurement and test instruments"
+    ],
+    "fit_reason": "Official indexed Singapore internships describe Python/C++ development and security-platform automation with applied AI. These align with software and AI interests, but direct vacancy pages returned HTTP 403, so current acceptance is unverified. Event software, AI, analytics and DevOps themes do not independently prove an opening.",
+    "priority": "high",
+    "tags": [
+      "software",
+      "python",
+      "applied-ai",
+      "security-automation",
+      "eda",
+      "vacancy-access-blocked"
+    ],
+    "resume_track": "ai-agents",
+    "conversation_opener": "I'm an NUS-ISS Software Engineering master's student interested in Python and applied AI. I found your Singapore EDA and product-security internship descriptions; I'd like to understand which projects are currently recruiting and where a software-focused student could contribute.",
+    "questions": [
+      "Are requisitions 54397 and 54365 still accepting Singapore interns, and which team will be represented at TalentXperience?",
+      "For the security-platform internship, would the deliverable be workflow tooling, a web feature or an evaluated AI proof of concept; for EDA, how much electronics knowledge is needed on entry?",
+      "Do these internships accept non-credit-bearing NUS-ISS master's students on a foreign Student Pass, what is the required intake and duration, and what is the policy on EP sponsorship for conversion?"
+    ],
+    "learning": [
+      "Prepare a small design for an AI-assisted support workflow: access-controlled retrieval, a reproducible evaluation set, human escalation and a measurable quality threshold.",
+      "Review what an EDA simulator does and how Python or C++ components integrate with it; practise explaining API contracts, regression tests and safe handling of tool-generated designs."
+    ],
+    "roles": [
+      {
+        "title": "EDA Software Engineer Intern",
+        "url": "https://jobs.keysight.com/external/jobs/54397?lang=en-us",
+        "location": "Singapore, Singapore",
+        "status": "unverified",
+        "type": "Internship",
+        "eligibility": "Official indexed description requests current bachelor's/master's enrolment in computing, electrical/electronic engineering or a software-related discipline. Electronic-design interest/experience is requested; ADS experience is advantageous. Sponsorship, credit requirement, languages and intake duration are not verified.",
+        "fit": "Relevant Python/C++ software work, with an electronics/simulation learning gap to assess. No professional-years minimum was visible in the indexed requirements.",
+        "source_note": "Official ATS search result describes PSS COE EDA components, Python/C++ and agents/APIs for designs. Actual vacancy URL was opened twice but returned HTTP 403; indexed content alone does not verify that applications remain open. No posting date is inferred."
+      },
+      {
+        "title": "Product Security Engineer Intern",
+        "url": "https://jobs.keysight.com/external/jobs/54365",
+        "location": "Singapore, Singapore",
+        "status": "unverified",
+        "type": "Internship",
+        "eligibility": "Official indexed description requests current bachelor's/master's enrolment in computing, electrical/electronic engineering or a software-related discipline. Python, Power Automate, AI tools and web-framework exposure are advantages. Sponsorship, non-credit eligibility, languages and intake duration remain unknown.",
+        "fit": "Strong conversation fit for AI-assisted enterprise tooling, debugging and software workflows; confirm how much work is tool support versus feature development.",
+        "source_note": "Official indexed ATS description names the Product Security Framework team and AI proof-of-concept/tool-support tasks. Opening the actual vacancy page returned HTTP 403, so acceptance is unverified. Similar titles at requisition 54364 varied in indexed versions and are not counted as another confirmed role."
+      }
+    ],
+    "opportunity_status": "Two relevant Singapore internship leads on the official ATS, both unverified because direct vacancy retrieval was forbidden. High priority for an event conversation reflects technical alignment, not confirmed availability or eligibility.",
+    "eligibility_note": "Master's enrolment matches the advertised student level in the indexed text; that does not establish non-credit or Student Pass eligibility. EP sponsorship, language requirements and exact dates/duration are unresolved. Do not interpret unlabeled ATS metadata such as 'No' as a visa policy.",
+    "sources": [
+      {
+        "title": "Keysight Singapore careers",
+        "url": "https://careers.keysight.com/location-singapore",
+        "note": "Official indexed page describes Singapore R&D, software and student training. Direct opening returned HTTP 403; programme information is not a current vacancy confirmation."
+      },
+      {
+        "title": "Keysight electronic design automation software",
+        "url": "https://www.keysight.com/sg/en/products/software/pathwave-design-software.html",
+        "note": "Opened official product page; navigation and content identify engineering design software and electronic test instruments."
+      },
+      {
+        "title": "EDA Software Engineer Intern, 54397",
+        "url": "https://jobs.keysight.com/external/jobs/54397?lang=en-us",
+        "note": "Official indexed Singapore vacancy description retrieved through live search; actual-page requests returned 403. Open status unverified."
+      },
+      {
+        "title": "Product Security Engineer Intern, 54365",
+        "url": "https://jobs.keysight.com/external/jobs/54365",
+        "note": "Official indexed Singapore internship description retrieved through live search; actual-page request returned 403. Open status unverified."
+      }
+    ],
+    "checked_at": "2026-10-22T13:12:13+08:00"
+  },
+  {
+    "id": "mediacorp",
+    "name": "Mediacorp",
+    "website": "https://www.mediacorp.sg/",
+    "careers_url": "https://mediacorp.recruiterpal.com/career",
+    "summary": "Mediacorp is Singapore's national media network and a content creator across television, radio and digital services. Its products include mewatch and CNA.",
+    "products": [
+      "mewatch: live and on-demand video",
+      "CNA: news, current affairs and documentaries"
+    ],
+    "fit_reason": "Streaming, audience data and internal media workflows provide useful backend, analytics and AI discussion topics. The event guide lists IT, AI and business analytics as potential internship focus areas; no corresponding technical vacancy was verified.",
+    "priority": "medium",
+    "tags": [
+      "media",
+      "streaming",
+      "backend",
+      "analytics",
+      "event-project-focus",
+      "portal-only"
+    ],
+    "resume_track": "software-backend",
+    "conversation_opener": "I'm an NUS-ISS Software Engineering master's student interested in backend systems and AI-assisted workflows. I'd like to understand whether your event projects support digital products such as mewatch or internal technology teams, and what an intern would build.",
+    "questions": [
+      "Which technical team is offering the event project: digital-product engineering, enterprise IT, audience analytics or another group?",
+      "Would an intern own an API/service, an audience-data pipeline or an AI workflow, and what delivery and evaluation criteria would the team use?",
+      "Your internship page lists NUS and permits self-sourced enquiries: can it accommodate a non-credit-bearing NUS-ISS master's student on Student Pass, what dates/duration apply, and is EP sponsorship available for later employment?"
+    ],
+    "learning": [
+      "Map a streaming service's playback API, authentication, content metadata and audience events; explain monitoring and failure handling without assuming Mediacorp's actual stack.",
+      "Prepare an editorial-assistance prototype proposal with source attribution, rights-aware data selection, human approval and tests for inaccurate generated content."
+    ],
+    "roles": [],
+    "opportunity_status": "Portal-only: the official careers page links to RecruiterPal. Its dynamic portal yielded no readable vacancies and the collaborative-browser snapshot timed out twice. The official internship programme is verified, but no named Singapore software/AI/data/cloud vacancy was verified; do not present the programme or event focus as an open job.",
+    "eligibility_note": "The internship page targets full-time students, lists NUS among partner institutions, and allows self-sourced internship enquiries. It does not establish NUS-ISS course eligibility, acceptance of non-credit placements, foreign Student Pass arrangements, EP sponsorship, a specific duration or language requirements. Candidate has no Chinese proficiency; a multilingual media business does not itself establish a Chinese requirement.",
+    "sources": [
+      {
+        "title": "Mediacorp careers",
+        "url": "https://www.mediacorp.sg/careers",
+        "note": "Opened official recruitment page and followed its View Job Openings link to RecruiterPal."
+      },
+      {
+        "title": "Mediacorp official jobs portal",
+        "url": "https://mediacorp.recruiterpal.com/career",
+        "note": "Opened portal but web extraction exposed no job details; browser inspection timed out twice. Availability remains unverified."
+      },
+      {
+        "title": "Mediacorp internship programme",
+        "url": "https://www.mediacorp.sg/careers/internship",
+        "note": "Opened programme page: full-time students, named local tertiary partners including NUS, and a self-sourced enquiry route. This is not a named vacancy. No enquiry was sent."
+      },
+      {
+        "title": "Mediacorp video brands",
+        "url": "https://www.mediacorp.sg/corporate/brands/video",
+        "note": "Opened official product/brand page identifying mewatch's live/on-demand service and CNA's news/current-affairs content."
+      }
+    ],
+    "checked_at": "2026-10-22T13:12:13+08:00"
+  },
+  {
+    "id": "national-dental-centre-singapore",
+    "name": "National Dental Centre Singapore",
+    "website": "https://www.ndcs.com.sg/",
+    "careers_url": "https://careers.singhealth.com.sg/NDCS/go/NDCS-All-Opportunities/650844/",
+    "summary": "NDCS is a SingHealth specialist oral-healthcare centre with clinical, teaching and research activities. Its National Dental Research Institute Singapore supports oral-health research, including multiomics and population-health work.",
+    "products": [
+      "Multidisciplinary specialist oral-healthcare services",
+      "NDRIS research programmes, including Singapore Oral Multiomics Initiative"
+    ],
+    "fit_reason": "The verified automation vacancy provides a concrete discussion of workflow engineering and operational analytics. The event guide's IT, AI, data engineering and DevOps topics are potential projects, distinct from this experienced-hire role and from an internship offer.",
+    "priority": "explore",
+    "tags": [
+      "healthcare",
+      "workflow-automation",
+      "analytics",
+      "research",
+      "experience-gap"
+    ],
+    "resume_track": "data-cloud",
+    "conversation_opener": "I'm an NUS-ISS Software Engineering master's student interested in reliable automation and data pipelines. Your automation role highlights workflow resilience and governance; could an internship contribute a smaller, well-defined project under that team?",
+    "questions": [
+      "Does the event internship sit with operational automation, clinical IT or NDRIS, and who supervises the technical work?",
+      "Could a student build an audited workflow or data-quality tool using de-identified data, and what approval and testing would be required before deployment?",
+      "Is there a junior or internship route separate from the minimum-three-year automation vacancy, and can it accept a non-credit-bearing foreign Student Pass student with immediate availability and a later need for EP sponsorship?"
+    ],
+    "learning": [
+      "Design an automation workflow with least-privilege access, retry-safe actions, exception queues, auditable logs and a human override; distinguish deterministic automation from an LLM agent.",
+      "Prepare a synthetic healthcare-data pipeline example covering missing values, identifiers, access boundaries and reproducible reporting, without claiming access to real patient data."
+    ],
+    "roles": [
+      {
+        "title": "Associate Principal Analyst, Data Science",
+        "url": "https://careers.singhealth.com.sg/NDCS/job/Singapore-Associate-Principal-Analyst,-Data-Science-Sing/55542844/",
+        "location": "Singapore",
+        "status": "verified-open",
+        "type": "Experienced-hire vacancy; contract/full-time terms not stated in the retrieved page",
+        "eligibility": "Computing/IT-related degree and minimum 3 years of hands-on process automation; UiPath, Power Automate, VBA or similar tools, plus workflow development/testing/deployment. Visa sponsorship and language requirements not stated.",
+        "fit": "Within the search's permitted three-year minimum, but the candidate's conservative one-year experience default does not demonstrate this requirement. Not an entry-level role or internship; use as team context, not a confirmed eligible match.",
+        "source_note": "Opened actual official SingHealth vacancy: NDCS named as employer, requisition 4814, full responsibilities/requirements and Apply now visible. Detail page displays 21 Oct 2026; the overview displayed 22 Sept 2026 for the same title. Preserve that discrepancy rather than treating the overview date as a new opening."
+      }
+    ],
+    "opportunity_status": "One official automation vacancy verified with an Apply control, but it requires at least three years of relevant experience. No matching technical internship was verified in the NDCS listings. Ask about the event project's separate recruitment route.",
+    "eligibility_note": "Three-year process-automation requirement is the main published experience gap. Sponsorship, non-credit internship eligibility, school endorsement, language requirements and internship intake duration remain unknown. Healthcare/student programme pages do not establish eligibility for a technical placement.",
+    "sources": [
+      {
+        "title": "About NDCS",
+        "url": "https://www.ndcs.com.sg/about-ndcs",
+        "note": "Opened official institutional history: specialist multidisciplinary care, SingHealth membership, teaching and digital-dentistry context."
+      },
+      {
+        "title": "NDCS research careers",
+        "url": "https://www.ndcs.com.sg/careers/career-opportunities/research",
+        "note": "Opened official NDRIS research-career overview; profession examples are not vacancies."
+      },
+      {
+        "title": "Singapore Oral Multiomics Initiative",
+        "url": "https://www.ndcs.com.sg/research-innovation/singapore-oro-multiomics-initiative",
+        "note": "Opened official research overview linking multiomics, health and sociodemographic data to oral-health research; not hiring evidence."
+      },
+      {
+        "title": "NDCS official opportunities",
+        "url": "https://careers.singhealth.com.sg/NDCS/go/NDCS-All-Opportunities/650844/",
+        "note": "Followed from NDCS careers. Reviewed displayed institution-specific listings; no named matching technical internship was verified."
+      },
+      {
+        "title": "Associate Principal Analyst, Data Science — requisition 4814",
+        "url": "https://careers.singhealth.com.sg/NDCS/job/Singapore-Associate-Principal-Analyst,-Data-Science-Sing/55542844/",
+        "note": "Actual vacancy opened with Apply now, automation duties and minimum three years. Detail-page posting date 21 Oct 2026 differs from overview date 22 Sept 2026."
+      }
+    ],
+    "checked_at": "2026-10-22T13:12:13+08:00"
+  },
+  {
+    "id": "smrt",
+    "name": "SMRT",
+    "website": "https://www.smrt.com.sg/",
+    "careers_url": "https://careers.smrt.com.sg/search/",
+    "summary": "SMRT Corporation operates public transport and associated mobility services in Singapore. Its recruitment pages show technology work supporting rail maintenance data and bus-system integration.",
+    "products": [
+      "Rail operations and maintenance services",
+      "Bus operations and associated mobility services"
+    ],
+    "fit_reason": "A verified maintenance-data vacancy connects Python, ETL and BI to infrastructure reliability. Event AI, analytics and data engineering themes are potential internship projects; the published roles below are experienced-hire opportunities with material fit gaps.",
+    "priority": "medium",
+    "tags": [
+      "transport",
+      "data-engineering",
+      "python",
+      "power-bi",
+      "systems-integration",
+      "experience-gap"
+    ],
+    "resume_track": "data-cloud",
+    "conversation_opener": "I'm an NUS-ISS Software Engineering master's student interested in Python and dependable data pipelines. Your maintenance-technology role uses inspection and sensor data; I'd like to understand whether an intern could own a data-quality or diagnostic dashboard project.",
+    "questions": [
+      "Is the event data project with rail maintenance technology, bus operations or another SMRT business, and what decisions should its output support?",
+      "How do you combine inspection measurements, images and maintenance records, and would an intern work on ETL quality, Power BI models or predictive-maintenance evaluation?",
+      "Your internship page points to school portals: can NUS-ISS arrange a non-credit-bearing placement for a foreign Student Pass holder, what duration is required, and is EP sponsorship available for a subsequent full-time role?"
+    ],
+    "learning": [
+      "Design a maintenance-data pipeline joining timestamped sensor readings to asset and fault records; explain missing readings, late arrivals, lineage and dashboard freshness checks.",
+      "Prepare a predictive-maintenance evaluation plan using time-based splits, false-alarm costs and operational baselines; explain why a dashboard alone does not demonstrate a useful predictive model."
+    ],
+    "roles": [
+      {
+        "title": "Senior/Executive, Ops Analysis & Technology",
+        "url": "https://careers.smrt.com.sg/job/Singapore-SeniorExecutive,-Ops-Analysis-&-Technology/1330302466/",
+        "location": "Singapore",
+        "status": "verified-open",
+        "type": "Experienced-hire vacancy; employment duration not specified in retrieved text",
+        "eligibility": "Relevant engineering/computing/information-systems degree or equivalent professional experience; 3–6 years of data/analytics engineering and production-pipeline ownership. Python, Power BI and Excel required; Azure certifications advantageous.",
+        "fit": "Direct data-engineering alignment, but three-year minimum and production ownership are not established by the candidate's one-year default. Minimum is three, not a hard four-year exclusion; still not an entry-level vacancy.",
+        "source_note": "Actual official role page opened with Apply Now and complete requirements. Work includes ETL, maintenance dashboards and inspection/sensor/maintenance data. No internship or visa policy stated."
+      },
+      {
+        "title": "Executive, System Integration & Support",
+        "url": "https://careers.smrt.com.sg/job/Singapore-Executive,-System-Integration-&-Support/1210298801/",
+        "location": "Singapore",
+        "status": "verified-open",
+        "type": "Experienced-hire vacancy at SMRT Buses; employment duration not specified in retrieved text",
+        "eligibility": "Bachelor's in IT management, engineering or related field; 3–4 years of relevant industry experience is described as preferred, not a hard minimum. Sponsorship and languages not stated.",
+        "fit": "An adjacent systems role covering specifications, go-live, emerging technologies, vendors and operational continuity. Less hands-on coding than the main target; preferred experience and stakeholder responsibilities make it a stretch.",
+        "source_note": "Actual official page opened with Apply Now, responsibilities and qualifications. Employer context specifically identifies SMRT Buses; do not describe it as a rail internship."
+      }
+    ],
+    "opportunity_status": "Two related official vacancies verified, both with experience gaps. Official internships use a school-portal/career-office route; no named matching technical internship was verified. An Android vacancy was also inspected but requires three years of Android development, so it is not selected as a close fit.",
+    "eligibility_note": "School routing does not prove an academic-credit requirement or acceptance of non-credit placements. Foreign Student Pass eligibility, school endorsement, sponsorship, languages and intake duration remain unknown. Do not inflate experience to meet the three-year requirements or infer sponsorship from general fair-hiring language.",
+    "sources": [
+      {
+        "title": "SMRT official vacancies",
+        "url": "https://careers.smrt.com.sg/search/",
+        "note": "Opened official search results and followed individual technology vacancy links; overview presence alone was not used to verify roles."
+      },
+      {
+        "title": "SMRT internships",
+        "url": "https://www.smrt.com.sg/join-us/our-career-pathways/internships/",
+        "note": "Opened programme page. It directs applicants to school internship portals/career offices; no named software/data internship, duration or credit rule is given."
+      },
+      {
+        "title": "Senior/Executive, Ops Analysis & Technology",
+        "url": "https://careers.smrt.com.sg/job/Singapore-SeniorExecutive,-Ops-Analysis-&-Technology/1330302466/",
+        "note": "Opened actual vacancy with Apply Now; rail maintenance data pipelines, ETL, Python, Power BI and 3–6 years of experience."
+      },
+      {
+        "title": "Executive, System Integration & Support",
+        "url": "https://careers.smrt.com.sg/job/Singapore-Executive,-System-Integration-&-Support/1210298801/",
+        "note": "Opened actual vacancy with Apply Now; SMRT Buses systems and operations work, relevant degree and preferably 3–4 years."
+      },
+      {
+        "title": "Mobile Developer (Android)",
+        "url": "https://careers.smrt.com.sg/job/Singapore-Mobile-Developer-(Android)/1365501066/",
+        "note": "Opened actual vacancy: initial two-year contract, minimum three years Android development, Kotlin/Java and production mobile experience. Not selected as a close candidate match."
+      }
+    ],
+    "checked_at": "2026-10-22T13:12:13+08:00"
+  },
+  {
+    "id": "yokogawa-engineering",
+    "name": "Yokogawa Engineering",
+    "website": "https://www.yokogawa.com/sg/",
+    "careers_url": "https://www.yokogawa.com/sg/about/careers/careers-at-yokogawa/",
+    "summary": "Yokogawa's official Singapore site identifies Yokogawa Engineering Asia Pte Ltd among its local entities; confirm the event's employing entity. The business provides industrial automation, control and information solutions, including production and asset-data software.",
+    "products": [
+      "Exaquantum/ARA: alarm reporting and analytics",
+      "Exaquantum/DTA: production downtime analytics"
+    ],
+    "fit_reason": "Industrial time-series data, system integration and operational analytics fit a data/cloud conversation. The event guide suggests software, AI, data engineering and DevOps projects, but these are potential areas and no matching Singapore vacancy was verified.",
+    "priority": "explore",
+    "tags": [
+      "industrial-software",
+      "industrial-data",
+      "analytics",
+      "automation",
+      "event-project-focus",
+      "portal-only"
+    ],
+    "resume_track": "data-cloud",
+    "conversation_opener": "I'm an NUS-ISS Software Engineering master's student interested in reliable industrial data pipelines. Your alarm and downtime analytics products caught my attention; I'd like to learn what software or data project a Singapore intern could deliver alongside domain engineers.",
+    "questions": [
+      "Which Singapore legal entity and team owns the event project: Yokogawa Engineering Asia, a product group or a customer-delivery team?",
+      "Would the intern work on alarm/asset data ingestion, analytics APIs or deployment tooling, and what separates the prototype environment from production OT systems?",
+      "Is there a current software/data internship accepting non-credit-bearing NUS-ISS master's students on foreign Student Passes, what intake and duration apply, and can the employing entity sponsor an EP for full-time conversion?"
+    ],
+    "learning": [
+      "Review alarm reporting, downtime analytics and data historians; design a time-series ingestion service with units, timestamps, asset identifiers and data-quality checks.",
+      "Prepare an industrial-analytics deployment discussion covering read-only OT integration, network boundaries, rollback, auditability and validation with domain engineers."
+    ],
+    "roles": [],
+    "opportunity_status": "Portal-only: the official Singapore careers page links to Yokogawa's Workday career site and an Introduce Yourself route. Workday returned no readable vacancy content; no actual matching Singapore software/AI/data/cloud vacancy was verified. Global internships and unrelated subsidiaries' old roles are not local opening evidence.",
+    "eligibility_note": "Hiring entity, professional-years requirements, sponsorship, non-credit eligibility, school endorsement, language requirements and internship dates/duration are unknown. Candidate's Student Pass and need for EP sponsorship must be assessed by the actual employing team; do not infer eligibility from global programme descriptions.",
+    "sources": [
+      {
+        "title": "Yokogawa Singapore contact and entities",
+        "url": "https://www.yokogawa.com/sg/contact/",
+        "note": "Opened official page identifying Yokogawa Engineering Asia Pte Ltd at 5 Bedok South Road, alongside distinct Yokogawa Singapore entities."
+      },
+      {
+        "title": "Careers at Yokogawa Singapore",
+        "url": "https://www.yokogawa.com/sg/about/careers/careers-at-yokogawa/",
+        "note": "Opened official Singapore careers page; it links directly to Workday and an Introduce Yourself option. These are recruitment routes, not role confirmations."
+      },
+      {
+        "title": "Yokogawa official Workday careers portal",
+        "url": "https://wd3.myworkdaysite.com/recruiting/yokogawa/yokogawa-career-site",
+        "note": "Followed the official Singapore careers link. Retrieved page contained no readable vacancy details, preventing role-level verification."
+      },
+      {
+        "title": "Yokogawa production management software",
+        "url": "https://www.yokogawa.com/sg/solutions/products-and-services/information/production-management/",
+        "note": "Opened official products overview naming Exaquantum/ARA alarm reporting, Exaquantum/DTA downtime analytics and data connectivity; product context only."
+      }
+    ],
+    "checked_at": "2026-10-22T13:12:13+08:00"
+  }
+]

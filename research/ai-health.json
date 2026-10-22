@@ -1,0 +1,318 @@
+[
+  {
+    "id": "ajentik-ai",
+    "name": "Ajentik AI",
+    "website": "https://www.ajentik.com/",
+    "careers_url": "https://www.ajentik.com/careers",
+    "summary": "Singapore healthcare AI company, legally identified on its contact page as Ajentik AI Pte. Ltd. Its workflows turn caregiver observations into structured information for care teams; clinical decisions remain with professionals.",
+    "products": [
+      "Elderwise: conversational assessment, family and care-team summaries, and care coordination.",
+      "Ajentik workflow platform: captures, structures and routes healthcare information across cloud, edge and hybrid deployments."
+    ],
+    "fit_reason": "Strong discussion fit for AI agents, backend integration and structured data. The event guide names software, AI and data engineering as potential internship focus, not a published internship vacancy.",
+    "priority": "high",
+    "tags": ["healthtech", "AI agents", "care coordination", "backend", "data engineering"],
+    "resume_track": "ai-agents",
+    "conversation_opener": "I'm Guruprasath, an NUS-ISS software engineering master's student interested in agent workflows and backend systems. Elderwise's path from caregiver observations to clinician review interests me. Is there an internship project around reliable extraction or integration?",
+    "questions": [
+      "Which Elderwise bottleneck could an intern own: extracting observations, validating structured summaries, or integrating care-team systems?",
+      "How do you evaluate omitted information and unsupported statements before a summary reaches a clinician?",
+      "Can you accept a non-credit-bearing NUS-ISS Student Pass internship, what duration is required, and is EP sponsorship possible for subsequent full-time work?"
+    ],
+    "learning": [
+      "Prepare a small synthetic caregiver-message example: extract observations to a JSON schema, preserve uncertainty and route incomplete cases for human review.",
+      "Explain an auditable ingestion API with authentication, retries, idempotency and separate family-facing and clinical summaries."
+    ],
+    "roles": [
+      {
+        "title": "Machine Learning Engineer",
+        "url": "https://www.ajentik.com/contact?position=Machine+Learning+Engineer&type=careers",
+        "location": "Singapore / Remote",
+        "status": "portal-only",
+        "type": "Full-time; advertised role card",
+        "eligibility": "Experience minimum and junior eligibility unstated.",
+        "fit": "Relevant NLP discussion; confirm level.",
+        "source_note": "Official careers card lists ML/NLP work. Opened Apply destination: generic contact form, no detailed vacancy."
+      },
+      {
+        "title": "DevOps Engineer",
+        "url": "https://www.ajentik.com/contact?position=DevOps+Engineer&type=careers",
+        "location": "Singapore / Remote",
+        "status": "portal-only",
+        "type": "Full-time; advertised role card",
+        "eligibility": "Experience minimum and junior eligibility unstated.",
+        "fit": "Cloud, reliability and CI/CD discussion.",
+        "source_note": "Official careers card advertises infrastructure work. Opened Apply destination: generic contact form, no detailed vacancy."
+      }
+    ],
+    "opportunity_status": "Technical role cards found; detailed vacancy and internship intake not verified. Do not count these as confirmed junior openings. An indexed Elderwise careers result now returns Article Not Found.",
+    "eligibility_note": "Candidate is immediately available, a foreigner on Student Pass, requires EP sponsorship and cannot take a mandatory credit-bearing placement. Sponsorship, non-credit acceptance, employment language requirements and internship duration are unknown. English product support does not establish hiring-language requirements.",
+    "sources": [
+      {"title": "Ajentik official platform and Elderwise overview", "url": "https://www.ajentik.com/", "note": "Opened live: healthcare information workflow, Elderwise functions and deployment modes; no promotional metrics reused."},
+      {"title": "Ajentik official contact and identity", "url": "https://www.ajentik.com/contact", "note": "Names Ajentik AI Pte. Ltd. and its Singapore location."},
+      {"title": "Ajentik careers", "url": "https://www.ajentik.com/careers", "note": "Opened role cards and ML/DevOps Apply links; destinations are generic contact forms, without detailed eligibility."},
+      {"title": "Elderwise former careers URL", "url": "https://www.elderwise.ai/en/knowledge-hub/careers", "note": "Live page says Article Not Found; search-index role descriptions were not treated as vacancies."}
+    ],
+    "checked_at": "2026-10-22T13:08:18+08:00"
+  },
+  {
+    "id": "ailytics",
+    "name": "Ailytics",
+    "website": "https://www.ailytics.ai/",
+    "careers_url": "https://www.ailytics.ai/careers",
+    "summary": "Singapore-headquartered industrial video analytics company. Its software uses existing CCTV feeds to support worksite safety, productivity and operational monitoring.",
+    "products": [
+      "Smarter Vision safety analytics: configurable detection of risks such as missing PPE, machinery proximity and restricted-zone access.",
+      "Productivity, progress and security analytics with operational reporting from camera feeds."
+    ],
+    "fit_reason": "The junior DevOps vacancy connects Python, AWS/cloud and production AI deployment. The internship offers data-quality exposure but is primarily annotation rather than software development. Event AI/data themes are potential project areas, not additional vacancies.",
+    "priority": "high",
+    "tags": ["computer vision", "industrial safety", "cloud", "DevOps", "data quality"],
+    "resume_track": "data-cloud",
+    "conversation_opener": "I'm interested in the engineering between camera feeds and reliable AI services. I saw your Singapore junior DevOps role and data annotation internship. Could we discuss where Python automation and cloud skills would help most?",
+    "questions": [
+      "For Junior DevOps, how much of the first three months is field networking and hardware deployment versus cloud automation?",
+      "Can the annotation internship include ownership of Python data-quality tooling and model-error analysis rather than mostly manual labelling?",
+      "Do you accept non-credit-bearing Student Pass interns, what internship commitment is needed, and can you sponsor EPs for suitable full-time hires?"
+    ],
+    "learning": [
+      "Practise diagnosing a disconnected IP camera: subnet, routing, DNS, firewall, PoE and application logs; explain each check in order.",
+      "Sketch a versioned image/video annotation pipeline with class guidelines, quality checks, dataset splits and review of model failure cases."
+    ],
+    "roles": [
+      {
+        "title": "Junior DevOps Engineer (Deployment & Networking)",
+        "url": "https://www.ailytics.ai/careers/junior-devops-engineer-deployment-networking",
+        "location": "Singapore",
+        "status": "verified-open",
+        "type": "Junior engineering; employment type not expressly stated",
+        "eligibility": "Lists 1–3 years in DevOps/infrastructure/deployment/networking, technical qualification or equivalent experience, practical networking/hardware, Python, Linux and one major cloud.",
+        "fit": "Within the search experience ceiling. Practical site networking/hardware capability needs assessment; AWS experience alone does not establish it.",
+        "source_note": "Actual official vacancy opened, linked under current openings, with application upload form; covers edge AI, cloud and customer-site deployment. No absolute posting/closing date shown."
+      },
+      {
+        "title": "Data Annotation Intern",
+        "url": "https://www.ailytics.ai/careers/data-annotation-intern",
+        "location": "Singapore",
+        "status": "verified-open",
+        "type": "Internship",
+        "eligibility": "No minimum years listed. Attention to detail and communication required; computer vision/IP-camera knowledge is a plus. Duration and academic-credit conditions unstated.",
+        "fit": "Accessible AI-data exposure; mainly collection/labelling, with occasional process scripts and physical deployment work. Confirm engineering learning scope.",
+        "source_note": "Actual official vacancy opened with application form and current careers-index link. No absolute posting/closing date shown."
+      },
+      {
+        "title": "Backend Engineer",
+        "url": "https://www.ailytics.ai/careers/backend-engineer",
+        "location": "APAC (Remote); within 2.5 hours of Singapore time",
+        "status": "verified-open",
+        "type": "Remote engineering; employment type not expressly stated",
+        "eligibility": "Hard requirement: at least 3 years of professional Python and specifically Django. Requires project ownership, APIs, relational modelling and asynchronous queues.",
+        "fit": "Experience ceiling allowed, but candidate's saved Python experience is 1 year: material mismatch. Singapore employment arrangement and sponsorship unconfirmed.",
+        "source_note": "Actual official vacancy opened with application form; APAC remote is not proof of a Singapore-based employment contract. No absolute posting/closing date shown."
+      }
+    ],
+    "opportunity_status": "Two directly relevant Singapore vacancies verified: junior DevOps and Data Annotation Intern. APAC remote backend vacancy is live but has a hard Python/Django experience mismatch.",
+    "eligibility_note": "EP sponsorship, Student Pass/non-credit-bearing internship acceptance and intake duration are not stated. Employer language requirements are not specified; candidate has no Chinese proficiency. Immediate availability does not resolve these conditions.",
+    "sources": [
+      {"title": "Ailytics official product overview", "url": "https://www.ailytics.ai/", "note": "Opened live: existing-CCTV video analytics, safety/productivity/progress/security capabilities and Singapore HQ."},
+      {"title": "Ailytics current careers index", "url": "https://www.ailytics.ai/careers", "note": "Lists the three reviewed roles; Singapore labels verified for intern and junior DevOps."},
+      {"title": "Junior DevOps Engineer vacancy", "url": "https://www.ailytics.ai/careers/junior-devops-engineer-deployment-networking", "note": "Full duties, 1–3-year requirement and application form inspected."},
+      {"title": "Data Annotation Intern vacancy", "url": "https://www.ailytics.ai/careers/data-annotation-intern", "note": "Full duties, requirements and application form inspected."},
+      {"title": "Backend Engineer vacancy", "url": "https://www.ailytics.ai/careers/backend-engineer", "note": "Full remote-location rules and hard 3-year Python/Django requirement inspected."}
+    ],
+    "checked_at": "2026-10-22T13:08:18+08:00"
+  },
+  {
+    "id": "cygnus-med",
+    "name": "Cygnus Med",
+    "website": "https://cygnusmed.tech/",
+    "careers_url": "https://cygnusmed.tech/contact",
+    "summary": "Singapore medical-software team developing AI-assisted venous ultrasound analysis and treatment-planning tools. Its official site identifies the Cygnus Med brand, Singapore office and a fu-rui.com contact address.",
+    "products": [
+      "Varicose Vein Vision (V³): guided ultrasound scanning and real-time vein localisation.",
+      "V³ capture, assessment and review workflow: links ultrasound clips to a leg diagram for clinician review and hemodynamic analysis."
+    ],
+    "fit_reason": "Potential software, video-processing and data-engineering work is aligned with the candidate's target, although medical computer vision is a specialist area. The event guide's internship focus is not evidence of a current advertised placement.",
+    "priority": "medium",
+    "tags": ["healthtech", "medical imaging", "computer vision", "ultrasound", "video processing"],
+    "resume_track": "software-backend",
+    "conversation_opener": "I saw V³'s scan-to-review workflow and am interested in the software around real-time ultrasound. Are there intern-sized projects in video ingestion, annotation tooling or clinician-review interfaces?",
+    "questions": [
+      "Would an intern work mainly on ultrasound model development or on the ingestion, annotation and review software around it?",
+      "How do you separate training and evaluation data across patients, scanners and clinical sites?",
+      "Is a paid non-credit-bearing Student Pass internship available, what duration is required, and what work-pass support and working languages apply?"
+    ],
+    "learning": [
+      "Prepare a design for ingesting ultrasound video with timestamps, patient-data separation, annotation provenance and a replayable review interface.",
+      "Explain patient-level dataset splitting, segmentation evaluation and latency measurement using synthetic examples; identify where clinical expertise is required."
+    ],
+    "roles": [],
+    "opportunity_status": "No current Singapore internship or early-career vacancy verified on the official site. Contact page explicitly welcomes career enquiries; this is an enquiry route, not an opening. Event software/AI/data/video themes remain discussion leads.",
+    "eligibility_note": "No published vacancy means minimum experience, sponsorship, Student Pass/non-credit acceptance, languages and intake duration remain unknown. Candidate requires EP sponsorship, is non-credit-bearing and has no Chinese proficiency. The event guide describes a Furui Singapore R&D relationship; the official contact domain corroborates a connection but was not used to infer hiring or language requirements.",
+    "sources": [
+      {"title": "Cygnus Med official product site", "url": "https://cygnusmed.tech/", "note": "Opened V³ scan/capture/assess/review description. Product capabilities are company descriptions, not independent clinical validation."},
+      {"title": "About Cygnus Med", "url": "https://cygnusmed.tech/about-cygnus-med", "note": "Official description of venous hemodynamics software, ultrasound data and computational modelling."},
+      {"title": "Cygnus Med official career enquiry route", "url": "https://cygnusmed.tech/contact", "note": "Opened live: explicitly invites career enquiries and identifies Singapore office and fu-rui.com email. No vacancy details."}
+    ],
+    "checked_at": "2026-10-22T13:08:18+08:00"
+  },
+  {
+    "id": "fano-labs",
+    "name": "Fano Labs",
+    "website": "https://fano.ai/",
+    "careers_url": "https://fano.ai/jobs/",
+    "summary": "Enterprise speech and language AI company serving multilingual customer-service and compliance workflows. Its official website presents conversation analytics, agent assistance, AI agents and enterprise workflow integration.",
+    "products": [
+      "Fano Callinter / conversation analytics: analyses interactions for intent, trends and compliance risks.",
+      "Fano Assist and AI agents: knowledge assistance and governed conversational automation."
+    ],
+    "fit_reason": "Strong AI-agent and enterprise-integration discussion fit. A Singapore forward-deployed internship is employer-published, but the work is mainly demonstrations, proofs of concept and presales rather than core model research. Event software/analytics focus is separate from vacancy scope.",
+    "priority": "high",
+    "tags": ["speech AI", "AI agents", "enterprise integration", "proof of concept", "presales"],
+    "resume_track": "ai-agents",
+    "conversation_opener": "I saw your Forward Deployed Engineer Intern role and its late-October intake. I'm interested in turning voice and agent capabilities into useful customer proofs of concept. How much of the role involves coding and integration versus demonstrations?",
+    "questions": [
+      "For the four-month internship starting in late October 2026, what deliverable would I own and how much hands-on implementation is expected?",
+      "How are multilingual speech errors and workflow failures measured during a banking proof of concept?",
+      "Can this placement be non-credit-bearing for an NUS-ISS Student Pass holder, is Chinese required, and is EP sponsorship available for full-time conversion?"
+    ],
+    "learning": [
+      "Prepare a short enterprise voice-AI demonstration plan with a customer objective, test audio, latency/error measures and a clear fallback path.",
+      "Practise explaining speech recognition, diarisation, retrieval and tool use to a business stakeholder, then translate the use case into acceptance tests."
+    ],
+    "roles": [
+      {
+        "title": "Forward Deployed Engineer Intern",
+        "url": "https://sg.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-fano-fano-labs-4481547017",
+        "location": "Singapore, Singapore",
+        "status": "verified-open",
+        "type": "Full-time internship; four months starting end of October 2026",
+        "eligibility": "Currently pursuing CS, IT, data science, engineering, business technology or related degree; communication and AI interest required. No minimum professional years listed.",
+        "fit": "Good applied-AI/solution-delivery entry point; substantial presales and presentation work. Four-month commitment must be checked against study schedule.",
+        "source_note": "Opened actual employer-published LinkedIn vacancy: full description and Apply entry visible, no closure notice. Stated intake retained; relative posting age not converted into a date. No matching detailed company-site page verified."
+      },
+      {
+        "title": "Software Engineer (Singapore; indexed official page unavailable)",
+        "url": "https://fano.ai/jobs/software-engineer-sg/",
+        "location": "Singapore (indexed description only)",
+        "status": "unverified",
+        "type": "Unavailable vacancy page; not an actionable opening",
+        "eligibility": "Not verified; do not reuse indexed requirements.",
+        "fit": "Ask whether a current junior software vacancy replaces this route.",
+        "source_note": "Opened actual official URL: 404 Not Found. Historical indexed entry-level description is not proof of an open role; closure date unknown."
+      }
+    ],
+    "opportunity_status": "Singapore internship verified on employer-published LinkedIn, with explicit four-month late-October 2026 intake. Official jobs portal exists but its extracted list showed loading placeholders; a separate indexed Singapore software vacancy returns 404.",
+    "eligibility_note": "Sponsorship, Student Pass acceptance, non-credit eligibility and language requirements are not stated in the internship description. Multilingual products do not imply Chinese proficiency is required. Do not interpret university fair nationality statements as EP sponsorship commitments.",
+    "sources": [
+      {"title": "Fano official careers and product navigation", "url": "https://fano.ai/careers/", "note": "Opened live: speech/AI business, product categories and official jobs route."},
+      {"title": "Fano official jobs portal", "url": "https://fano.ai/jobs/", "note": "Opened live; Singapore filter exists, but extracted vacancy list contains loading placeholders. Portal alone does not verify a role."},
+      {"title": "Fano employer-published Forward Deployed Engineer Intern", "url": "https://sg.linkedin.com/jobs/view/forward-deployed-engineer-intern-at-fano-fano-labs-4481547017", "note": "Actual vacancy opened: requirements, presales/POC duties, four-month end-October 2026 intake and Apply entry visible."},
+      {"title": "Fano unavailable Singapore software vacancy", "url": "https://fano.ai/jobs/software-engineer-sg/", "note": "Direct retrieval returned 404; excluded from verified-open opportunities."}
+    ],
+    "checked_at": "2026-10-22T13:08:18+08:00"
+  },
+  {
+    "id": "rezonate",
+    "name": "Rezonate",
+    "website": "https://www.getrezonate.com/",
+    "careers_url": "https://boards.briohr.com/keyreplypteltd-j0zjhzlual",
+    "summary": "Singapore-origin engagement AI company formerly called KeyReply, as confirmed by its official About page. Its kira platform connects conversations to supported workflows and escalates cases needing staff attention.",
+    "products": [
+      "kira: omnichannel voice and messaging agents with workflow orchestration and human handoff.",
+      "Healthcare engagement workflows: appointment management, patient intake and post-visit follow-up using provider-approved pathways."
+    ],
+    "fit_reason": "Direct match for AI agents, Python/backend integration and evaluation. Official employer ATS has a Singapore Software Engineer Intern vacancy plus adjacent analytical/support roles. The event's potential software/AI/data themes are not additional openings.",
+    "priority": "high",
+    "tags": ["AI agents", "healthtech", "speech", "evaluation", "backend integration"],
+    "resume_track": "ai-agents",
+    "conversation_opener": "I'm interested in kira's transition from conversation to completed workflow. I saw your Singapore Software Engineer Intern vacancy, including retrieval, tool use and evaluation. Which reliability problem could an intern take ownership of?",
+    "questions": [
+      "The Software Engineer Intern description calls the role AI Engineer: what is the actual intern scope, mentoring arrangement and compensation?",
+      "How do you test safe tool calls and preserve context when kira hands a conversation to staff?",
+      "Can you accept a non-credit-bearing NUS-ISS Student Pass intern, what start date and duration apply, and is EP sponsorship available for future full-time employment?"
+    ],
+    "learning": [
+      "Prepare an agent evaluation set covering incorrect retrieval, ambiguous patient requests, failed tools and required human escalation; measure task completion and latency.",
+      "Explain idempotent appointment-booking APIs, conversation state, access controls and audit logs using synthetic data."
+    ],
+    "roles": [
+      {
+        "title": "Software Engineer Intern",
+        "url": "https://boards.briohr.com/keyreplypteltd-j0zjhzlual/details/6a3ba30a5883050e3836aaa7",
+        "location": "Singapore",
+        "status": "verified-open",
+        "type": "Internship (official ATS); body says AI Engineer",
+        "eligibility": "Requires GPA 4.0/5 or equivalent; Python, JavaScript, modern agent frameworks, coding-agent proficiency and independent debugging. No minimum years stated; GPA eligibility unconfirmed.",
+        "fit": "Strong agents/evaluation fit. Confirm mentorship, compensation and precise scope. LinkedIn labels employment Volunteer; ATS says Internship, so paid status is unresolved.",
+        "source_note": "Actual employer BrioHR vacancy opened from current board, with full duties and APPLY link. Speech, retrieval, tool use and evaluation specified. No absolute posting/closing date shown."
+      },
+      {
+        "title": "Client Support Engineer",
+        "url": "https://boards.briohr.com/keyreplypteltd-j0zjhzlual/details/6a143735bf4b3346d8e901f8",
+        "location": "Singapore",
+        "status": "verified-open",
+        "type": "Entry level / Associate; employment arrangement unstated",
+        "eligibility": "Needs software/systems/security foundation, regulated-system exposure, APIs/logs and identity/access knowledge. Formal security training/certification OR direct secure-enterprise experience required; Security+ mentioned.",
+        "fit": "Adjacent technical-support path, not product development. Security-specific evidence is a potential blocker; no hard experience-year minimum listed.",
+        "source_note": "Full official ATS vacancy opened with APPLY link; explicitly requires clear professional English. No absolute posting/closing date shown."
+      },
+      {
+        "title": "Business Analyst Intern",
+        "url": "https://boards.briohr.com/keyreplypteltd-j0zjhzlual/details/6a3ba356588305486636aaaa",
+        "location": "Singapore",
+        "status": "verified-open",
+        "type": "Internship",
+        "eligibility": "Minimum GPA 4.0/5 or 3.4/4; relevant analytical/information-systems background and communication. Candidate GPA eligibility unconfirmed.",
+        "fit": "Useful AI-delivery/data-analysis alternative: workflows, conversation-log analysis with Excel/SQL and user acceptance testing; less coding than engineering internship.",
+        "source_note": "Full official ATS vacancy opened from current board with APPLY link. No absolute posting/closing date shown."
+      }
+    ],
+    "opportunity_status": "Three Singapore vacancies verified on the employer's BrioHR board. Software internship is the strongest technical match; GPA and inconsistent role/employment labels need clarification. Non-Singapore Client Solutions Associate was inspected and excluded.",
+    "eligibility_note": "EP sponsorship, non-credit-bearing Student Pass acceptance, intake date and duration are unknown. Candidate has no Chinese proficiency; no Chinese requirement was found in these descriptions. Clear English is explicit for support. Do not assume GPA thresholds are met or that an internship is paid.",
+    "sources": [
+      {"title": "Rezonate official About page", "url": "https://www.getrezonate.com/about", "note": "Confirms KeyReply-to-Rezonate identity and governed workflow/human escalation focus; distinguishes it from unrelated Rezonate brands."},
+      {"title": "Rezonate healthcare workflows", "url": "https://getrezonate.com/healthcare", "note": "Opened official description of scheduling, intake, follow-up and provider-approved pathways."},
+      {"title": "Rezonate employer careers board", "url": "https://boards.briohr.com/keyreplypteltd-j0zjhzlual", "note": "Live board branded Careers at Rezonate under legacy KeyReply tenant; links reviewed Singapore roles."},
+      {"title": "Software Engineer Intern official ATS vacancy", "url": "https://boards.briohr.com/keyreplypteltd-j0zjhzlual/details/6a3ba30a5883050e3836aaa7", "note": "Full description and APPLY link inspected, including GPA and technical requirements; body calls role AI Engineer."},
+      {"title": "Client Support Engineer official ATS vacancy", "url": "https://boards.briohr.com/keyreplypteltd-j0zjhzlual/details/6a143735bf4b3346d8e901f8", "note": "Full Singapore entry/associate vacancy inspected; security capability requirements recorded."},
+      {"title": "Business Analyst Intern official ATS vacancy", "url": "https://boards.briohr.com/keyreplypteltd-j0zjhzlual/details/6a3ba356588305486636aaaa", "note": "Full Singapore internship inspected; GPA threshold and SQL/Excel analytical work recorded."},
+      {"title": "KeyReply employer-published software internship on LinkedIn", "url": "https://sg.linkedin.com/jobs/view/software-engineer-intern-at-keyreply-4446602600", "note": "Actual page body names Rezonate. Volunteer metadata conflicts with official ATS Internship; no assumption about pay."}
+    ],
+    "checked_at": "2026-10-22T13:08:18+08:00"
+  },
+  {
+    "id": "trampolene",
+    "name": "Trampolene",
+    "website": "https://trampolene.org/",
+    "careers_url": "https://sg.linkedin.com/company/trampolene",
+    "summary": "Singapore nonprofit supporting neurodiverse young people through skills development, employment preparation and job coaching. Its official site describes training, guided coaching and professional development services.",
+    "products": [
+      "Skills training and guided coaching to build work habits and support suitable employment pathways.",
+      "Professional growth and development support during and after job placement."
+    ],
+    "fit_reason": "Explore the event guide's potential software/AI/data projects for social-service operations. Public coaching and social-media internships do not establish an engineering opening, and beneficiary placement services must not be confused with jobs on the internal technology team.",
+    "priority": "explore",
+    "tags": ["social impact", "inclusive employment", "accessibility", "workflow software", "data analytics"],
+    "resume_track": "software-backend",
+    "conversation_opener": "Your TalentXperience guide mentions software, AI and data projects. I'm interested in building tools that help coaches spend more time supporting people. Is there a supervised technical internship distinct from the coaching placements?",
+    "questions": [
+      "What specific software or data project is available: coach administration, progress tracking, employer matching or another workflow?",
+      "Who would supervise engineering work, and how do coaches and neurodiverse users participate in accessibility and usability reviews?",
+      "Is this a paid internal technical internship, can it be non-credit-bearing for a Student Pass holder, and what duration and work-pass support apply?"
+    ],
+    "learning": [
+      "Prepare an accessible coach-workflow prototype concept with plain language, predictable navigation and user-controlled interaction; explain how you would test it with users.",
+      "Design a minimal progress-tracking data model with consent, role-based access, careful outcome definitions and exportable reports; avoid automated judgments about people."
+    ],
+    "roles": [],
+    "opportunity_status": "No Singapore software/AI/data/cloud vacancy verified. Official organisation page and an actual employer-published Job Coaching Intern vacancy were inspected; coaching is outside the requested technical track. Event project interests remain unconfirmed leads.",
+    "eligibility_note": "No technical vacancy terms found: experience minimum, pay, sponsorship, non-credit Student Pass acceptance, languages and intake duration are unknown. Coaching-specific terms must not be transferred to a hypothetical engineering internship. Candidate needs EP sponsorship and has no Chinese proficiency; do not infer beneficiary-programme eligibility.",
+    "sources": [
+      {"title": "Trampolene official services", "url": "https://trampolene.org/", "note": "Opened live: skills training, guided coaching, employment support and professional development; no technical vacancy shown."},
+      {"title": "Trampolene official organisation page", "url": "https://sg.linkedin.com/company/trampolene", "note": "Employer-owned profile identifies Singapore nonprofit and its mission; use as a hiring-discovery route, not proof of a technical opening. No dedicated working careers page verified."},
+      {"title": "Trampolene employer-published Job Coaching Intern", "url": "https://sg.linkedin.com/jobs/view/job-coaching-intern-at-trampolene-4474219872", "note": "Actual vacancy opened to distinguish a coaching internship from technical work; excluded from target roles."}
+    ],
+    "checked_at": "2026-10-22T13:08:18+08:00"
+  }
+]

@@ -1,0 +1,169 @@
+{
+  "name": "Guruprasath Gopal",
+  "email": "guruprasath3200@gmail.com",
+  "phone": "8741 6283",
+  "linkedin": "https://www.linkedin.com/in/guruprasath3200/",
+  "github": "https://github.com/Collaboration95",
+  "answers": [
+    {
+      "id": "target_locations",
+      "value": [
+        "Singapore"
+      ],
+      "status": "user_confirmed",
+      "scope": "Singapore",
+      "source_id": "user-confirmations-2026-10-18",
+      "confirmed_at": "2026-10-18T16:04:40.763728+08:00",
+      "review_due_at": "2026-11-17T16:04:40.763728+08:00",
+      "valid_until": null
+    },
+    {
+      "id": "full_time_availability",
+      "value": "Immediate, as confirmed on 2026-10-18",
+      "status": "user_confirmed",
+      "scope": "Singapore",
+      "source_id": "user-confirmations-2026-10-18",
+      "confirmed_at": "2026-10-18T16:04:40.763728+08:00",
+      "review_due_at": "2026-11-17T16:04:40.763728+08:00",
+      "valid_until": null
+    },
+    {
+      "id": "internship_availability",
+      "value": "Immediate, as confirmed on 2026-10-18",
+      "status": "user_confirmed",
+      "scope": "Singapore",
+      "source_id": "user-confirmations-2026-10-18",
+      "confirmed_at": "2026-10-18T16:04:40.763728+08:00",
+      "review_due_at": "2026-11-17T16:04:40.763728+08:00",
+      "valid_until": null
+    },
+    {
+      "id": "sponsorship_required",
+      "value": true,
+      "status": "user_confirmed",
+      "scope": "Singapore",
+      "source_id": "user-confirmations-2026-10-18",
+      "confirmed_at": "2026-10-18T16:04:40.763728+08:00",
+      "review_due_at": "2026-11-17T16:04:40.763728+08:00",
+      "valid_until": null
+    },
+    {
+      "id": "sponsorship_type",
+      "value": "Employment Pass (EP)",
+      "status": "user_confirmed",
+      "scope": "Singapore",
+      "source_id": "user-confirmations-2026-10-18",
+      "confirmed_at": "2026-10-18T16:04:40.763728+08:00",
+      "review_due_at": "2026-11-17T16:04:40.763728+08:00",
+      "valid_until": null
+    },
+    {
+      "id": "current_immigration_pass",
+      "value": "Student Pass",
+      "status": "user_confirmed",
+      "scope": "Singapore",
+      "source_id": "user-live-run-confirmations-2026-10-18",
+      "confirmed_at": "2026-10-18T17:22:26.733008+08:00",
+      "review_due_at": "2026-11-17T17:22:26.733008+08:00",
+      "valid_until": null
+    },
+    {
+      "id": "credit_bearing_internship",
+      "value": false,
+      "status": "user_confirmed",
+      "scope": "Internship applications: placement is not credit-bearing; no academic-credit or school-credit requirement should be claimed.",
+      "source_id": "user-non-credit-bearing-internship-2026-10-18",
+      "confirmed_at": "2026-10-18T22:14:34.853846+08:00",
+      "review_due_at": "2026-11-17T22:14:34.853846+08:00",
+      "valid_until": null
+    },
+    {
+      "id": "nus_expected_completion",
+      "value": "2027-08",
+      "status": "user_confirmed",
+      "scope": "Singapore",
+      "source_id": "user-confirmations-2026-10-18",
+      "confirmed_at": "2026-10-18T16:04:40.763728+08:00",
+      "review_due_at": "2026-11-17T16:04:40.763728+08:00",
+      "valid_until": null
+    },
+    {
+      "id": "part_time_hours_per_week",
+      "value": 16,
+      "status": "user_confirmed",
+      "scope": "Singapore",
+      "source_id": "user-confirmations-2026-10-21",
+      "confirmed_at": "2026-10-21T12:00:00+08:00",
+      "review_due_at": "2026-11-20T12:00:00+08:00",
+      "valid_until": null
+    },
+    {
+      "id": "work_arrangement",
+      "value": "Any (on-site, hybrid or remote) within Singapore",
+      "status": "user_confirmed",
+      "scope": "Singapore",
+      "source_id": "user-confirmations-2026-10-21",
+      "confirmed_at": "2026-10-21T12:00:00+08:00",
+      "review_due_at": "2026-11-20T12:00:00+08:00",
+      "valid_until": null
+    },
+    {
+      "id": "salary_expectations",
+      "value": {
+        "amount": 5000,
+        "currency": "SGD",
+        "period": "month",
+        "basis": null
+      },
+      "status": "user_confirmed",
+      "scope": "Singapore",
+      "source_id": "user-live-run-confirmations-2026-10-18",
+      "confirmed_at": "2026-10-18T17:22:26.733008+08:00",
+      "review_due_at": "2026-11-17T17:22:26.733008+08:00",
+      "valid_until": null
+    },
+    {
+      "id": "chinese_proficiency",
+      "value": "None",
+      "status": "user_confirmed",
+      "scope": "Chinese language proficiency questions",
+      "source_id": "user-confirmation-language-work-category",
+      "confirmed_at": "2026-10-18T18:47:02.127803+08:00",
+      "review_due_at": "2026-11-17T18:47:02.127803+08:00",
+      "valid_until": null
+    }
+  ],
+  "master_id": "master-2026-10-18-v2",
+  "intro": "I\u2019m Guru, an NUS-ISS MTech Software Engineering student. I\u2019ve built AWS data and observability pipelines at BugRaid AI, and projects spanning AI agents, health analytics and full-stack applications. I\u2019m looking for a Singapore software, AI or data engineering internship where I can own a useful piece of a real system.",
+  "logistics": "I can start immediately. My MTech runs to August 2027. My internship is non-credit-bearing; I\u2019m on a Student Pass and require EP sponsorship. Which internship route and pass requirements apply to this team?",
+  "practice": [
+    {
+      "title": "BugRaid: a reliable ingestion pipeline",
+      "situation": "Metrics, events, logs and traces came from several systems.",
+      "action": "Designed ingestion and transformation from SigNoz, S3, Loki, Prometheus and custom sources; deployed containerised services through ECR to ECS.",
+      "result": "Explain how you handled schema variation, duplicate data, failures and autoscaling. Use only outcomes you can substantiate.",
+      "question": "What happens when an upstream source is late, malformed or replayed?"
+    },
+    {
+      "title": "TalkToIt: private health analytics",
+      "situation": "Apple Health imports needed efficient processing and usable queries.",
+      "action": "Used memory-mapped XML scanning, parallel processing, Parquet and DuckDB, with coverage checks and staged database activation.",
+      "result": "Connect the design to keeping raw records local and making provider failures survivable.",
+      "question": "How did you verify that a faster import still preserved coverage and correctness?"
+    },
+    {
+      "title": "ResearchAgent: bounded agent decisions",
+      "situation": "Evidence gathering and payment investigation needed clear boundaries.",
+      "action": "Combined deterministic transaction analysis, BM25 retrieval, function calling, grounded citations and a no-LLM fallback.",
+      "result": "Explain budget enforcement, source allowlists and when the system declines to buy or infer.",
+      "question": "Which controls live on the server rather than relying on the model to follow a prompt?"
+    },
+    {
+      "title": "Primech: deployment and maintainability",
+      "situation": "A personnel app had manual deployment and a legacy codebase.",
+      "action": "Added GitHub Actions workflows and runbooks, documented APIs and architecture, and improved UX.",
+      "result": "The current master records deployment time falling from 20 minutes to 3 minutes. Explain the baseline and your own contribution.",
+      "question": "What would you roll back first if deployment succeeded but the app failed?"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "company_id": "rezonate",
+  "company_name": "Rezonate",
+  "path_base": ".",
+  "packaged_at": "2026-10-22T13:22:48.891889+08:00",
+  "source_master_id": "master-2026-10-18-v2",
+  "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+  "source_master": {
+    "id": "master-2026-10-18-v2",
+    "path": "sources/master-2026-10-18-v2.md",
+    "sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e"
+  },
+  "pdf": {
+    "path": "rezonate.pdf",
+    "sha256": "56d9a3378195be68e94884aabad6bde76b669f8eacfd8a7b1128cb25a0f2df0d",
+    "page_count": 2
+  },
+  "markdown": {
+    "path": "rezonate.md",
+    "sha256": "1a8b7c539a325086ee8855513dcf28950d730518a87e3c9bd298e42552366d79"
+  },
+  "draft_manifest": {
+    "preset": "talentx-rezonate",
+    "preset_configuration": {
+      "projects": [
+        "researchagent",
+        "talktoit",
+        "common-grounds-makeathon"
+      ],
+      "bullets_per_project": 2
+    },
+    "source_master_id": "master-2026-10-18-v2",
+    "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+    "selected_projects": [
+      {
+        "id": "researchagent",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "814806fdd505b40f66f5b47cfba3c43d80df9c736cb1121b00cd928fa048c098",
+        "bullet_ids": [
+          "researchagent-cv-01",
+          "researchagent-cv-02"
+        ]
+      },
+      {
+        "id": "talktoit",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+        "bullet_ids": [
+          "talktoit-ingest",
+          "talktoit-fullstack"
+        ]
+      },
+      {
+        "id": "common-grounds-makeathon",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+        "bullet_ids": [
+          "commons-loop",
+          "commons-realtime"
+        ]
+      }
+    ],
+    "draft_id": "talentx-rezonate-49bd8598f2c6",
+    "status": "draft",
+    "created_at": "2026-10-22T13:22:23.211299+08:00",
+    "path": "rezonate.md",
+    "sha256": "1a8b7c539a325086ee8855513dcf28950d730518a87e3c9bd298e42552366d79"
+  },
+  "release": {
+    "id": "talentx-rezonate-2026-10-22-v2",
+    "scope": "talentx-rezonate",
+    "purpose": "application",
+    "status": "active",
+    "path": "rezonate.pdf",
+    "sha256": "56d9a3378195be68e94884aabad6bde76b669f8eacfd8a7b1128cb25a0f2df0d",
+    "released_at": "2026-10-22T13:22:48.833130+08:00",
+    "effective_from": "2026-10-22T13:22:48.833130+08:00",
+    "review_due_at": "2026-11-21T13:22:48.833130+08:00",
+    "valid_until": null,
+    "supersedes": "talentx-rezonate-2026-10-22-v1",
+    "superseded_by": null,
+    "source_master_id": "master-2026-10-18-v2",
+    "selected_projects": [
+      {
+        "id": "researchagent",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "814806fdd505b40f66f5b47cfba3c43d80df9c736cb1121b00cd928fa048c098",
+        "bullet_ids": [
+          "researchagent-cv-01",
+          "researchagent-cv-02"
+        ]
+      },
+      {
+        "id": "talktoit",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+        "bullet_ids": [
+          "talktoit-ingest",
+          "talktoit-fullstack"
+        ]
+      },
+      {
+        "id": "common-grounds-makeathon",
+        "updated_at": "2026-10-18T16:40:24.651385+08:00",
+        "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+        "bullet_ids": [
+          "commons-loop",
+          "commons-realtime"
+        ]
+      }
+    ],
+    "original_source": null,
+    "selected_with_master_id": null,
+    "draft_provenance": {
+      "preset": "talentx-rezonate",
+      "preset_configuration": {
+        "projects": [
+          "researchagent",
+          "talktoit",
+          "common-grounds-makeathon"
+        ],
+        "bullets_per_project": 2
+      },
+      "source_master_id": "master-2026-10-18-v2",
+      "source_master_sha256": "61912d5e78f03a800f24d96d6a4e313a9669ae4b31473ba1a80adab8669f328e",
+      "selected_projects": [
+        {
+          "id": "researchagent",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "814806fdd505b40f66f5b47cfba3c43d80df9c736cb1121b00cd928fa048c098",
+          "bullet_ids": [
+            "researchagent-cv-01",
+            "researchagent-cv-02"
+          ]
+        },
+        {
+          "id": "talktoit",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+          "bullet_ids": [
+            "talktoit-ingest",
+            "talktoit-fullstack"
+          ]
+        },
+        {
+          "id": "common-grounds-makeathon",
+          "updated_at": "2026-10-18T16:40:24.651385+08:00",
+          "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+          "bullet_ids": [
+            "commons-loop",
+            "commons-realtime"
+          ]
+        }
+      ],
+      "draft_id": "talentx-rezonate-49bd8598f2c6",
+      "status": "draft",
+      "created_at": "2026-10-22T13:22:23.211299+08:00",
+      "path": "rezonate.md",
+      "sha256": "1a8b7c539a325086ee8855513dcf28950d730518a87e3c9bd298e42552366d79"
+    },
+    "notes": "TalentXperience: Rezonate. Grounded retrieval and tool-using agents, health analytics and validated code generation for AI healthcare workflows. Two-page PDF inspected; faithful helper draft; credential links disabled."
+  },
+  "release_id": "talentx-rezonate-2026-10-22-v2",
+  "review_due_at": "2026-11-21T13:22:48.833130+08:00",
+  "selected_projects": [
+    {
+      "id": "researchagent",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "814806fdd505b40f66f5b47cfba3c43d80df9c736cb1121b00cd928fa048c098",
+      "bullet_ids": [
+        "researchagent-cv-01",
+        "researchagent-cv-02"
+      ]
+    },
+    {
+      "id": "talktoit",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "f62e24a58ffd634f0c5a433ad36e40b4ce47c4f28de9078c4df1f4402540d236",
+      "bullet_ids": [
+        "talktoit-ingest",
+        "talktoit-fullstack"
+      ]
+    },
+    {
+      "id": "common-grounds-makeathon",
+      "updated_at": "2026-10-18T16:40:24.651385+08:00",
+      "content_hash": "2b720656e426540dc4e642eb2003afd53ac1d0381b7186f5c3e1cc3cb8bed6cc",
+      "bullet_ids": [
+        "commons-loop",
+        "commons-realtime"
+      ]
+    }
+  ],
+  "tailoring_note": "Grounded retrieval and tool-using agents, health analytics and validated code generation for AI healthcare workflows.",
+  "verification": {
+    "text_matches_helper_draft": true,
+    "all_pages_visually_inspected": true,
+    "credential_hyperlinks": false,
+    "resolved_before_copy": true
+  }
+}
