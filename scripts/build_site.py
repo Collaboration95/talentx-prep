@@ -6,6 +6,7 @@ from zoneinfo import ZoneInfo
 import hashlib
 import json
 import zipfile
+import copy
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -45,24 +46,59 @@ def build():
             info = zipfile.ZipInfo(str(master.relative_to(ROOT)), date_time=(2026, 10, 22, 0, 0, 0))
             info.compress_type = zipfile.ZIP_DEFLATED
             archive.writestr(info, master.read_bytes())
+    # A real directory entry supports /guru and /guru/ on static GitHub Pages.
+    guru = ROOT / 'guru'
+    guru.mkdir(exist_ok=True)
+    entry = (ROOT / 'index.html').read_text().replace('<html lang="en">', '<html lang="en" data-audience="guru">')
+    entry = entry.replace('<head>', '<head>\n  <base href="../">')
+    entry = entry.replace('src="data.js"', 'src="guru/data.js"')
+    entry = entry.replace('href="manifest.webmanifest"', 'href="guru/manifest.webmanifest"')
+    entry = entry.replace('</nav>', '<a href="#personal" data-nav="personal">Guru’s kit</a></nav>')
+    (guru / 'index.html').write_text(entry)
+    manifest = read('manifest.webmanifest')
+    manifest.update(name='TalentXperience 2026 · Guru', short_name='Guru TalentX', start_url='./', scope='../')
+    for icon in manifest['icons']:
+        icon['src'] = '../' + icon['src']
+    (guru / 'manifest.webmanifest').write_text(json.dumps(manifest) + '\n')
+    shared_event = copy.deepcopy(event)
+    shared_event.pop('plan')
+    (ROOT / 'data/shared-event.json').write_text(json.dumps(shared_event, indent=2, ensure_ascii=False) + '\n')
+    shared_companies = copy.deepcopy(companies)
+    overrides = read('research/shared-overrides.json')
+    for company in shared_companies:
+        for field in ['fit_reason', 'conversation_opener', 'priority', 'resume_track']:
+            company.pop(field, None)
+        company.update(overrides[company['id']])
+        company['questions'] = company['questions'][:2] + ['What enrolment, academic-credit, start-date, duration and work-pass requirements apply to this placement?']
+        for role in company['roles']:
+            role.pop('fit', None)
+            role['eligibility'] = role['eligibility'].replace('Candidate GPA eligibility unconfirmed.', 'Applicants should check the stated GPA threshold.')
+        for source in company['sources']:
+            source['note'] = source['note'].replace('Not selected as a close candidate match.', 'Requires Android-specific experience.')
     files = ['.', 'index.html', 'style.css', 'app.js', 'data.js', 'assets/icon.svg', 'manifest.webmanifest', 'event.ics', 'assets/fonts/fonts.css']
     files += [str(p.relative_to(ROOT)) for p in sorted((ROOT / 'assets/fonts').glob('*.ttf'))]
-    files += [r[field] for r in resumes for field in ['pdf', 'markdown', 'provenance']]
-    files += ['resumes/index.json', 'resumes/talentx-resume-pack.zip', 'data/profile.json', 'data/event.json', 'README.md']
-    files += [str(p.relative_to(ROOT)) for p in sorted((ROOT / 'resumes/sources').glob('*.md'))]
+    files += ['data/shared-event.json']
+    personal_files = files + ['guru/', 'guru/index.html', 'guru/data.js', 'guru/manifest.webmanifest']
+    personal_files += [r[field] for r in resumes for field in ['pdf', 'markdown', 'provenance']]
+    personal_files += ['resumes/index.json', 'resumes/talentx-resume-pack.zip', 'data/profile.json', 'data/event.json', 'README.md']
+    personal_files += [str(p.relative_to(ROOT)) for p in sorted((ROOT / 'resumes/sources').glob('*.md'))]
     content = json.dumps({'event': event, 'profile': profile, 'companies': companies, 'resumes': resumes}, sort_keys=True)
-    version_material = content + ''.join(path + hashlib.sha256((ROOT / path).read_bytes()).hexdigest() for path in files if path not in {'.', 'data.js'})
+    content += json.dumps(shared_companies, sort_keys=True)
+    version_material = content + ''.join(path + hashlib.sha256((ROOT / path).read_bytes()).hexdigest() for path in personal_files if path not in {'.', 'guru/', 'data.js', 'guru/data.js'})
     version = hashlib.sha256(version_material.encode()).hexdigest()[:12]
     cache_name = 'talentx-' + version
-    data = {'event': event, 'profile': profile, 'companies': companies, 'resumes': resumes,
+    data = {'audience': 'shared', 'event': shared_event, 'companies': shared_companies,
             'built_at': datetime.now(ZoneInfo('Asia/Singapore')).isoformat(),
             'repository_url': 'https://github.com/Collaboration95/talentx-prep',
             'site_url': 'https://collaboration95.github.io/talentx-prep/',
             'offline_cache': cache_name, 'offline_files': files}
     (ROOT / 'data.js').write_text('window.TALENTX = ' + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + ';\n')
+    personal = {**data, 'audience': 'guru', 'event': event, 'profile': profile, 'resumes': resumes,
+                'companies': companies, 'offline_files': personal_files}
+    (guru / 'data.js').write_text('window.TALENTX = ' + json.dumps(personal, ensure_ascii=False, separators=(',', ':')) + ';\n')
     core = ['.', 'index.html', 'style.css', 'app.js', 'data.js', 'assets/icon.svg', 'manifest.webmanifest', 'assets/fonts/fonts.css']
     core += [str(p.relative_to(ROOT)) for p in sorted((ROOT / 'assets/fonts').glob('*.ttf'))]
-    hashes = {path: hashlib.sha256((ROOT / path).read_bytes()).hexdigest() for path in files if path not in core}
+    hashes = {path: hashlib.sha256((ROOT / path).read_bytes()).hexdigest() for path in personal_files if path not in core and path != 'guru/'}
     sw = """/* Generated by scripts/build_site.py. Scope is this project only. */
 const CACHE = __CACHE__;
 const CORE = __CORE__;
@@ -108,7 +144,9 @@ self.addEventListener('fetch', event => {
     const cached = await activeCache.match(event.request);
     if (cached) return cached;
     if (event.request.mode === 'navigate' && !/\\.[a-z0-9]+$/i.test(url.pathname)) {
-      const shell = await activeCache.match(new URL('index.html', self.registration.scope).href);
+      const relative = url.pathname.slice(new URL(self.registration.scope).pathname.length);
+      const entry = relative === 'guru' || relative.startsWith('guru/') ? 'guru/index.html' : 'index.html';
+      const shell = await activeCache.match(new URL(entry, self.registration.scope).href);
       if (shell) return shell;
     }
     return new Response('This file is not saved offline. Reconnect and use Prep kit → Save offline.', {status:503, headers:{'Content-Type':'text/plain; charset=utf-8'}});

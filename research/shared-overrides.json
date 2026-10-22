@@ -1,0 +1,74 @@
+{
+  "1fss": {
+    "opportunity_status": "No matching technical vacancy verified. The event guide lists potential AI/ML and analytics internship focus; the careers page lists finance and HR positions.",
+    "eligibility_note": "Technical internship intake, duration, academic-credit requirements, working languages and work-pass support are not confirmed."
+  },
+  "ailytics": {
+    "opportunity_status": "Junior DevOps Engineer and Data Annotation Intern vacancies verified for Singapore. A backend vacancy is advertised for APAC remote work, with at least three professional years of Python and Django required.",
+    "eligibility_note": "Confirm the internship duration, academic-credit or school requirements, work-pass support and working languages. Junior DevOps includes practical networking and hardware deployment; backend employment location needs checking."
+  },
+  "ajentik-ai": {
+    "opportunity_status": "Technical role cards found, but detailed vacancies and an internship intake were not verified. The advertised application destinations are generic contact forms.",
+    "eligibility_note": "Experience minimum, internship intake, duration, academic-credit requirements, work-pass support and working languages are not confirmed."
+  },
+  "cygnus-med": {
+    "opportunity_status": "No current Singapore technical internship or early-career vacancy verified. The contact page welcomes career enquiries; this is an enquiry route, not a confirmed opening.",
+    "eligibility_note": "No published vacancy terms were verified. Ask about experience, internship duration, pay, school and academic-credit requirements, working languages and work-pass support."
+  },
+  "dhl-express": {
+    "opportunity_status": "Official careers and internship routes verified; no matching Singapore DHL Express technical vacancy was verified on an actual vacancy page. Other DHL divisions have separate hiring routes.",
+    "eligibility_note": "Confirm the hiring division and its internship intake, duration, school and academic-credit requirements, working languages and work-pass support."
+  },
+  "fano-labs": {
+    "opportunity_status": "Singapore Forward Deployed Engineer Intern vacancy verified on an employer-published LinkedIn page: four months starting in late October 2026. The official jobs portal did not expose readable vacancy details.",
+    "eligibility_note": "Confirm the four-month study commitment, working languages, academic-credit and school requirements, pay and work-pass support. Multilingual products do not establish a Chinese-language hiring requirement."
+  },
+  "julius-baer": {
+    "opportunity_status": "No current matching Singapore vacancy verified. The GPS associate lead has a past deadline. General summer and off-cycle programme pages are not proof of a live local role.",
+    "eligibility_note": "The general summer programme describes a July start and ten weeks, with enrolment from second year onward. Confirm separate off-cycle intake conditions, duration, school requirements and work-pass support."
+  },
+  "keysight-technologies": {
+    "opportunity_status": "Two relevant Singapore internship leads found on the official ATS. Direct vacancy pages returned HTTP 403, so current applications and eligibility remain unverified.",
+    "eligibility_note": "Indexed descriptions request current bachelor’s or master’s enrolment in a relevant discipline. Confirm the actual vacancy requirements, academic-credit conditions, intake, duration, working languages and work-pass support."
+  },
+  "mediacorp": {
+    "opportunity_status": "Official internship programme and careers route verified. The dynamic vacancy portal was unreadable; no named Singapore technical internship was verified.",
+    "eligibility_note": "The programme targets full-time students, lists NUS among partner institutions and permits self-sourced enquiries. Confirm programme-specific eligibility, academic-credit conditions, duration, working languages and work-pass support."
+  },
+  "national-dental-centre-singapore": {
+    "opportunity_status": "Associate Principal Analyst, Data Science vacancy verified with a minimum three years of hands-on process-automation experience. No technical internship vacancy was verified; ask about the event project’s separate route.",
+    "eligibility_note": "The published vacancy requires at least three years of process automation. Internship intake, school and academic-credit requirements, working languages, duration and work-pass support remain unconfirmed."
+  },
+  "octomate": {
+    "opportunity_status": "No matching direct product-team technical internship verified. The job-seeker portal returned placeholder titles. Event analytics and project-management themes remain potential discussion areas.",
+    "eligibility_note": "Confirm the employing entity, direct versus client placement, internship intake, duration, school and academic-credit requirements, working languages and work-pass support."
+  },
+  "rezonate": {
+    "opportunity_status": "Three Singapore vacancies verified on the employer’s BrioHR board: Software Engineer Intern, Business Analyst Intern and Client Support Engineer. Internship role labels and paid status need clarification.",
+    "eligibility_note": "The engineering internship specifies GPA 4.0/5 or equivalent; the business analyst internship specifies 4.0/5 or 3.4/4. Confirm compensation, intake, duration, academic-credit conditions and work-pass support. Clear professional English is explicit for support."
+  },
+  "sap-fioneer": {
+    "opportunity_status": "Official careers and Workable routes verified. One Singapore Business Analyst internship is an unverified lead because the detailed vacancy was unreadable. No live Singapore technical opening was confirmed.",
+    "eligibility_note": "Confirm the actual vacancy, programme enrolment and academic-credit conditions, intake, duration, working languages and work-pass support."
+  },
+  "smrt": {
+    "opportunity_status": "Two official technical vacancies verified: Ops Analysis & Technology and System Integration & Support. The internship programme directs students to school portals or career offices; no named technical internship was verified.",
+    "eligibility_note": "Ops Analysis & Technology lists 3–6 years of relevant experience. System Integration & Support describes 3–4 years as preferred. Confirm internship school routing, academic-credit requirements, intake, duration and work-pass support."
+  },
+  "singlife": {
+    "opportunity_status": "Corporate careers portal verified, but vacancy details were unreadable. No current technical role verified. The 2026 Management Associate Programme is closed and limited to citizens and permanent residents.",
+    "eligibility_note": "The Management Associate Programme restriction is programme-specific; do not extend it to all jobs. Confirm separate technical internship intake, school and academic-credit requirements, duration, working languages and work-pass support."
+  },
+  "trainocate": {
+    "opportunity_status": "No matching Singapore junior software internship verified. AWS Career Launchpad is a programme, not a specific vacancy, and is limited to citizens and permanent residents. A historical instructor advert is past deadline.",
+    "eligibility_note": "AWS Career Launchpad has a citizen/PR eligibility restriction. Direct internal internships may have different rules; ask about intake, duration, school and academic-credit requirements, working languages and work-pass support."
+  },
+  "trampolene": {
+    "opportunity_status": "No Singapore technical vacancy verified. An employer-published job-coaching internship was inspected, but it is a different type of work from the event’s potential software, AI and data projects.",
+    "eligibility_note": "No technical vacancy terms were verified. Ask about supervision, pay, intake, duration, school and academic-credit requirements, working languages and work-pass support."
+  },
+  "yokogawa-engineering": {
+    "opportunity_status": "Official Singapore careers and Workday routes verified. No matching Singapore technical vacancy was verified because the vacancy portal did not expose readable details.",
+    "eligibility_note": "Confirm the actual Singapore employing entity, project team, internship intake, duration, school and academic-credit requirements, working languages and work-pass support."
+  }
+}

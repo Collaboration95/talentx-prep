@@ -14,7 +14,7 @@ const readResponse = async input => {
   if (!online) throw Error('Simulated offline');
   const url = new URL(key(input));
   let relative = decodeURIComponent(url.pathname).slice('/talentx-prep/'.length);
-  if (!relative) relative = 'index.html';
+  if (!relative || relative.endsWith('/')) relative += 'index.html';
   const filename = path.join(root, relative);
   return fs.existsSync(filename) ? new Response(fs.readFileSync(filename), {status:200}) : new Response('missing', {status:404});
 };
@@ -46,6 +46,8 @@ async function workerFetch(relative, mode='cors') {
   const previous=await caches.open('talentx-previous');
   await previous.put('resumes/ailytics.pdf',await readResponse('resumes/ailytics.pdf'));
   await previous.put('resumes/rezonate.pdf',new Response('superseded resume'));
+  await previous.put('guru/index.html',await readResponse('guru/index.html'));
+  await previous.put('guru/data.js',await readResponse('guru/data.js'));
   await lifecycle('install');
   await lifecycle('activate');
   assert.equal(stores.has('talentx-previous'),false,'Old cache is removed after migration');
@@ -59,6 +61,12 @@ async function workerFetch(relative, mode='cors') {
   assert.equal(missing.status,503,'A missing PDF must never return the HTML shell');
   const shell=await workerFetch('deep-route','navigate');
   assert.equal(shell.status,200,'Offline app navigation can use the shell');
+  const personalShell=await workerFetch('guru/deep-route','navigate');
+  assert.equal(personalShell.status,200);
+  assert.match(await personalShell.text(),/data-audience="guru"/,'Personal navigation uses its own entry');
+  const sharedData=JSON.parse((await (await workerFetch('data.js')).text()).replace(/^window.TALENTX = /,'').replace(/;\s*$/,''));
+  assert.equal(sharedData.profile,undefined,'Shared cache contains no personal profile');
+  assert.equal(sharedData.resumes,undefined,'Shared cache contains no personal CV manifest');
   let intercepted=false;
   handlers.fetch({request:{url:'https://example.test/unrelated/',method:'GET'},respondWith:()=>intercepted=true});
   assert.equal(intercepted,false,'Worker is scoped to the companion');

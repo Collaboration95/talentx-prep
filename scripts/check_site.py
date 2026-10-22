@@ -12,7 +12,14 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 def check():
-    data = json.loads((ROOT / 'data.js').read_text().removeprefix('window.TALENTX = ').strip().removesuffix(';'))
+    shared = json.loads((ROOT / 'data.js').read_text().removeprefix('window.TALENTX = ').strip().removesuffix(';'))
+    data = json.loads((ROOT / 'guru/data.js').read_text().removeprefix('window.TALENTX = ').strip().removesuffix(';'))
+    assert shared['audience'] == 'shared' and data['audience'] == 'guru'
+    assert 'profile' not in shared and 'resumes' not in shared and 'plan' not in shared['event']
+    assert not re.search(r'guruprasath|guru[’\'s ]|BugRaid|TalkToIt|ResearchAgent|5000', json.dumps(shared), re.I)
+    assert all(not path.startswith(('resumes/', 'guru/')) and path != 'data/profile.json' for path in shared['offline_files'])
+    assert '<base href="../">' in (ROOT / 'guru/index.html').read_text()
+    assert 'src="guru/data.js"' in (ROOT / 'guru/index.html').read_text()
     companies, resumes, event = data['companies'], data['resumes'], data['event']
     assert len(companies) == len(resumes) == 18
     assert {c['id'] for c in companies} == {r['company_id'] for r in resumes} == set(event['booths'])
@@ -26,6 +33,9 @@ def check():
         for r in c['roles']:
             assert r['status'] in {'verified-open', 'closed', 'portal-only', 'unverified'}
             assert r['source_note'] and r['eligibility']
+    for c in shared['companies']:
+        assert 'fit_reason' not in c and 'conversation_opener' not in c
+        assert all('fit' not in r for r in c['roles'])
     for r in resumes:
         path = ROOT / r['pdf']
         assert path.read_bytes().startswith(b'%PDF-')
@@ -51,7 +61,7 @@ def check():
         tracked = subprocess.run(['git', '-C', str(ROOT), 'ls-files'], text=True, capture_output=True, check=True).stdout.splitlines()
         assert not any(p.startswith('.local/') or 'Company Guide' in p or 'Student_Briefing' in p for p in tracked)
         assert all(not p.endswith('.pdf') or p.startswith('resumes/') for p in tracked)
-    print(f'PASS: {len(companies)} companies, 16 booths, 8 sessions; 18 resume hashes; offline assets; publication boundary')
+    print(f'PASS: shared/personal data separated; {len(companies)} companies, 16 booths, 8 sessions; 18 resume hashes; offline assets; publication boundary')
 
 
 if __name__ == '__main__':

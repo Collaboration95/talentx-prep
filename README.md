@@ -2,6 +2,8 @@
 
 Live site: https://collaboration95.github.io/talentx-prep/
 
+The root URL is the shared classmate view. Personal CVs, fit notes, profile answers and the suggested route appear only at https://collaboration95.github.io/talentx-prep/guru/. Both views keep the same expo, research, schedule and general preparation tools. Their notes and offline download lists are separate; the shared entry does not load the personal data bundle. The personal route retains the original browser notes key.
+
 A buildless mobile website for NUS-ISS TalentXperience on **23 October 2026**. The illustrated expo uses the supplied briefing’s actual rooms and floors; booth positions are illustrative.
 
 ## Included
@@ -45,6 +47,6 @@ The site build and checks use only Python’s standard library. They merge the c
 
 The owner explicitly authorised sharing derived event information and personal resume materials. Personal CVs and saved answers are labelled as Guru’s rather than templates for classmates. Notes entered by visitors are stored only in their own browser. Export before changing devices or clearing site data; import replaces that browser’s saved progress. Never commit exported visitor notes.
 
-Offline support saves the application shell automatically. Use **Prep kit → Save guide + CVs offline** to cache all resume downloads and supporting files on that device. External career portals require internet. Offline data can be removed by the browser; downloaded files and exported notes provide independent backups.
+Offline support saves the application shell automatically. Use **Prep kit → Save guide offline** in the shared view, or **Save guide + CVs offline** under `/guru/` to include personal downloads on that device. External career portals require internet. Offline data can be removed by the browser; downloaded files and exported notes provide independent backups.
 
 Research checked on 22 October 2026, Asia/Singapore (UTC+08:00). Listings can close or change; follow the source before applying. No applications or employer messages are sent by this website.
